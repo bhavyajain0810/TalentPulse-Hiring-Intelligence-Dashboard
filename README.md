@@ -2,9 +2,6 @@
 
 TalentPulse is an end-to-end Talent Acquisition Analytics Command Center built to analyze recruitment funnel health, source quality, recruiter productivity, skill demand, offer conversion, candidate drop-off, and hiring velocity. It uses a realistic synthetic hiring dataset and demonstrates Excel dashboards, SQL analysis, Power BI design, DAX measures, and Python automation.
 
-This project is designed as a believable but impressive portfolio project for a Talent Acquisition Analytics Intern role: practical enough to build in 1–2 days, but deep enough to discuss in interviews.
-
-
 ## Business Problem
 
 Talent Acquisition teams often receive applications from many sources such as LinkedIn, referrals, campus hiring, job portals, GitHub search, and recruiter outreach. Without a clean analytics layer, teams struggle to answer questions such as:
