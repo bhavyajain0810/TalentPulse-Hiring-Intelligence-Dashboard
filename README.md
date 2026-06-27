@@ -165,11 +165,3 @@ In Power BI Desktop:
 2. Create relationships using `powerbi/Data_Model.md`
 3. Add DAX measures from `powerbi/DAX_Measures.md`
 4. Build dashboard pages using `powerbi/PowerBI_Dashboard_Blueprint.md`
-
-## Resume Project Bullet
-
-Built TalentPulse, an end-to-end Talent Acquisition Analytics Command Center using Excel, SQL, Power BI concepts, and Python automation to analyze hiring funnel conversion, source quality, recruiter productivity, offer acceptance, time-to-hire, and skill demand across 720 synthetic application records.
-
-## Disclaimer
-
-All records are synthetic and fictional. No real candidate or company data is used.
