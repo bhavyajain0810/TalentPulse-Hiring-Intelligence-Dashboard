@@ -1,0 +1,3512 @@
+candidate_id,skill_id,skill_name,skill_level,years_of_experience
+CAND0001,SK002,Excel,Advanced,2.2
+CAND0001,SK003,Power BI,Beginner,4.5
+CAND0001,SK006,Data Cleaning,Advanced,5.0
+CAND0001,SK007,Dashboarding,Intermediate,4.8
+CAND0001,SK008,Recruitment Analytics,Intermediate,3.2
+CAND0001,SK010,Automation,Beginner,1.8
+CAND0001,SK017,Market Research,Advanced,4.6
+CAND0002,SK002,Excel,Beginner,0.2
+CAND0002,SK004,Python,Beginner,2.5
+CAND0002,SK009,Talent Intelligence,Beginner,2.2
+CAND0002,SK011,Power Automate,Advanced,4.4
+CAND0002,SK012,APIs,Intermediate,3.2
+CAND0002,SK017,Market Research,Advanced,1.5
+CAND0002,SK019,ETL,Beginner,2.7
+CAND0003,SK001,SQL,Advanced,3.8
+CAND0003,SK002,Excel,Advanced,4.3
+CAND0003,SK004,Python,Advanced,4.8
+CAND0003,SK007,Dashboarding,Beginner,2.9
+CAND0003,SK008,Recruitment Analytics,Beginner,2.6
+CAND0003,SK010,Automation,Intermediate,4.7
+CAND0003,SK011,Power Automate,Advanced,2.4
+CAND0003,SK015,Communication,Intermediate,4.4
+CAND0003,SK017,Market Research,Intermediate,0.7
+CAND0003,SK019,ETL,Advanced,1.3
+CAND0004,SK001,SQL,Intermediate,4.1
+CAND0004,SK002,Excel,Advanced,4.9
+CAND0004,SK004,Python,Beginner,3.8
+CAND0004,SK005,Pandas,Intermediate,3.9
+CAND0004,SK008,Recruitment Analytics,Beginner,1.2
+CAND0004,SK015,Communication,Beginner,3.0
+CAND0004,SK016,Problem Solving,Advanced,4.5
+CAND0004,SK018,DAX,Advanced,2.6
+CAND0005,SK001,SQL,Intermediate,0.7
+CAND0005,SK004,Python,Advanced,0.2
+CAND0005,SK008,Recruitment Analytics,Beginner,3.2
+CAND0005,SK012,APIs,Beginner,4.7
+CAND0005,SK014,LLMs,Intermediate,1.1
+CAND0005,SK015,Communication,Advanced,4.4
+CAND0005,SK016,Problem Solving,Beginner,1.1
+CAND0005,SK017,Market Research,Beginner,2.1
+CAND0005,SK018,DAX,Intermediate,1.5
+CAND0006,SK002,Excel,Intermediate,2.4
+CAND0006,SK003,Power BI,Beginner,0.2
+CAND0006,SK006,Data Cleaning,Intermediate,0.5
+CAND0006,SK008,Recruitment Analytics,Beginner,3.6
+CAND0006,SK009,Talent Intelligence,Intermediate,3.5
+CAND0007,SK002,Excel,Beginner,0.5
+CAND0007,SK004,Python,Intermediate,3.6
+CAND0007,SK006,Data Cleaning,Intermediate,0.7
+CAND0007,SK007,Dashboarding,Advanced,4.6
+CAND0007,SK009,Talent Intelligence,Beginner,3.8
+CAND0007,SK017,Market Research,Advanced,4.8
+CAND0007,SK019,ETL,Beginner,3.0
+CAND0008,SK001,SQL,Beginner,1.1
+CAND0008,SK003,Power BI,Beginner,1.5
+CAND0008,SK004,Python,Advanced,3.3
+CAND0008,SK005,Pandas,Beginner,1.0
+CAND0008,SK009,Talent Intelligence,Beginner,0.7
+CAND0008,SK013,Machine Learning,Advanced,0.4
+CAND0008,SK014,LLMs,Beginner,1.7
+CAND0008,SK016,Problem Solving,Advanced,2.3
+CAND0008,SK020,Statistics,Advanced,2.0
+CAND0009,SK001,SQL,Beginner,3.9
+CAND0009,SK004,Python,Beginner,3.1
+CAND0009,SK005,Pandas,Beginner,2.1
+CAND0009,SK013,Machine Learning,Intermediate,3.7
+CAND0009,SK016,Problem Solving,Beginner,2.9
+CAND0010,SK001,SQL,Beginner,2.6
+CAND0010,SK004,Python,Beginner,1.8
+CAND0010,SK011,Power Automate,Advanced,4.8
+CAND0010,SK014,LLMs,Beginner,4.0
+CAND0010,SK018,DAX,Beginner,3.2
+CAND0010,SK019,ETL,Beginner,1.1
+CAND0011,SK001,SQL,Beginner,3.8
+CAND0011,SK003,Power BI,Intermediate,4.4
+CAND0011,SK004,Python,Advanced,2.1
+CAND0011,SK006,Data Cleaning,Beginner,1.1
+CAND0011,SK015,Communication,Beginner,4.1
+CAND0011,SK019,ETL,Intermediate,1.7
+CAND0012,SK004,Python,Beginner,2.4
+CAND0012,SK006,Data Cleaning,Intermediate,1.4
+CAND0012,SK009,Talent Intelligence,Beginner,4.9
+CAND0012,SK014,LLMs,Beginner,4.2
+CAND0012,SK016,Problem Solving,Intermediate,1.6
+CAND0012,SK019,ETL,Beginner,1.1
+CAND0013,SK001,SQL,Beginner,0.9
+CAND0013,SK003,Power BI,Advanced,4.6
+CAND0013,SK004,Python,Advanced,3.7
+CAND0013,SK005,Pandas,Advanced,1.5
+CAND0013,SK011,Power Automate,Advanced,4.2
+CAND0013,SK013,Machine Learning,Intermediate,4.4
+CAND0014,SK001,SQL,Intermediate,2.2
+CAND0014,SK002,Excel,Advanced,2.4
+CAND0014,SK006,Data Cleaning,Intermediate,3.7
+CAND0014,SK007,Dashboarding,Beginner,4.9
+CAND0014,SK011,Power Automate,Advanced,0.8
+CAND0014,SK014,LLMs,Intermediate,4.2
+CAND0014,SK015,Communication,Intermediate,3.0
+CAND0014,SK020,Statistics,Intermediate,0.7
+CAND0015,SK001,SQL,Beginner,1.0
+CAND0015,SK004,Python,Intermediate,2.8
+CAND0015,SK005,Pandas,Intermediate,5.0
+CAND0015,SK018,DAX,Advanced,1.6
+CAND0015,SK019,ETL,Advanced,4.1
+CAND0016,SK001,SQL,Advanced,2.7
+CAND0016,SK003,Power BI,Intermediate,2.4
+CAND0016,SK004,Python,Beginner,2.7
+CAND0016,SK009,Talent Intelligence,Beginner,2.3
+CAND0016,SK014,LLMs,Advanced,2.9
+CAND0016,SK016,Problem Solving,Beginner,4.9
+CAND0016,SK017,Market Research,Beginner,2.9
+CAND0016,SK018,DAX,Intermediate,1.6
+CAND0017,SK001,SQL,Beginner,2.1
+CAND0017,SK002,Excel,Advanced,3.2
+CAND0017,SK003,Power BI,Beginner,4.0
+CAND0017,SK005,Pandas,Beginner,1.5
+CAND0017,SK007,Dashboarding,Intermediate,2.6
+CAND0017,SK010,Automation,Intermediate,2.4
+CAND0017,SK014,LLMs,Beginner,2.6
+CAND0017,SK017,Market Research,Beginner,1.3
+CAND0018,SK001,SQL,Advanced,2.6
+CAND0018,SK003,Power BI,Advanced,0.9
+CAND0018,SK004,Python,Beginner,1.9
+CAND0018,SK006,Data Cleaning,Intermediate,0.2
+CAND0018,SK009,Talent Intelligence,Beginner,3.9
+CAND0018,SK011,Power Automate,Beginner,0.5
+CAND0018,SK012,APIs,Beginner,2.8
+CAND0018,SK014,LLMs,Intermediate,1.4
+CAND0018,SK020,Statistics,Intermediate,3.8
+CAND0019,SK001,SQL,Beginner,1.4
+CAND0019,SK004,Python,Intermediate,4.0
+CAND0019,SK008,Recruitment Analytics,Beginner,3.0
+CAND0019,SK009,Talent Intelligence,Beginner,2.0
+CAND0019,SK015,Communication,Advanced,3.2
+CAND0019,SK017,Market Research,Beginner,0.9
+CAND0019,SK020,Statistics,Intermediate,1.2
+CAND0020,SK001,SQL,Beginner,4.7
+CAND0020,SK002,Excel,Advanced,2.2
+CAND0020,SK009,Talent Intelligence,Intermediate,2.1
+CAND0020,SK013,Machine Learning,Beginner,0.4
+CAND0020,SK015,Communication,Advanced,4.1
+CAND0020,SK018,DAX,Advanced,2.7
+CAND0020,SK019,ETL,Advanced,1.3
+CAND0021,SK001,SQL,Advanced,2.9
+CAND0021,SK002,Excel,Intermediate,3.5
+CAND0021,SK003,Power BI,Intermediate,2.6
+CAND0021,SK004,Python,Advanced,4.8
+CAND0021,SK008,Recruitment Analytics,Intermediate,0.9
+CAND0021,SK015,Communication,Beginner,1.1
+CAND0021,SK017,Market Research,Intermediate,4.1
+CAND0021,SK020,Statistics,Advanced,0.3
+CAND0022,SK001,SQL,Advanced,3.1
+CAND0022,SK002,Excel,Intermediate,3.0
+CAND0022,SK007,Dashboarding,Advanced,1.5
+CAND0022,SK008,Recruitment Analytics,Intermediate,2.3
+CAND0022,SK009,Talent Intelligence,Beginner,3.6
+CAND0022,SK011,Power Automate,Beginner,0.5
+CAND0022,SK014,LLMs,Beginner,1.5
+CAND0022,SK020,Statistics,Advanced,3.7
+CAND0023,SK003,Power BI,Intermediate,4.8
+CAND0023,SK005,Pandas,Beginner,4.8
+CAND0023,SK017,Market Research,Intermediate,0.9
+CAND0023,SK018,DAX,Advanced,1.9
+CAND0023,SK020,Statistics,Beginner,2.6
+CAND0024,SK001,SQL,Intermediate,0.3
+CAND0024,SK004,Python,Intermediate,0.6
+CAND0024,SK005,Pandas,Advanced,0.7
+CAND0024,SK007,Dashboarding,Advanced,4.8
+CAND0024,SK008,Recruitment Analytics,Advanced,3.6
+CAND0024,SK012,APIs,Beginner,2.8
+CAND0024,SK015,Communication,Advanced,2.2
+CAND0024,SK016,Problem Solving,Beginner,3.2
+CAND0025,SK001,SQL,Beginner,0.5
+CAND0025,SK002,Excel,Intermediate,2.2
+CAND0025,SK010,Automation,Beginner,0.6
+CAND0025,SK012,APIs,Advanced,1.4
+CAND0025,SK013,Machine Learning,Beginner,2.4
+CAND0025,SK019,ETL,Beginner,0.6
+CAND0026,SK001,SQL,Advanced,3.6
+CAND0026,SK002,Excel,Beginner,2.6
+CAND0026,SK003,Power BI,Intermediate,2.3
+CAND0026,SK005,Pandas,Intermediate,1.3
+CAND0026,SK007,Dashboarding,Advanced,4.6
+CAND0026,SK012,APIs,Intermediate,1.7
+CAND0026,SK014,LLMs,Advanced,0.4
+CAND0027,SK002,Excel,Beginner,3.2
+CAND0027,SK005,Pandas,Intermediate,1.3
+CAND0027,SK006,Data Cleaning,Intermediate,2.6
+CAND0027,SK008,Recruitment Analytics,Advanced,4.0
+CAND0027,SK014,LLMs,Beginner,4.8
+CAND0027,SK015,Communication,Intermediate,2.6
+CAND0027,SK017,Market Research,Beginner,1.4
+CAND0028,SK001,SQL,Advanced,3.5
+CAND0028,SK003,Power BI,Intermediate,3.4
+CAND0028,SK009,Talent Intelligence,Beginner,2.1
+CAND0028,SK014,LLMs,Beginner,2.6
+CAND0028,SK016,Problem Solving,Intermediate,3.6
+CAND0028,SK018,DAX,Intermediate,4.7
+CAND0028,SK019,ETL,Advanced,4.0
+CAND0029,SK002,Excel,Intermediate,4.0
+CAND0029,SK003,Power BI,Intermediate,2.5
+CAND0029,SK005,Pandas,Beginner,3.4
+CAND0029,SK009,Talent Intelligence,Advanced,0.5
+CAND0029,SK014,LLMs,Beginner,1.9
+CAND0029,SK015,Communication,Beginner,2.2
+CAND0030,SK004,Python,Intermediate,4.3
+CAND0030,SK010,Automation,Beginner,1.7
+CAND0030,SK016,Problem Solving,Intermediate,3.7
+CAND0030,SK017,Market Research,Advanced,3.8
+CAND0030,SK020,Statistics,Advanced,0.9
+CAND0031,SK003,Power BI,Beginner,1.9
+CAND0031,SK005,Pandas,Advanced,4.0
+CAND0031,SK011,Power Automate,Beginner,4.9
+CAND0031,SK014,LLMs,Advanced,3.5
+CAND0032,SK003,Power BI,Beginner,4.3
+CAND0032,SK004,Python,Intermediate,1.3
+CAND0032,SK007,Dashboarding,Beginner,1.8
+CAND0032,SK009,Talent Intelligence,Advanced,4.0
+CAND0032,SK016,Problem Solving,Advanced,4.4
+CAND0032,SK019,ETL,Advanced,4.1
+CAND0033,SK001,SQL,Beginner,1.9
+CAND0033,SK004,Python,Beginner,4.1
+CAND0033,SK009,Talent Intelligence,Beginner,1.1
+CAND0033,SK014,LLMs,Beginner,4.1
+CAND0033,SK017,Market Research,Intermediate,1.7
+CAND0033,SK020,Statistics,Advanced,3.8
+CAND0034,SK001,SQL,Advanced,2.2
+CAND0034,SK002,Excel,Beginner,2.6
+CAND0034,SK004,Python,Beginner,3.6
+CAND0034,SK006,Data Cleaning,Advanced,4.4
+CAND0034,SK008,Recruitment Analytics,Intermediate,0.5
+CAND0035,SK001,SQL,Advanced,3.1
+CAND0035,SK002,Excel,Beginner,0.6
+CAND0035,SK006,Data Cleaning,Intermediate,0.4
+CAND0035,SK007,Dashboarding,Beginner,1.2
+CAND0035,SK020,Statistics,Intermediate,4.1
+CAND0036,SK001,SQL,Intermediate,4.4
+CAND0036,SK004,Python,Beginner,3.9
+CAND0036,SK014,LLMs,Intermediate,3.5
+CAND0036,SK015,Communication,Advanced,4.9
+CAND0036,SK016,Problem Solving,Beginner,3.7
+CAND0036,SK020,Statistics,Intermediate,0.7
+CAND0037,SK001,SQL,Beginner,1.8
+CAND0037,SK002,Excel,Beginner,3.6
+CAND0037,SK004,Python,Beginner,2.5
+CAND0037,SK011,Power Automate,Beginner,2.9
+CAND0037,SK012,APIs,Advanced,4.4
+CAND0037,SK015,Communication,Intermediate,2.7
+CAND0037,SK017,Market Research,Beginner,2.5
+CAND0037,SK018,DAX,Intermediate,3.1
+CAND0038,SK001,SQL,Beginner,3.9
+CAND0038,SK002,Excel,Intermediate,4.9
+CAND0038,SK004,Python,Beginner,0.8
+CAND0038,SK008,Recruitment Analytics,Beginner,3.4
+CAND0038,SK014,LLMs,Advanced,3.2
+CAND0038,SK015,Communication,Intermediate,1.4
+CAND0039,SK001,SQL,Beginner,4.5
+CAND0039,SK004,Python,Beginner,1.1
+CAND0039,SK007,Dashboarding,Intermediate,2.8
+CAND0039,SK011,Power Automate,Advanced,3.7
+CAND0039,SK014,LLMs,Advanced,2.0
+CAND0039,SK016,Problem Solving,Intermediate,2.4
+CAND0039,SK018,DAX,Advanced,0.4
+CAND0039,SK020,Statistics,Beginner,3.3
+CAND0040,SK002,Excel,Intermediate,3.1
+CAND0040,SK003,Power BI,Intermediate,2.8
+CAND0040,SK005,Pandas,Intermediate,1.4
+CAND0040,SK006,Data Cleaning,Advanced,2.5
+CAND0040,SK007,Dashboarding,Intermediate,4.0
+CAND0040,SK013,Machine Learning,Advanced,3.5
+CAND0040,SK020,Statistics,Beginner,2.3
+CAND0041,SK001,SQL,Intermediate,4.5
+CAND0041,SK002,Excel,Beginner,2.1
+CAND0041,SK004,Python,Beginner,2.5
+CAND0041,SK005,Pandas,Beginner,1.2
+CAND0041,SK008,Recruitment Analytics,Intermediate,0.4
+CAND0041,SK012,APIs,Advanced,2.7
+CAND0041,SK019,ETL,Intermediate,4.5
+CAND0042,SK001,SQL,Beginner,0.3
+CAND0042,SK004,Python,Intermediate,4.6
+CAND0042,SK005,Pandas,Advanced,2.2
+CAND0042,SK007,Dashboarding,Beginner,4.1
+CAND0042,SK008,Recruitment Analytics,Intermediate,4.3
+CAND0042,SK010,Automation,Beginner,0.9
+CAND0043,SK001,SQL,Advanced,4.4
+CAND0043,SK003,Power BI,Advanced,4.3
+CAND0043,SK004,Python,Beginner,1.7
+CAND0043,SK012,APIs,Beginner,0.6
+CAND0043,SK013,Machine Learning,Intermediate,0.3
+CAND0043,SK016,Problem Solving,Beginner,4.4
+CAND0043,SK017,Market Research,Intermediate,4.6
+CAND0043,SK019,ETL,Intermediate,1.4
+CAND0044,SK001,SQL,Beginner,0.9
+CAND0044,SK004,Python,Beginner,4.5
+CAND0044,SK011,Power Automate,Intermediate,1.8
+CAND0044,SK014,LLMs,Beginner,0.8
+CAND0044,SK016,Problem Solving,Advanced,2.0
+CAND0044,SK017,Market Research,Advanced,2.6
+CAND0045,SK001,SQL,Advanced,4.1
+CAND0045,SK004,Python,Intermediate,1.0
+CAND0045,SK005,Pandas,Advanced,2.0
+CAND0045,SK009,Talent Intelligence,Beginner,1.6
+CAND0045,SK011,Power Automate,Intermediate,2.3
+CAND0045,SK012,APIs,Advanced,4.2
+CAND0046,SK001,SQL,Beginner,0.5
+CAND0046,SK002,Excel,Advanced,2.4
+CAND0046,SK004,Python,Intermediate,2.0
+CAND0046,SK005,Pandas,Intermediate,3.8
+CAND0046,SK009,Talent Intelligence,Intermediate,2.8
+CAND0046,SK014,LLMs,Advanced,3.8
+CAND0046,SK015,Communication,Intermediate,3.4
+CAND0046,SK018,DAX,Beginner,1.2
+CAND0047,SK001,SQL,Intermediate,2.6
+CAND0047,SK002,Excel,Intermediate,3.6
+CAND0047,SK003,Power BI,Advanced,1.1
+CAND0047,SK004,Python,Beginner,1.0
+CAND0047,SK008,Recruitment Analytics,Beginner,1.8
+CAND0047,SK010,Automation,Intermediate,3.5
+CAND0047,SK011,Power Automate,Intermediate,4.9
+CAND0047,SK013,Machine Learning,Intermediate,1.1
+CAND0047,SK017,Market Research,Advanced,4.2
+CAND0048,SK001,SQL,Advanced,1.2
+CAND0048,SK002,Excel,Intermediate,4.7
+CAND0048,SK009,Talent Intelligence,Advanced,1.2
+CAND0048,SK014,LLMs,Intermediate,1.2
+CAND0048,SK015,Communication,Advanced,4.8
+CAND0048,SK019,ETL,Intermediate,2.5
+CAND0049,SK005,Pandas,Intermediate,4.5
+CAND0049,SK007,Dashboarding,Advanced,0.3
+CAND0049,SK012,APIs,Intermediate,2.7
+CAND0049,SK014,LLMs,Advanced,5.0
+CAND0049,SK017,Market Research,Advanced,3.5
+CAND0050,SK001,SQL,Advanced,3.9
+CAND0050,SK002,Excel,Intermediate,1.2
+CAND0050,SK008,Recruitment Analytics,Intermediate,3.8
+CAND0050,SK009,Talent Intelligence,Intermediate,3.1
+CAND0050,SK011,Power Automate,Intermediate,2.3
+CAND0050,SK012,APIs,Intermediate,3.9
+CAND0051,SK001,SQL,Advanced,1.8
+CAND0051,SK002,Excel,Intermediate,1.0
+CAND0051,SK007,Dashboarding,Beginner,3.0
+CAND0051,SK011,Power Automate,Beginner,1.4
+CAND0051,SK012,APIs,Advanced,1.4
+CAND0051,SK014,LLMs,Beginner,2.5
+CAND0051,SK015,Communication,Intermediate,3.8
+CAND0052,SK001,SQL,Beginner,3.9
+CAND0052,SK002,Excel,Intermediate,4.2
+CAND0052,SK006,Data Cleaning,Advanced,4.5
+CAND0052,SK007,Dashboarding,Intermediate,3.1
+CAND0052,SK015,Communication,Intermediate,0.7
+CAND0052,SK018,DAX,Beginner,0.5
+CAND0053,SK002,Excel,Beginner,2.0
+CAND0053,SK004,Python,Beginner,4.2
+CAND0053,SK005,Pandas,Advanced,0.2
+CAND0053,SK006,Data Cleaning,Advanced,4.3
+CAND0053,SK010,Automation,Beginner,1.1
+CAND0053,SK012,APIs,Beginner,3.8
+CAND0053,SK018,DAX,Advanced,4.0
+CAND0054,SK001,SQL,Advanced,0.3
+CAND0054,SK004,Python,Beginner,2.4
+CAND0054,SK006,Data Cleaning,Beginner,4.6
+CAND0054,SK009,Talent Intelligence,Beginner,2.1
+CAND0054,SK013,Machine Learning,Beginner,2.3
+CAND0055,SK001,SQL,Intermediate,1.1
+CAND0055,SK002,Excel,Intermediate,2.0
+CAND0055,SK004,Python,Beginner,4.3
+CAND0055,SK010,Automation,Intermediate,1.0
+CAND0055,SK011,Power Automate,Intermediate,4.0
+CAND0056,SK001,SQL,Intermediate,3.2
+CAND0056,SK002,Excel,Advanced,4.1
+CAND0056,SK004,Python,Advanced,1.8
+CAND0056,SK007,Dashboarding,Advanced,3.1
+CAND0056,SK008,Recruitment Analytics,Advanced,3.1
+CAND0056,SK012,APIs,Beginner,2.4
+CAND0056,SK018,DAX,Beginner,5.0
+CAND0056,SK020,Statistics,Intermediate,1.1
+CAND0057,SK001,SQL,Advanced,4.1
+CAND0057,SK004,Python,Beginner,0.8
+CAND0057,SK006,Data Cleaning,Intermediate,3.6
+CAND0057,SK013,Machine Learning,Intermediate,2.1
+CAND0057,SK019,ETL,Intermediate,4.2
+CAND0058,SK001,SQL,Beginner,2.4
+CAND0058,SK006,Data Cleaning,Beginner,2.6
+CAND0058,SK007,Dashboarding,Advanced,2.3
+CAND0058,SK008,Recruitment Analytics,Beginner,2.2
+CAND0058,SK010,Automation,Intermediate,5.0
+CAND0058,SK012,APIs,Intermediate,4.3
+CAND0058,SK018,DAX,Beginner,1.0
+CAND0058,SK019,ETL,Advanced,0.2
+CAND0059,SK001,SQL,Intermediate,4.4
+CAND0059,SK002,Excel,Beginner,3.2
+CAND0059,SK004,Python,Intermediate,1.4
+CAND0059,SK006,Data Cleaning,Advanced,4.6
+CAND0059,SK019,ETL,Advanced,1.3
+CAND0059,SK020,Statistics,Beginner,1.9
+CAND0060,SK001,SQL,Intermediate,4.5
+CAND0060,SK002,Excel,Intermediate,1.9
+CAND0060,SK004,Python,Beginner,0.7
+CAND0060,SK006,Data Cleaning,Advanced,1.3
+CAND0060,SK007,Dashboarding,Intermediate,1.6
+CAND0060,SK008,Recruitment Analytics,Advanced,3.5
+CAND0060,SK018,DAX,Beginner,1.3
+CAND0061,SK002,Excel,Intermediate,4.3
+CAND0061,SK004,Python,Intermediate,4.6
+CAND0061,SK007,Dashboarding,Advanced,2.2
+CAND0061,SK010,Automation,Beginner,4.1
+CAND0061,SK017,Market Research,Beginner,1.9
+CAND0061,SK018,DAX,Advanced,3.8
+CAND0061,SK019,ETL,Advanced,1.3
+CAND0061,SK020,Statistics,Beginner,4.2
+CAND0062,SK001,SQL,Advanced,3.1
+CAND0062,SK002,Excel,Beginner,4.8
+CAND0062,SK003,Power BI,Beginner,0.9
+CAND0062,SK004,Python,Intermediate,2.1
+CAND0062,SK006,Data Cleaning,Beginner,2.5
+CAND0062,SK009,Talent Intelligence,Intermediate,3.0
+CAND0062,SK013,Machine Learning,Intermediate,1.0
+CAND0062,SK015,Communication,Beginner,2.0
+CAND0063,SK002,Excel,Advanced,1.3
+CAND0063,SK003,Power BI,Intermediate,2.0
+CAND0063,SK004,Python,Advanced,2.1
+CAND0063,SK007,Dashboarding,Intermediate,4.3
+CAND0063,SK009,Talent Intelligence,Intermediate,2.5
+CAND0063,SK010,Automation,Beginner,3.4
+CAND0063,SK011,Power Automate,Advanced,3.2
+CAND0063,SK013,Machine Learning,Intermediate,1.4
+CAND0063,SK015,Communication,Beginner,4.5
+CAND0064,SK001,SQL,Advanced,4.4
+CAND0064,SK004,Python,Intermediate,1.7
+CAND0064,SK008,Recruitment Analytics,Beginner,1.5
+CAND0064,SK014,LLMs,Beginner,1.0
+CAND0064,SK015,Communication,Beginner,0.5
+CAND0065,SK001,SQL,Advanced,3.3
+CAND0065,SK004,Python,Intermediate,1.3
+CAND0065,SK011,Power Automate,Beginner,2.7
+CAND0065,SK012,APIs,Intermediate,2.5
+CAND0065,SK020,Statistics,Advanced,2.4
+CAND0066,SK002,Excel,Advanced,1.3
+CAND0066,SK004,Python,Intermediate,3.2
+CAND0066,SK005,Pandas,Advanced,1.7
+CAND0066,SK009,Talent Intelligence,Advanced,4.0
+CAND0066,SK012,APIs,Advanced,1.1
+CAND0066,SK015,Communication,Beginner,1.7
+CAND0066,SK020,Statistics,Advanced,2.5
+CAND0067,SK007,Dashboarding,Advanced,3.0
+CAND0067,SK013,Machine Learning,Advanced,2.3
+CAND0067,SK014,LLMs,Beginner,1.9
+CAND0067,SK016,Problem Solving,Advanced,4.7
+CAND0068,SK001,SQL,Advanced,4.0
+CAND0068,SK004,Python,Intermediate,3.7
+CAND0068,SK010,Automation,Advanced,1.1
+CAND0068,SK011,Power Automate,Advanced,2.8
+CAND0068,SK014,LLMs,Intermediate,3.6
+CAND0068,SK015,Communication,Advanced,4.0
+CAND0068,SK018,DAX,Beginner,2.1
+CAND0069,SK001,SQL,Intermediate,4.6
+CAND0069,SK004,Python,Advanced,4.4
+CAND0069,SK009,Talent Intelligence,Advanced,2.0
+CAND0069,SK013,Machine Learning,Advanced,2.1
+CAND0069,SK016,Problem Solving,Advanced,1.0
+CAND0069,SK017,Market Research,Beginner,4.4
+CAND0070,SK004,Python,Beginner,3.8
+CAND0070,SK006,Data Cleaning,Intermediate,2.3
+CAND0070,SK012,APIs,Advanced,2.2
+CAND0070,SK018,DAX,Advanced,3.9
+CAND0071,SK001,SQL,Beginner,3.1
+CAND0071,SK002,Excel,Beginner,3.1
+CAND0071,SK003,Power BI,Advanced,2.2
+CAND0071,SK006,Data Cleaning,Beginner,4.2
+CAND0071,SK008,Recruitment Analytics,Intermediate,0.4
+CAND0071,SK018,DAX,Intermediate,2.1
+CAND0072,SK001,SQL,Beginner,3.6
+CAND0072,SK002,Excel,Advanced,0.6
+CAND0072,SK003,Power BI,Advanced,3.8
+CAND0072,SK007,Dashboarding,Advanced,1.3
+CAND0072,SK011,Power Automate,Intermediate,3.9
+CAND0072,SK012,APIs,Advanced,3.2
+CAND0072,SK014,LLMs,Beginner,1.0
+CAND0073,SK001,SQL,Intermediate,2.5
+CAND0073,SK002,Excel,Beginner,1.7
+CAND0073,SK003,Power BI,Intermediate,2.1
+CAND0073,SK008,Recruitment Analytics,Advanced,3.8
+CAND0073,SK012,APIs,Beginner,2.5
+CAND0073,SK013,Machine Learning,Intermediate,4.4
+CAND0073,SK016,Problem Solving,Intermediate,1.6
+CAND0073,SK020,Statistics,Advanced,2.7
+CAND0074,SK001,SQL,Intermediate,3.4
+CAND0074,SK002,Excel,Beginner,3.4
+CAND0074,SK003,Power BI,Beginner,4.9
+CAND0074,SK004,Python,Beginner,4.0
+CAND0074,SK008,Recruitment Analytics,Beginner,0.3
+CAND0074,SK011,Power Automate,Advanced,1.4
+CAND0074,SK015,Communication,Advanced,0.6
+CAND0074,SK020,Statistics,Intermediate,1.6
+CAND0075,SK001,SQL,Intermediate,2.5
+CAND0075,SK004,Python,Intermediate,2.7
+CAND0075,SK009,Talent Intelligence,Intermediate,4.8
+CAND0075,SK010,Automation,Beginner,2.2
+CAND0075,SK012,APIs,Advanced,1.2
+CAND0075,SK013,Machine Learning,Intermediate,3.1
+CAND0076,SK001,SQL,Advanced,2.3
+CAND0076,SK002,Excel,Beginner,4.2
+CAND0076,SK003,Power BI,Intermediate,3.2
+CAND0076,SK004,Python,Advanced,1.1
+CAND0076,SK009,Talent Intelligence,Intermediate,3.5
+CAND0076,SK014,LLMs,Beginner,4.4
+CAND0076,SK020,Statistics,Intermediate,2.9
+CAND0077,SK001,SQL,Beginner,2.6
+CAND0077,SK002,Excel,Intermediate,2.9
+CAND0077,SK003,Power BI,Intermediate,2.9
+CAND0077,SK004,Python,Beginner,1.0
+CAND0077,SK009,Talent Intelligence,Intermediate,3.9
+CAND0077,SK010,Automation,Intermediate,3.8
+CAND0077,SK016,Problem Solving,Intermediate,4.2
+CAND0077,SK017,Market Research,Beginner,2.2
+CAND0077,SK019,ETL,Advanced,0.4
+CAND0078,SK001,SQL,Beginner,2.6
+CAND0078,SK002,Excel,Intermediate,3.2
+CAND0078,SK006,Data Cleaning,Intermediate,2.5
+CAND0078,SK007,Dashboarding,Intermediate,1.0
+CAND0078,SK009,Talent Intelligence,Intermediate,3.7
+CAND0078,SK011,Power Automate,Beginner,1.7
+CAND0078,SK014,LLMs,Advanced,3.1
+CAND0078,SK017,Market Research,Beginner,3.0
+CAND0079,SK001,SQL,Intermediate,3.7
+CAND0079,SK002,Excel,Intermediate,1.3
+CAND0079,SK003,Power BI,Advanced,4.8
+CAND0079,SK009,Talent Intelligence,Advanced,1.5
+CAND0079,SK014,LLMs,Beginner,2.4
+CAND0079,SK016,Problem Solving,Intermediate,3.7
+CAND0079,SK018,DAX,Beginner,2.8
+CAND0080,SK003,Power BI,Beginner,2.0
+CAND0080,SK004,Python,Intermediate,4.4
+CAND0080,SK009,Talent Intelligence,Beginner,2.7
+CAND0080,SK011,Power Automate,Advanced,3.8
+CAND0080,SK012,APIs,Advanced,0.4
+CAND0080,SK014,LLMs,Beginner,0.9
+CAND0080,SK015,Communication,Intermediate,4.6
+CAND0080,SK019,ETL,Beginner,3.0
+CAND0081,SK001,SQL,Advanced,2.0
+CAND0081,SK002,Excel,Intermediate,4.9
+CAND0081,SK010,Automation,Intermediate,2.2
+CAND0081,SK011,Power Automate,Intermediate,0.4
+CAND0081,SK017,Market Research,Beginner,1.3
+CAND0082,SK001,SQL,Advanced,1.2
+CAND0082,SK002,Excel,Intermediate,2.5
+CAND0082,SK008,Recruitment Analytics,Beginner,2.8
+CAND0082,SK009,Talent Intelligence,Beginner,1.1
+CAND0082,SK014,LLMs,Beginner,2.2
+CAND0082,SK015,Communication,Intermediate,4.6
+CAND0082,SK017,Market Research,Advanced,1.5
+CAND0083,SK001,SQL,Advanced,3.8
+CAND0083,SK004,Python,Advanced,3.1
+CAND0083,SK015,Communication,Beginner,2.1
+CAND0083,SK017,Market Research,Beginner,2.9
+CAND0083,SK020,Statistics,Beginner,1.7
+CAND0084,SK001,SQL,Intermediate,4.3
+CAND0084,SK002,Excel,Advanced,3.3
+CAND0084,SK013,Machine Learning,Advanced,0.9
+CAND0084,SK016,Problem Solving,Beginner,3.5
+CAND0084,SK017,Market Research,Beginner,1.5
+CAND0084,SK020,Statistics,Advanced,2.2
+CAND0085,SK001,SQL,Beginner,2.1
+CAND0085,SK002,Excel,Beginner,3.0
+CAND0085,SK013,Machine Learning,Advanced,4.5
+CAND0085,SK015,Communication,Beginner,2.5
+CAND0085,SK018,DAX,Advanced,3.0
+CAND0086,SK001,SQL,Beginner,3.9
+CAND0086,SK002,Excel,Beginner,2.4
+CAND0086,SK003,Power BI,Intermediate,3.7
+CAND0086,SK006,Data Cleaning,Beginner,2.8
+CAND0086,SK009,Talent Intelligence,Intermediate,3.1
+CAND0086,SK016,Problem Solving,Beginner,2.1
+CAND0086,SK018,DAX,Intermediate,1.0
+CAND0086,SK019,ETL,Beginner,3.6
+CAND0086,SK020,Statistics,Advanced,2.8
+CAND0087,SK001,SQL,Intermediate,2.4
+CAND0087,SK002,Excel,Intermediate,3.1
+CAND0087,SK003,Power BI,Beginner,3.2
+CAND0087,SK008,Recruitment Analytics,Advanced,2.3
+CAND0087,SK010,Automation,Beginner,2.0
+CAND0087,SK011,Power Automate,Advanced,2.7
+CAND0088,SK001,SQL,Advanced,4.1
+CAND0088,SK002,Excel,Beginner,2.4
+CAND0088,SK008,Recruitment Analytics,Advanced,0.7
+CAND0088,SK009,Talent Intelligence,Intermediate,2.6
+CAND0088,SK013,Machine Learning,Beginner,2.1
+CAND0088,SK017,Market Research,Intermediate,4.8
+CAND0088,SK018,DAX,Intermediate,3.4
+CAND0088,SK020,Statistics,Advanced,0.7
+CAND0089,SK002,Excel,Advanced,2.7
+CAND0089,SK004,Python,Intermediate,0.2
+CAND0089,SK009,Talent Intelligence,Intermediate,3.9
+CAND0089,SK010,Automation,Beginner,2.5
+CAND0089,SK013,Machine Learning,Advanced,4.9
+CAND0089,SK015,Communication,Intermediate,3.2
+CAND0089,SK017,Market Research,Beginner,2.3
+CAND0089,SK019,ETL,Beginner,1.2
+CAND0090,SK001,SQL,Beginner,3.3
+CAND0090,SK002,Excel,Intermediate,4.2
+CAND0090,SK003,Power BI,Advanced,1.8
+CAND0090,SK004,Python,Beginner,3.4
+CAND0090,SK007,Dashboarding,Beginner,2.4
+CAND0090,SK015,Communication,Advanced,2.6
+CAND0090,SK016,Problem Solving,Advanced,4.8
+CAND0090,SK017,Market Research,Advanced,1.1
+CAND0090,SK018,DAX,Advanced,2.4
+CAND0090,SK020,Statistics,Intermediate,0.6
+CAND0091,SK001,SQL,Beginner,2.9
+CAND0091,SK002,Excel,Advanced,0.8
+CAND0091,SK004,Python,Beginner,1.4
+CAND0091,SK013,Machine Learning,Beginner,2.4
+CAND0091,SK014,LLMs,Advanced,3.8
+CAND0091,SK018,DAX,Beginner,5.0
+CAND0091,SK020,Statistics,Intermediate,1.1
+CAND0092,SK004,Python,Advanced,3.5
+CAND0092,SK007,Dashboarding,Intermediate,4.5
+CAND0092,SK009,Talent Intelligence,Beginner,1.1
+CAND0092,SK011,Power Automate,Advanced,3.8
+CAND0092,SK013,Machine Learning,Advanced,4.7
+CAND0092,SK017,Market Research,Beginner,1.6
+CAND0092,SK020,Statistics,Advanced,4.4
+CAND0093,SK001,SQL,Intermediate,2.9
+CAND0093,SK002,Excel,Intermediate,4.2
+CAND0093,SK003,Power BI,Advanced,0.5
+CAND0093,SK004,Python,Advanced,2.0
+CAND0093,SK005,Pandas,Intermediate,0.2
+CAND0093,SK008,Recruitment Analytics,Intermediate,1.4
+CAND0093,SK014,LLMs,Intermediate,0.8
+CAND0094,SK001,SQL,Intermediate,4.0
+CAND0094,SK002,Excel,Intermediate,3.5
+CAND0094,SK005,Pandas,Beginner,4.4
+CAND0094,SK008,Recruitment Analytics,Advanced,1.5
+CAND0094,SK012,APIs,Advanced,2.8
+CAND0094,SK014,LLMs,Beginner,1.9
+CAND0094,SK019,ETL,Advanced,2.9
+CAND0095,SK003,Power BI,Beginner,2.0
+CAND0095,SK004,Python,Intermediate,3.1
+CAND0095,SK007,Dashboarding,Advanced,4.9
+CAND0095,SK008,Recruitment Analytics,Intermediate,1.6
+CAND0095,SK009,Talent Intelligence,Beginner,0.8
+CAND0095,SK012,APIs,Advanced,1.7
+CAND0095,SK013,Machine Learning,Intermediate,4.8
+CAND0095,SK017,Market Research,Advanced,4.5
+CAND0096,SK001,SQL,Beginner,0.3
+CAND0096,SK002,Excel,Intermediate,2.1
+CAND0096,SK006,Data Cleaning,Intermediate,4.8
+CAND0096,SK009,Talent Intelligence,Advanced,3.0
+CAND0096,SK013,Machine Learning,Beginner,1.1
+CAND0096,SK017,Market Research,Intermediate,2.0
+CAND0097,SK004,Python,Advanced,2.4
+CAND0097,SK005,Pandas,Intermediate,2.4
+CAND0097,SK006,Data Cleaning,Beginner,2.0
+CAND0097,SK007,Dashboarding,Intermediate,0.3
+CAND0097,SK008,Recruitment Analytics,Beginner,1.4
+CAND0097,SK009,Talent Intelligence,Advanced,1.0
+CAND0097,SK013,Machine Learning,Advanced,4.7
+CAND0097,SK018,DAX,Intermediate,4.5
+CAND0097,SK020,Statistics,Beginner,0.7
+CAND0098,SK002,Excel,Beginner,1.6
+CAND0098,SK003,Power BI,Beginner,3.3
+CAND0098,SK004,Python,Advanced,3.6
+CAND0098,SK005,Pandas,Intermediate,0.9
+CAND0098,SK007,Dashboarding,Advanced,3.7
+CAND0098,SK017,Market Research,Beginner,4.8
+CAND0098,SK020,Statistics,Intermediate,3.8
+CAND0099,SK001,SQL,Intermediate,1.7
+CAND0099,SK002,Excel,Advanced,4.2
+CAND0099,SK003,Power BI,Intermediate,0.8
+CAND0099,SK007,Dashboarding,Advanced,3.1
+CAND0099,SK010,Automation,Intermediate,3.3
+CAND0099,SK019,ETL,Advanced,2.0
+CAND0100,SK001,SQL,Beginner,0.3
+CAND0100,SK002,Excel,Intermediate,5.0
+CAND0100,SK004,Python,Intermediate,3.1
+CAND0100,SK005,Pandas,Beginner,3.2
+CAND0100,SK010,Automation,Intermediate,2.9
+CAND0100,SK011,Power Automate,Advanced,2.1
+CAND0100,SK020,Statistics,Advanced,4.7
+CAND0101,SK001,SQL,Advanced,2.2
+CAND0101,SK002,Excel,Beginner,4.7
+CAND0101,SK004,Python,Intermediate,2.9
+CAND0101,SK005,Pandas,Intermediate,0.9
+CAND0101,SK008,Recruitment Analytics,Advanced,4.6
+CAND0101,SK011,Power Automate,Advanced,4.8
+CAND0101,SK012,APIs,Intermediate,4.3
+CAND0101,SK013,Machine Learning,Beginner,1.7
+CAND0101,SK020,Statistics,Intermediate,2.6
+CAND0102,SK002,Excel,Intermediate,0.7
+CAND0102,SK003,Power BI,Beginner,2.6
+CAND0102,SK006,Data Cleaning,Intermediate,1.1
+CAND0102,SK008,Recruitment Analytics,Beginner,0.6
+CAND0102,SK011,Power Automate,Intermediate,0.5
+CAND0103,SK002,Excel,Advanced,0.5
+CAND0103,SK003,Power BI,Beginner,2.7
+CAND0103,SK005,Pandas,Beginner,1.2
+CAND0103,SK006,Data Cleaning,Beginner,1.1
+CAND0103,SK012,APIs,Advanced,1.1
+CAND0103,SK018,DAX,Intermediate,4.3
+CAND0103,SK019,ETL,Intermediate,1.5
+CAND0104,SK001,SQL,Beginner,3.9
+CAND0104,SK004,Python,Intermediate,4.9
+CAND0104,SK007,Dashboarding,Beginner,3.5
+CAND0104,SK009,Talent Intelligence,Intermediate,2.2
+CAND0104,SK010,Automation,Beginner,3.9
+CAND0104,SK016,Problem Solving,Advanced,0.5
+CAND0104,SK018,DAX,Intermediate,3.2
+CAND0104,SK019,ETL,Advanced,2.9
+CAND0105,SK001,SQL,Beginner,3.1
+CAND0105,SK002,Excel,Beginner,2.9
+CAND0105,SK003,Power BI,Intermediate,2.6
+CAND0105,SK006,Data Cleaning,Intermediate,1.9
+CAND0105,SK008,Recruitment Analytics,Advanced,0.6
+CAND0105,SK012,APIs,Advanced,4.1
+CAND0105,SK016,Problem Solving,Intermediate,4.5
+CAND0106,SK001,SQL,Intermediate,0.2
+CAND0106,SK002,Excel,Intermediate,0.3
+CAND0106,SK008,Recruitment Analytics,Beginner,4.5
+CAND0106,SK009,Talent Intelligence,Beginner,3.6
+CAND0106,SK010,Automation,Intermediate,4.5
+CAND0106,SK011,Power Automate,Beginner,2.8
+CAND0106,SK012,APIs,Beginner,5.0
+CAND0106,SK013,Machine Learning,Beginner,3.1
+CAND0106,SK020,Statistics,Advanced,2.8
+CAND0107,SK001,SQL,Advanced,0.4
+CAND0107,SK002,Excel,Advanced,2.0
+CAND0107,SK003,Power BI,Advanced,2.9
+CAND0107,SK007,Dashboarding,Advanced,4.8
+CAND0107,SK013,Machine Learning,Advanced,4.9
+CAND0107,SK018,DAX,Advanced,0.3
+CAND0108,SK001,SQL,Intermediate,1.6
+CAND0108,SK002,Excel,Intermediate,3.6
+CAND0108,SK003,Power BI,Beginner,4.4
+CAND0108,SK005,Pandas,Advanced,1.3
+CAND0108,SK006,Data Cleaning,Advanced,2.2
+CAND0108,SK013,Machine Learning,Beginner,0.5
+CAND0108,SK018,DAX,Beginner,3.1
+CAND0108,SK020,Statistics,Intermediate,1.6
+CAND0109,SK001,SQL,Advanced,2.5
+CAND0109,SK002,Excel,Beginner,3.1
+CAND0109,SK014,LLMs,Beginner,4.9
+CAND0109,SK017,Market Research,Advanced,0.8
+CAND0109,SK020,Statistics,Advanced,3.2
+CAND0110,SK002,Excel,Advanced,1.5
+CAND0110,SK003,Power BI,Intermediate,2.9
+CAND0110,SK004,Python,Intermediate,1.0
+CAND0110,SK007,Dashboarding,Intermediate,1.4
+CAND0110,SK008,Recruitment Analytics,Advanced,0.8
+CAND0110,SK010,Automation,Advanced,3.3
+CAND0110,SK011,Power Automate,Beginner,1.6
+CAND0110,SK014,LLMs,Intermediate,4.0
+CAND0110,SK017,Market Research,Advanced,4.9
+CAND0110,SK018,DAX,Beginner,0.3
+CAND0111,SK001,SQL,Intermediate,3.7
+CAND0111,SK002,Excel,Beginner,4.3
+CAND0111,SK004,Python,Advanced,4.5
+CAND0111,SK016,Problem Solving,Beginner,4.6
+CAND0111,SK017,Market Research,Beginner,0.6
+CAND0111,SK019,ETL,Beginner,1.6
+CAND0111,SK020,Statistics,Advanced,0.6
+CAND0112,SK004,Python,Intermediate,1.1
+CAND0112,SK008,Recruitment Analytics,Intermediate,3.6
+CAND0112,SK009,Talent Intelligence,Advanced,2.0
+CAND0112,SK011,Power Automate,Beginner,1.9
+CAND0112,SK013,Machine Learning,Beginner,0.9
+CAND0112,SK014,LLMs,Intermediate,0.6
+CAND0112,SK015,Communication,Advanced,1.6
+CAND0112,SK018,DAX,Beginner,2.0
+CAND0112,SK019,ETL,Advanced,4.6
+CAND0113,SK001,SQL,Beginner,0.4
+CAND0113,SK004,Python,Intermediate,1.3
+CAND0113,SK007,Dashboarding,Beginner,2.0
+CAND0113,SK013,Machine Learning,Beginner,3.7
+CAND0113,SK017,Market Research,Advanced,0.6
+CAND0113,SK019,ETL,Advanced,2.3
+CAND0114,SK001,SQL,Beginner,0.5
+CAND0114,SK004,Python,Advanced,1.3
+CAND0114,SK018,DAX,Beginner,0.9
+CAND0114,SK020,Statistics,Beginner,0.3
+CAND0115,SK001,SQL,Beginner,3.0
+CAND0115,SK004,Python,Beginner,4.9
+CAND0115,SK006,Data Cleaning,Beginner,0.4
+CAND0115,SK007,Dashboarding,Advanced,2.8
+CAND0115,SK010,Automation,Beginner,0.8
+CAND0115,SK011,Power Automate,Intermediate,1.9
+CAND0115,SK012,APIs,Intermediate,4.7
+CAND0115,SK015,Communication,Advanced,1.7
+CAND0116,SK002,Excel,Intermediate,1.3
+CAND0116,SK005,Pandas,Beginner,0.8
+CAND0116,SK010,Automation,Beginner,3.2
+CAND0116,SK011,Power Automate,Beginner,3.6
+CAND0116,SK012,APIs,Advanced,2.1
+CAND0116,SK019,ETL,Advanced,1.9
+CAND0117,SK001,SQL,Intermediate,0.9
+CAND0117,SK002,Excel,Intermediate,3.2
+CAND0117,SK010,Automation,Beginner,1.7
+CAND0117,SK011,Power Automate,Intermediate,2.0
+CAND0117,SK013,Machine Learning,Beginner,4.9
+CAND0117,SK017,Market Research,Intermediate,0.7
+CAND0117,SK020,Statistics,Intermediate,4.2
+CAND0118,SK001,SQL,Intermediate,0.3
+CAND0118,SK005,Pandas,Beginner,1.9
+CAND0118,SK014,LLMs,Beginner,2.0
+CAND0118,SK015,Communication,Intermediate,0.3
+CAND0118,SK018,DAX,Intermediate,4.8
+CAND0118,SK020,Statistics,Advanced,0.2
+CAND0119,SK001,SQL,Intermediate,0.8
+CAND0119,SK003,Power BI,Intermediate,1.7
+CAND0119,SK004,Python,Beginner,1.4
+CAND0119,SK006,Data Cleaning,Intermediate,1.7
+CAND0119,SK007,Dashboarding,Advanced,1.5
+CAND0119,SK008,Recruitment Analytics,Advanced,2.0
+CAND0119,SK014,LLMs,Intermediate,3.7
+CAND0119,SK016,Problem Solving,Intermediate,1.2
+CAND0120,SK002,Excel,Advanced,3.3
+CAND0120,SK011,Power Automate,Advanced,2.1
+CAND0120,SK015,Communication,Advanced,4.7
+CAND0120,SK018,DAX,Advanced,2.1
+CAND0120,SK019,ETL,Beginner,2.3
+CAND0120,SK020,Statistics,Intermediate,4.4
+CAND0121,SK001,SQL,Advanced,2.4
+CAND0121,SK004,Python,Beginner,4.9
+CAND0121,SK007,Dashboarding,Advanced,3.5
+CAND0121,SK008,Recruitment Analytics,Intermediate,4.0
+CAND0121,SK009,Talent Intelligence,Beginner,2.8
+CAND0121,SK011,Power Automate,Beginner,4.3
+CAND0121,SK015,Communication,Advanced,0.7
+CAND0121,SK016,Problem Solving,Beginner,1.0
+CAND0121,SK017,Market Research,Advanced,1.9
+CAND0121,SK018,DAX,Intermediate,1.4
+CAND0122,SK004,Python,Beginner,1.1
+CAND0122,SK005,Pandas,Advanced,4.6
+CAND0122,SK007,Dashboarding,Intermediate,1.4
+CAND0122,SK016,Problem Solving,Beginner,4.1
+CAND0122,SK018,DAX,Intermediate,2.0
+CAND0122,SK020,Statistics,Advanced,3.3
+CAND0123,SK004,Python,Beginner,0.9
+CAND0123,SK006,Data Cleaning,Advanced,1.1
+CAND0123,SK008,Recruitment Analytics,Advanced,0.7
+CAND0123,SK015,Communication,Advanced,5.0
+CAND0123,SK016,Problem Solving,Beginner,2.2
+CAND0123,SK020,Statistics,Beginner,1.3
+CAND0124,SK002,Excel,Advanced,2.7
+CAND0124,SK004,Python,Advanced,0.2
+CAND0124,SK005,Pandas,Advanced,2.5
+CAND0124,SK007,Dashboarding,Intermediate,4.3
+CAND0124,SK009,Talent Intelligence,Intermediate,4.2
+CAND0124,SK010,Automation,Advanced,1.8
+CAND0124,SK017,Market Research,Intermediate,0.5
+CAND0125,SK001,SQL,Beginner,1.2
+CAND0125,SK002,Excel,Beginner,1.1
+CAND0125,SK003,Power BI,Intermediate,5.0
+CAND0125,SK007,Dashboarding,Advanced,3.9
+CAND0125,SK008,Recruitment Analytics,Beginner,2.6
+CAND0125,SK011,Power Automate,Intermediate,2.4
+CAND0125,SK014,LLMs,Beginner,4.7
+CAND0126,SK001,SQL,Advanced,1.9
+CAND0126,SK002,Excel,Beginner,2.0
+CAND0126,SK004,Python,Beginner,1.8
+CAND0126,SK008,Recruitment Analytics,Intermediate,1.0
+CAND0126,SK010,Automation,Advanced,4.0
+CAND0126,SK012,APIs,Beginner,3.2
+CAND0126,SK013,Machine Learning,Beginner,3.7
+CAND0126,SK017,Market Research,Beginner,3.3
+CAND0126,SK018,DAX,Advanced,1.6
+CAND0127,SK001,SQL,Intermediate,2.6
+CAND0127,SK005,Pandas,Intermediate,2.4
+CAND0127,SK009,Talent Intelligence,Beginner,2.0
+CAND0127,SK016,Problem Solving,Beginner,4.2
+CAND0128,SK001,SQL,Intermediate,4.4
+CAND0128,SK002,Excel,Intermediate,4.7
+CAND0128,SK004,Python,Advanced,0.5
+CAND0128,SK006,Data Cleaning,Advanced,2.3
+CAND0128,SK008,Recruitment Analytics,Intermediate,3.1
+CAND0128,SK013,Machine Learning,Advanced,3.0
+CAND0128,SK016,Problem Solving,Beginner,2.7
+CAND0129,SK001,SQL,Beginner,3.0
+CAND0129,SK003,Power BI,Advanced,4.5
+CAND0129,SK009,Talent Intelligence,Intermediate,0.3
+CAND0129,SK016,Problem Solving,Intermediate,3.1
+CAND0129,SK019,ETL,Advanced,1.2
+CAND0129,SK020,Statistics,Intermediate,3.9
+CAND0130,SK002,Excel,Advanced,2.8
+CAND0130,SK004,Python,Advanced,4.7
+CAND0130,SK005,Pandas,Advanced,4.1
+CAND0130,SK007,Dashboarding,Beginner,3.4
+CAND0130,SK008,Recruitment Analytics,Beginner,1.8
+CAND0130,SK010,Automation,Intermediate,2.9
+CAND0130,SK017,Market Research,Intermediate,1.3
+CAND0130,SK018,DAX,Beginner,0.2
+CAND0130,SK020,Statistics,Beginner,1.1
+CAND0131,SK001,SQL,Intermediate,2.1
+CAND0131,SK005,Pandas,Intermediate,3.8
+CAND0131,SK006,Data Cleaning,Advanced,2.6
+CAND0131,SK007,Dashboarding,Advanced,3.9
+CAND0131,SK008,Recruitment Analytics,Advanced,0.9
+CAND0131,SK010,Automation,Beginner,1.2
+CAND0131,SK014,LLMs,Advanced,3.3
+CAND0131,SK018,DAX,Advanced,2.5
+CAND0132,SK002,Excel,Advanced,1.4
+CAND0132,SK003,Power BI,Advanced,2.0
+CAND0132,SK004,Python,Intermediate,2.4
+CAND0132,SK007,Dashboarding,Advanced,3.1
+CAND0132,SK010,Automation,Intermediate,2.1
+CAND0132,SK013,Machine Learning,Advanced,1.8
+CAND0132,SK018,DAX,Intermediate,3.5
+CAND0133,SK001,SQL,Beginner,0.4
+CAND0133,SK002,Excel,Advanced,0.5
+CAND0133,SK004,Python,Beginner,2.2
+CAND0133,SK007,Dashboarding,Intermediate,2.1
+CAND0133,SK008,Recruitment Analytics,Beginner,0.7
+CAND0133,SK009,Talent Intelligence,Intermediate,1.9
+CAND0133,SK010,Automation,Intermediate,3.7
+CAND0133,SK013,Machine Learning,Advanced,2.6
+CAND0133,SK014,LLMs,Intermediate,1.8
+CAND0133,SK019,ETL,Advanced,4.6
+CAND0134,SK001,SQL,Beginner,2.1
+CAND0134,SK002,Excel,Intermediate,1.8
+CAND0134,SK003,Power BI,Intermediate,4.1
+CAND0134,SK004,Python,Beginner,1.6
+CAND0134,SK011,Power Automate,Beginner,1.9
+CAND0134,SK012,APIs,Intermediate,2.0
+CAND0134,SK016,Problem Solving,Intermediate,1.8
+CAND0134,SK018,DAX,Beginner,1.0
+CAND0134,SK020,Statistics,Intermediate,4.3
+CAND0135,SK001,SQL,Intermediate,4.6
+CAND0135,SK003,Power BI,Intermediate,0.3
+CAND0135,SK004,Python,Beginner,4.2
+CAND0135,SK010,Automation,Intermediate,4.4
+CAND0135,SK016,Problem Solving,Advanced,0.5
+CAND0135,SK017,Market Research,Beginner,4.8
+CAND0135,SK020,Statistics,Intermediate,1.1
+CAND0136,SK001,SQL,Advanced,3.7
+CAND0136,SK002,Excel,Beginner,0.3
+CAND0136,SK003,Power BI,Advanced,3.9
+CAND0136,SK004,Python,Intermediate,3.8
+CAND0136,SK005,Pandas,Beginner,1.5
+CAND0136,SK007,Dashboarding,Advanced,0.3
+CAND0136,SK009,Talent Intelligence,Intermediate,3.3
+CAND0136,SK010,Automation,Advanced,2.5
+CAND0136,SK014,LLMs,Intermediate,4.4
+CAND0136,SK015,Communication,Advanced,4.4
+CAND0137,SK001,SQL,Beginner,1.6
+CAND0137,SK002,Excel,Beginner,2.4
+CAND0137,SK004,Python,Intermediate,3.8
+CAND0137,SK005,Pandas,Intermediate,3.8
+CAND0137,SK009,Talent Intelligence,Intermediate,1.6
+CAND0137,SK011,Power Automate,Advanced,4.9
+CAND0137,SK020,Statistics,Beginner,3.0
+CAND0138,SK001,SQL,Intermediate,0.2
+CAND0138,SK004,Python,Advanced,3.2
+CAND0138,SK008,Recruitment Analytics,Intermediate,0.9
+CAND0138,SK009,Talent Intelligence,Beginner,4.0
+CAND0138,SK010,Automation,Beginner,1.9
+CAND0138,SK011,Power Automate,Advanced,3.1
+CAND0138,SK014,LLMs,Beginner,1.8
+CAND0138,SK019,ETL,Intermediate,3.1
+CAND0139,SK001,SQL,Advanced,2.4
+CAND0139,SK002,Excel,Intermediate,2.8
+CAND0139,SK005,Pandas,Intermediate,1.9
+CAND0139,SK007,Dashboarding,Intermediate,4.8
+CAND0139,SK010,Automation,Beginner,3.4
+CAND0139,SK015,Communication,Beginner,2.7
+CAND0140,SK001,SQL,Advanced,2.7
+CAND0140,SK002,Excel,Intermediate,3.5
+CAND0140,SK006,Data Cleaning,Intermediate,0.7
+CAND0140,SK007,Dashboarding,Intermediate,1.0
+CAND0140,SK009,Talent Intelligence,Advanced,3.9
+CAND0140,SK015,Communication,Beginner,4.9
+CAND0140,SK017,Market Research,Intermediate,0.3
+CAND0140,SK020,Statistics,Advanced,1.9
+CAND0141,SK002,Excel,Intermediate,1.1
+CAND0141,SK005,Pandas,Beginner,2.0
+CAND0141,SK006,Data Cleaning,Beginner,4.2
+CAND0141,SK008,Recruitment Analytics,Beginner,3.4
+CAND0141,SK009,Talent Intelligence,Advanced,4.6
+CAND0141,SK013,Machine Learning,Beginner,2.0
+CAND0141,SK014,LLMs,Advanced,4.6
+CAND0141,SK015,Communication,Beginner,2.4
+CAND0141,SK016,Problem Solving,Advanced,0.9
+CAND0142,SK004,Python,Intermediate,4.7
+CAND0142,SK010,Automation,Beginner,0.8
+CAND0142,SK011,Power Automate,Advanced,0.9
+CAND0142,SK012,APIs,Advanced,2.5
+CAND0142,SK013,Machine Learning,Intermediate,3.2
+CAND0142,SK014,LLMs,Advanced,0.3
+CAND0143,SK002,Excel,Intermediate,4.2
+CAND0143,SK006,Data Cleaning,Advanced,2.8
+CAND0143,SK008,Recruitment Analytics,Advanced,2.4
+CAND0143,SK016,Problem Solving,Advanced,4.5
+CAND0143,SK017,Market Research,Intermediate,4.1
+CAND0144,SK001,SQL,Advanced,2.8
+CAND0144,SK002,Excel,Advanced,0.4
+CAND0144,SK003,Power BI,Intermediate,3.8
+CAND0144,SK007,Dashboarding,Intermediate,2.7
+CAND0144,SK008,Recruitment Analytics,Intermediate,3.0
+CAND0144,SK009,Talent Intelligence,Intermediate,2.6
+CAND0144,SK011,Power Automate,Beginner,2.9
+CAND0144,SK015,Communication,Intermediate,2.0
+CAND0144,SK019,ETL,Advanced,3.9
+CAND0145,SK001,SQL,Beginner,4.8
+CAND0145,SK002,Excel,Advanced,2.5
+CAND0145,SK004,Python,Beginner,0.9
+CAND0145,SK006,Data Cleaning,Advanced,2.1
+CAND0145,SK007,Dashboarding,Beginner,1.1
+CAND0145,SK009,Talent Intelligence,Advanced,4.0
+CAND0145,SK013,Machine Learning,Advanced,0.3
+CAND0145,SK015,Communication,Intermediate,3.7
+CAND0145,SK016,Problem Solving,Advanced,4.4
+CAND0145,SK018,DAX,Advanced,0.7
+CAND0146,SK001,SQL,Intermediate,3.6
+CAND0146,SK002,Excel,Advanced,0.4
+CAND0146,SK004,Python,Beginner,0.4
+CAND0146,SK005,Pandas,Advanced,0.8
+CAND0146,SK013,Machine Learning,Intermediate,3.9
+CAND0146,SK014,LLMs,Advanced,2.9
+CAND0146,SK017,Market Research,Intermediate,2.9
+CAND0146,SK018,DAX,Beginner,1.3
+CAND0146,SK020,Statistics,Advanced,2.7
+CAND0147,SK001,SQL,Advanced,4.0
+CAND0147,SK002,Excel,Beginner,5.0
+CAND0147,SK007,Dashboarding,Beginner,1.8
+CAND0147,SK008,Recruitment Analytics,Advanced,2.3
+CAND0147,SK010,Automation,Intermediate,2.3
+CAND0147,SK011,Power Automate,Advanced,0.7
+CAND0147,SK015,Communication,Beginner,4.2
+CAND0148,SK002,Excel,Beginner,1.9
+CAND0148,SK004,Python,Advanced,0.6
+CAND0148,SK011,Power Automate,Intermediate,3.2
+CAND0148,SK018,DAX,Advanced,4.4
+CAND0148,SK019,ETL,Beginner,2.7
+CAND0149,SK002,Excel,Intermediate,4.8
+CAND0149,SK004,Python,Advanced,4.6
+CAND0149,SK007,Dashboarding,Beginner,3.8
+CAND0149,SK009,Talent Intelligence,Beginner,4.9
+CAND0149,SK010,Automation,Intermediate,4.3
+CAND0149,SK012,APIs,Beginner,2.1
+CAND0149,SK019,ETL,Intermediate,0.7
+CAND0150,SK001,SQL,Advanced,4.9
+CAND0150,SK002,Excel,Advanced,1.5
+CAND0150,SK003,Power BI,Intermediate,2.7
+CAND0150,SK004,Python,Intermediate,2.2
+CAND0150,SK008,Recruitment Analytics,Intermediate,3.0
+CAND0150,SK010,Automation,Intermediate,0.3
+CAND0150,SK015,Communication,Beginner,4.1
+CAND0150,SK017,Market Research,Intermediate,3.7
+CAND0150,SK018,DAX,Intermediate,4.8
+CAND0151,SK002,Excel,Advanced,3.4
+CAND0151,SK003,Power BI,Beginner,1.9
+CAND0151,SK005,Pandas,Intermediate,2.0
+CAND0151,SK007,Dashboarding,Advanced,4.6
+CAND0151,SK014,LLMs,Advanced,4.6
+CAND0152,SK004,Python,Beginner,0.9
+CAND0152,SK008,Recruitment Analytics,Beginner,1.8
+CAND0152,SK013,Machine Learning,Intermediate,4.6
+CAND0152,SK015,Communication,Advanced,1.7
+CAND0152,SK017,Market Research,Beginner,5.0
+CAND0153,SK003,Power BI,Intermediate,3.2
+CAND0153,SK004,Python,Intermediate,2.8
+CAND0153,SK006,Data Cleaning,Advanced,2.3
+CAND0153,SK008,Recruitment Analytics,Intermediate,0.3
+CAND0153,SK010,Automation,Intermediate,4.6
+CAND0153,SK013,Machine Learning,Intermediate,1.6
+CAND0154,SK002,Excel,Beginner,4.6
+CAND0154,SK004,Python,Intermediate,1.5
+CAND0154,SK006,Data Cleaning,Advanced,0.8
+CAND0154,SK009,Talent Intelligence,Beginner,2.3
+CAND0154,SK012,APIs,Intermediate,0.3
+CAND0154,SK013,Machine Learning,Beginner,4.5
+CAND0154,SK016,Problem Solving,Beginner,2.7
+CAND0154,SK017,Market Research,Beginner,2.1
+CAND0155,SK001,SQL,Advanced,1.4
+CAND0155,SK003,Power BI,Advanced,1.2
+CAND0155,SK004,Python,Intermediate,4.1
+CAND0155,SK005,Pandas,Intermediate,0.3
+CAND0155,SK008,Recruitment Analytics,Beginner,3.0
+CAND0155,SK010,Automation,Advanced,4.3
+CAND0155,SK011,Power Automate,Advanced,2.1
+CAND0155,SK014,LLMs,Advanced,3.3
+CAND0155,SK019,ETL,Beginner,4.9
+CAND0156,SK001,SQL,Beginner,0.8
+CAND0156,SK004,Python,Beginner,2.2
+CAND0156,SK005,Pandas,Intermediate,2.4
+CAND0156,SK012,APIs,Advanced,3.8
+CAND0156,SK014,LLMs,Intermediate,2.2
+CAND0157,SK001,SQL,Beginner,0.8
+CAND0157,SK002,Excel,Beginner,0.8
+CAND0157,SK005,Pandas,Advanced,4.9
+CAND0157,SK011,Power Automate,Intermediate,3.1
+CAND0157,SK013,Machine Learning,Advanced,0.4
+CAND0158,SK001,SQL,Intermediate,4.3
+CAND0158,SK004,Python,Advanced,0.5
+CAND0158,SK008,Recruitment Analytics,Beginner,3.3
+CAND0158,SK014,LLMs,Intermediate,4.1
+CAND0158,SK015,Communication,Beginner,1.5
+CAND0158,SK018,DAX,Beginner,3.2
+CAND0158,SK019,ETL,Beginner,1.4
+CAND0159,SK002,Excel,Beginner,0.7
+CAND0159,SK003,Power BI,Intermediate,1.4
+CAND0159,SK007,Dashboarding,Beginner,2.0
+CAND0159,SK010,Automation,Beginner,2.9
+CAND0159,SK012,APIs,Intermediate,3.7
+CAND0159,SK013,Machine Learning,Advanced,2.0
+CAND0159,SK015,Communication,Advanced,3.2
+CAND0160,SK002,Excel,Advanced,0.4
+CAND0160,SK004,Python,Beginner,4.7
+CAND0160,SK006,Data Cleaning,Advanced,1.8
+CAND0160,SK007,Dashboarding,Beginner,3.8
+CAND0160,SK015,Communication,Intermediate,1.8
+CAND0160,SK016,Problem Solving,Advanced,3.7
+CAND0160,SK019,ETL,Beginner,4.2
+CAND0160,SK020,Statistics,Intermediate,3.9
+CAND0161,SK002,Excel,Intermediate,3.8
+CAND0161,SK004,Python,Beginner,0.5
+CAND0161,SK005,Pandas,Intermediate,1.5
+CAND0161,SK006,Data Cleaning,Advanced,3.7
+CAND0161,SK009,Talent Intelligence,Beginner,2.0
+CAND0161,SK013,Machine Learning,Intermediate,1.6
+CAND0161,SK016,Problem Solving,Beginner,0.9
+CAND0161,SK018,DAX,Beginner,0.7
+CAND0162,SK002,Excel,Intermediate,1.6
+CAND0162,SK003,Power BI,Intermediate,2.6
+CAND0162,SK004,Python,Intermediate,2.2
+CAND0162,SK011,Power Automate,Advanced,1.1
+CAND0162,SK015,Communication,Advanced,2.7
+CAND0162,SK017,Market Research,Intermediate,2.6
+CAND0162,SK019,ETL,Beginner,0.7
+CAND0162,SK020,Statistics,Advanced,2.8
+CAND0163,SK001,SQL,Intermediate,2.8
+CAND0163,SK002,Excel,Beginner,3.2
+CAND0163,SK003,Power BI,Beginner,2.5
+CAND0163,SK004,Python,Advanced,0.6
+CAND0163,SK007,Dashboarding,Intermediate,0.7
+CAND0163,SK010,Automation,Advanced,3.4
+CAND0163,SK011,Power Automate,Advanced,2.7
+CAND0163,SK020,Statistics,Intermediate,1.6
+CAND0164,SK001,SQL,Advanced,0.5
+CAND0164,SK002,Excel,Intermediate,1.1
+CAND0164,SK004,Python,Advanced,1.1
+CAND0164,SK005,Pandas,Intermediate,0.4
+CAND0164,SK014,LLMs,Beginner,1.1
+CAND0164,SK015,Communication,Beginner,4.8
+CAND0164,SK018,DAX,Intermediate,4.4
+CAND0165,SK001,SQL,Intermediate,2.2
+CAND0165,SK002,Excel,Beginner,0.7
+CAND0165,SK004,Python,Beginner,1.4
+CAND0165,SK005,Pandas,Advanced,3.0
+CAND0165,SK006,Data Cleaning,Beginner,0.3
+CAND0165,SK010,Automation,Intermediate,2.2
+CAND0165,SK011,Power Automate,Beginner,1.2
+CAND0165,SK012,APIs,Advanced,2.7
+CAND0166,SK002,Excel,Beginner,1.1
+CAND0166,SK005,Pandas,Beginner,0.4
+CAND0166,SK009,Talent Intelligence,Intermediate,0.9
+CAND0166,SK017,Market Research,Beginner,0.7
+CAND0166,SK020,Statistics,Advanced,3.7
+CAND0167,SK001,SQL,Beginner,1.3
+CAND0167,SK002,Excel,Beginner,1.9
+CAND0167,SK003,Power BI,Advanced,2.0
+CAND0167,SK004,Python,Beginner,4.0
+CAND0167,SK007,Dashboarding,Beginner,1.4
+CAND0167,SK009,Talent Intelligence,Advanced,1.4
+CAND0168,SK001,SQL,Intermediate,2.3
+CAND0168,SK003,Power BI,Beginner,1.0
+CAND0168,SK004,Python,Advanced,2.7
+CAND0168,SK005,Pandas,Intermediate,1.1
+CAND0168,SK007,Dashboarding,Beginner,3.8
+CAND0168,SK009,Talent Intelligence,Advanced,4.1
+CAND0168,SK010,Automation,Intermediate,1.4
+CAND0168,SK011,Power Automate,Intermediate,3.3
+CAND0168,SK020,Statistics,Intermediate,3.2
+CAND0169,SK004,Python,Beginner,1.8
+CAND0169,SK006,Data Cleaning,Beginner,5.0
+CAND0169,SK009,Talent Intelligence,Intermediate,2.0
+CAND0169,SK012,APIs,Intermediate,2.9
+CAND0169,SK018,DAX,Beginner,1.5
+CAND0169,SK019,ETL,Intermediate,4.8
+CAND0170,SK001,SQL,Beginner,1.4
+CAND0170,SK002,Excel,Advanced,3.6
+CAND0170,SK005,Pandas,Beginner,1.6
+CAND0170,SK008,Recruitment Analytics,Intermediate,3.9
+CAND0170,SK014,LLMs,Intermediate,4.6
+CAND0170,SK017,Market Research,Intermediate,2.3
+CAND0170,SK019,ETL,Intermediate,3.4
+CAND0171,SK001,SQL,Advanced,3.8
+CAND0171,SK002,Excel,Intermediate,2.6
+CAND0171,SK005,Pandas,Advanced,0.9
+CAND0171,SK007,Dashboarding,Beginner,1.8
+CAND0171,SK011,Power Automate,Beginner,1.0
+CAND0171,SK012,APIs,Intermediate,4.3
+CAND0171,SK014,LLMs,Advanced,4.7
+CAND0171,SK018,DAX,Beginner,3.8
+CAND0172,SK001,SQL,Beginner,2.2
+CAND0172,SK002,Excel,Beginner,2.1
+CAND0172,SK006,Data Cleaning,Advanced,0.9
+CAND0172,SK007,Dashboarding,Advanced,2.5
+CAND0172,SK008,Recruitment Analytics,Advanced,1.3
+CAND0172,SK009,Talent Intelligence,Advanced,3.8
+CAND0172,SK010,Automation,Advanced,4.0
+CAND0172,SK011,Power Automate,Beginner,2.2
+CAND0172,SK017,Market Research,Intermediate,4.3
+CAND0172,SK018,DAX,Advanced,4.7
+CAND0173,SK002,Excel,Intermediate,4.1
+CAND0173,SK004,Python,Intermediate,0.8
+CAND0173,SK007,Dashboarding,Beginner,2.5
+CAND0173,SK013,Machine Learning,Beginner,3.9
+CAND0173,SK017,Market Research,Beginner,4.7
+CAND0174,SK001,SQL,Beginner,4.9
+CAND0174,SK004,Python,Intermediate,4.0
+CAND0174,SK005,Pandas,Advanced,3.9
+CAND0174,SK007,Dashboarding,Intermediate,2.1
+CAND0174,SK014,LLMs,Intermediate,3.3
+CAND0174,SK016,Problem Solving,Beginner,3.8
+CAND0174,SK018,DAX,Advanced,1.0
+CAND0175,SK001,SQL,Advanced,3.2
+CAND0175,SK004,Python,Intermediate,0.3
+CAND0175,SK007,Dashboarding,Intermediate,4.1
+CAND0175,SK008,Recruitment Analytics,Intermediate,2.6
+CAND0175,SK012,APIs,Advanced,0.6
+CAND0175,SK013,Machine Learning,Advanced,0.7
+CAND0175,SK018,DAX,Advanced,2.2
+CAND0176,SK001,SQL,Beginner,1.8
+CAND0176,SK003,Power BI,Advanced,0.7
+CAND0176,SK008,Recruitment Analytics,Beginner,4.8
+CAND0176,SK010,Automation,Beginner,1.0
+CAND0176,SK011,Power Automate,Advanced,0.3
+CAND0176,SK014,LLMs,Intermediate,3.9
+CAND0176,SK015,Communication,Beginner,2.9
+CAND0176,SK019,ETL,Intermediate,3.7
+CAND0177,SK001,SQL,Advanced,2.2
+CAND0177,SK002,Excel,Intermediate,3.4
+CAND0177,SK003,Power BI,Beginner,4.8
+CAND0177,SK007,Dashboarding,Intermediate,2.8
+CAND0177,SK008,Recruitment Analytics,Beginner,1.6
+CAND0177,SK018,DAX,Advanced,2.8
+CAND0178,SK001,SQL,Advanced,0.6
+CAND0178,SK002,Excel,Intermediate,0.3
+CAND0178,SK003,Power BI,Intermediate,3.0
+CAND0178,SK004,Python,Advanced,3.0
+CAND0178,SK010,Automation,Advanced,0.6
+CAND0178,SK014,LLMs,Beginner,0.4
+CAND0178,SK016,Problem Solving,Intermediate,3.3
+CAND0178,SK020,Statistics,Beginner,4.5
+CAND0179,SK004,Python,Advanced,5.0
+CAND0179,SK005,Pandas,Advanced,4.8
+CAND0179,SK014,LLMs,Advanced,3.1
+CAND0179,SK017,Market Research,Beginner,1.6
+CAND0179,SK018,DAX,Beginner,4.8
+CAND0180,SK004,Python,Beginner,0.6
+CAND0180,SK009,Talent Intelligence,Beginner,3.5
+CAND0180,SK010,Automation,Advanced,4.9
+CAND0180,SK011,Power Automate,Beginner,2.5
+CAND0180,SK017,Market Research,Advanced,0.7
+CAND0180,SK020,Statistics,Advanced,2.0
+CAND0181,SK002,Excel,Advanced,0.7
+CAND0181,SK003,Power BI,Advanced,1.7
+CAND0181,SK004,Python,Beginner,5.0
+CAND0181,SK011,Power Automate,Intermediate,4.5
+CAND0181,SK016,Problem Solving,Advanced,4.4
+CAND0182,SK001,SQL,Advanced,1.6
+CAND0182,SK003,Power BI,Beginner,4.6
+CAND0182,SK010,Automation,Advanced,0.6
+CAND0182,SK017,Market Research,Advanced,1.2
+CAND0182,SK018,DAX,Intermediate,2.5
+CAND0182,SK019,ETL,Advanced,2.0
+CAND0183,SK002,Excel,Intermediate,3.2
+CAND0183,SK003,Power BI,Beginner,3.4
+CAND0183,SK007,Dashboarding,Intermediate,0.8
+CAND0183,SK008,Recruitment Analytics,Advanced,5.0
+CAND0183,SK009,Talent Intelligence,Beginner,1.4
+CAND0183,SK010,Automation,Beginner,0.8
+CAND0183,SK013,Machine Learning,Intermediate,4.4
+CAND0183,SK014,LLMs,Beginner,3.6
+CAND0184,SK001,SQL,Beginner,2.1
+CAND0184,SK002,Excel,Intermediate,2.8
+CAND0184,SK007,Dashboarding,Intermediate,1.8
+CAND0184,SK011,Power Automate,Intermediate,1.0
+CAND0184,SK020,Statistics,Advanced,2.6
+CAND0185,SK001,SQL,Advanced,2.8
+CAND0185,SK002,Excel,Advanced,3.1
+CAND0185,SK003,Power BI,Advanced,2.7
+CAND0185,SK005,Pandas,Intermediate,2.2
+CAND0185,SK008,Recruitment Analytics,Advanced,1.6
+CAND0185,SK010,Automation,Advanced,4.9
+CAND0185,SK012,APIs,Advanced,1.3
+CAND0186,SK001,SQL,Intermediate,1.2
+CAND0186,SK002,Excel,Intermediate,3.9
+CAND0186,SK004,Python,Intermediate,4.5
+CAND0186,SK011,Power Automate,Beginner,2.4
+CAND0186,SK012,APIs,Advanced,0.6
+CAND0187,SK001,SQL,Intermediate,0.3
+CAND0187,SK002,Excel,Beginner,0.6
+CAND0187,SK005,Pandas,Advanced,4.6
+CAND0187,SK012,APIs,Beginner,4.2
+CAND0187,SK013,Machine Learning,Beginner,4.9
+CAND0187,SK019,ETL,Intermediate,2.6
+CAND0187,SK020,Statistics,Intermediate,4.3
+CAND0188,SK001,SQL,Advanced,3.1
+CAND0188,SK002,Excel,Advanced,1.5
+CAND0188,SK004,Python,Beginner,2.5
+CAND0188,SK015,Communication,Advanced,0.9
+CAND0188,SK016,Problem Solving,Intermediate,2.2
+CAND0188,SK017,Market Research,Beginner,2.6
+CAND0189,SK001,SQL,Advanced,0.9
+CAND0189,SK004,Python,Beginner,2.8
+CAND0189,SK005,Pandas,Intermediate,1.8
+CAND0189,SK006,Data Cleaning,Beginner,2.7
+CAND0189,SK012,APIs,Intermediate,5.0
+CAND0190,SK001,SQL,Beginner,1.3
+CAND0190,SK002,Excel,Beginner,3.6
+CAND0190,SK009,Talent Intelligence,Beginner,1.9
+CAND0190,SK010,Automation,Beginner,4.2
+CAND0190,SK012,APIs,Intermediate,1.1
+CAND0190,SK017,Market Research,Intermediate,4.7
+CAND0190,SK018,DAX,Beginner,3.9
+CAND0190,SK020,Statistics,Advanced,3.0
+CAND0191,SK004,Python,Intermediate,2.7
+CAND0191,SK010,Automation,Beginner,0.8
+CAND0191,SK012,APIs,Advanced,0.3
+CAND0191,SK014,LLMs,Beginner,0.3
+CAND0192,SK002,Excel,Advanced,3.9
+CAND0192,SK004,Python,Beginner,4.7
+CAND0192,SK008,Recruitment Analytics,Intermediate,1.6
+CAND0192,SK010,Automation,Advanced,2.2
+CAND0192,SK011,Power Automate,Intermediate,1.6
+CAND0192,SK019,ETL,Advanced,0.8
+CAND0193,SK001,SQL,Advanced,3.3
+CAND0193,SK002,Excel,Beginner,3.4
+CAND0193,SK003,Power BI,Beginner,2.4
+CAND0193,SK004,Python,Advanced,3.9
+CAND0193,SK006,Data Cleaning,Advanced,0.9
+CAND0193,SK008,Recruitment Analytics,Beginner,4.2
+CAND0193,SK017,Market Research,Advanced,3.7
+CAND0194,SK001,SQL,Intermediate,3.0
+CAND0194,SK006,Data Cleaning,Intermediate,3.5
+CAND0194,SK008,Recruitment Analytics,Beginner,2.8
+CAND0194,SK009,Talent Intelligence,Intermediate,1.1
+CAND0194,SK011,Power Automate,Advanced,0.2
+CAND0194,SK013,Machine Learning,Intermediate,3.1
+CAND0194,SK014,LLMs,Intermediate,2.9
+CAND0195,SK004,Python,Beginner,3.7
+CAND0195,SK005,Pandas,Intermediate,1.8
+CAND0195,SK010,Automation,Intermediate,1.4
+CAND0195,SK012,APIs,Intermediate,3.8
+CAND0195,SK017,Market Research,Intermediate,2.3
+CAND0196,SK001,SQL,Advanced,2.9
+CAND0196,SK002,Excel,Intermediate,3.0
+CAND0196,SK003,Power BI,Advanced,0.5
+CAND0196,SK004,Python,Intermediate,1.3
+CAND0196,SK005,Pandas,Beginner,2.7
+CAND0196,SK011,Power Automate,Beginner,2.5
+CAND0196,SK013,Machine Learning,Intermediate,3.2
+CAND0197,SK001,SQL,Beginner,1.8
+CAND0197,SK009,Talent Intelligence,Beginner,2.8
+CAND0197,SK010,Automation,Advanced,1.1
+CAND0197,SK013,Machine Learning,Advanced,0.9
+CAND0197,SK018,DAX,Intermediate,1.0
+CAND0197,SK020,Statistics,Intermediate,2.7
+CAND0198,SK001,SQL,Intermediate,3.1
+CAND0198,SK003,Power BI,Intermediate,2.8
+CAND0198,SK004,Python,Intermediate,2.4
+CAND0198,SK005,Pandas,Advanced,4.7
+CAND0198,SK009,Talent Intelligence,Intermediate,1.0
+CAND0198,SK015,Communication,Intermediate,2.9
+CAND0199,SK001,SQL,Beginner,3.2
+CAND0199,SK004,Python,Intermediate,3.4
+CAND0199,SK006,Data Cleaning,Intermediate,1.9
+CAND0199,SK008,Recruitment Analytics,Beginner,4.3
+CAND0199,SK009,Talent Intelligence,Intermediate,3.3
+CAND0199,SK012,APIs,Beginner,2.7
+CAND0199,SK019,ETL,Beginner,0.4
+CAND0199,SK020,Statistics,Beginner,4.6
+CAND0200,SK001,SQL,Beginner,3.1
+CAND0200,SK002,Excel,Beginner,0.3
+CAND0200,SK003,Power BI,Beginner,2.2
+CAND0200,SK004,Python,Advanced,4.7
+CAND0200,SK006,Data Cleaning,Beginner,4.5
+CAND0200,SK013,Machine Learning,Intermediate,3.5
+CAND0200,SK014,LLMs,Advanced,1.0
+CAND0200,SK020,Statistics,Intermediate,2.0
+CAND0201,SK001,SQL,Beginner,4.2
+CAND0201,SK005,Pandas,Advanced,1.0
+CAND0201,SK008,Recruitment Analytics,Beginner,1.6
+CAND0201,SK013,Machine Learning,Intermediate,0.2
+CAND0201,SK016,Problem Solving,Beginner,0.4
+CAND0202,SK002,Excel,Intermediate,3.1
+CAND0202,SK004,Python,Beginner,3.1
+CAND0202,SK008,Recruitment Analytics,Beginner,0.5
+CAND0202,SK019,ETL,Beginner,1.1
+CAND0203,SK001,SQL,Intermediate,0.5
+CAND0203,SK003,Power BI,Advanced,2.0
+CAND0203,SK004,Python,Advanced,1.7
+CAND0203,SK005,Pandas,Advanced,2.4
+CAND0203,SK006,Data Cleaning,Advanced,4.1
+CAND0203,SK011,Power Automate,Beginner,1.3
+CAND0203,SK013,Machine Learning,Intermediate,4.0
+CAND0203,SK014,LLMs,Intermediate,3.7
+CAND0203,SK019,ETL,Beginner,0.9
+CAND0204,SK001,SQL,Intermediate,4.2
+CAND0204,SK002,Excel,Intermediate,0.3
+CAND0204,SK003,Power BI,Advanced,0.8
+CAND0204,SK004,Python,Intermediate,4.7
+CAND0204,SK013,Machine Learning,Intermediate,1.1
+CAND0204,SK015,Communication,Advanced,3.6
+CAND0204,SK018,DAX,Beginner,4.6
+CAND0204,SK020,Statistics,Advanced,2.4
+CAND0205,SK002,Excel,Beginner,0.8
+CAND0205,SK003,Power BI,Advanced,1.0
+CAND0205,SK006,Data Cleaning,Beginner,4.1
+CAND0205,SK011,Power Automate,Advanced,1.7
+CAND0205,SK014,LLMs,Advanced,0.5
+CAND0205,SK019,ETL,Advanced,0.6
+CAND0205,SK020,Statistics,Advanced,3.2
+CAND0206,SK001,SQL,Beginner,2.1
+CAND0206,SK003,Power BI,Intermediate,3.2
+CAND0206,SK004,Python,Beginner,1.8
+CAND0206,SK005,Pandas,Beginner,0.9
+CAND0206,SK008,Recruitment Analytics,Advanced,2.5
+CAND0206,SK013,Machine Learning,Advanced,1.9
+CAND0207,SK002,Excel,Intermediate,0.6
+CAND0207,SK003,Power BI,Intermediate,4.3
+CAND0207,SK004,Python,Advanced,1.7
+CAND0207,SK005,Pandas,Beginner,0.4
+CAND0207,SK010,Automation,Advanced,1.4
+CAND0207,SK013,Machine Learning,Intermediate,3.9
+CAND0207,SK017,Market Research,Beginner,2.9
+CAND0208,SK001,SQL,Intermediate,2.0
+CAND0208,SK003,Power BI,Beginner,0.8
+CAND0208,SK005,Pandas,Intermediate,3.8
+CAND0208,SK007,Dashboarding,Advanced,3.6
+CAND0208,SK008,Recruitment Analytics,Beginner,2.6
+CAND0208,SK016,Problem Solving,Advanced,1.2
+CAND0208,SK017,Market Research,Advanced,2.6
+CAND0208,SK019,ETL,Intermediate,2.9
+CAND0208,SK020,Statistics,Intermediate,4.5
+CAND0209,SK001,SQL,Intermediate,2.1
+CAND0209,SK002,Excel,Beginner,2.3
+CAND0209,SK004,Python,Beginner,4.4
+CAND0209,SK005,Pandas,Intermediate,0.5
+CAND0209,SK009,Talent Intelligence,Beginner,2.5
+CAND0209,SK011,Power Automate,Intermediate,1.7
+CAND0209,SK014,LLMs,Intermediate,1.3
+CAND0209,SK018,DAX,Beginner,2.5
+CAND0210,SK001,SQL,Beginner,1.0
+CAND0210,SK005,Pandas,Advanced,1.6
+CAND0210,SK011,Power Automate,Intermediate,4.2
+CAND0210,SK013,Machine Learning,Beginner,1.7
+CAND0210,SK014,LLMs,Advanced,0.9
+CAND0210,SK016,Problem Solving,Beginner,4.8
+CAND0210,SK020,Statistics,Advanced,0.8
+CAND0211,SK001,SQL,Intermediate,4.4
+CAND0211,SK002,Excel,Advanced,2.6
+CAND0211,SK003,Power BI,Advanced,4.7
+CAND0211,SK004,Python,Advanced,1.7
+CAND0211,SK011,Power Automate,Beginner,3.1
+CAND0211,SK013,Machine Learning,Advanced,3.9
+CAND0211,SK014,LLMs,Intermediate,3.5
+CAND0211,SK017,Market Research,Intermediate,4.4
+CAND0211,SK019,ETL,Beginner,0.8
+CAND0211,SK020,Statistics,Beginner,1.6
+CAND0212,SK001,SQL,Advanced,3.4
+CAND0212,SK005,Pandas,Advanced,0.2
+CAND0212,SK006,Data Cleaning,Intermediate,4.9
+CAND0212,SK007,Dashboarding,Advanced,2.9
+CAND0212,SK010,Automation,Beginner,2.0
+CAND0212,SK015,Communication,Advanced,1.6
+CAND0213,SK001,SQL,Intermediate,2.9
+CAND0213,SK004,Python,Beginner,3.9
+CAND0213,SK007,Dashboarding,Beginner,2.3
+CAND0213,SK008,Recruitment Analytics,Advanced,4.4
+CAND0213,SK015,Communication,Advanced,0.5
+CAND0214,SK001,SQL,Beginner,3.4
+CAND0214,SK002,Excel,Advanced,2.2
+CAND0214,SK003,Power BI,Beginner,0.7
+CAND0214,SK004,Python,Beginner,4.4
+CAND0214,SK007,Dashboarding,Beginner,0.3
+CAND0214,SK009,Talent Intelligence,Beginner,4.5
+CAND0214,SK011,Power Automate,Advanced,3.4
+CAND0214,SK012,APIs,Intermediate,2.6
+CAND0214,SK013,Machine Learning,Intermediate,0.8
+CAND0214,SK016,Problem Solving,Intermediate,3.9
+CAND0214,SK017,Market Research,Advanced,1.2
+CAND0215,SK001,SQL,Intermediate,3.7
+CAND0215,SK006,Data Cleaning,Advanced,0.6
+CAND0215,SK013,Machine Learning,Beginner,2.0
+CAND0215,SK014,LLMs,Intermediate,3.3
+CAND0215,SK015,Communication,Intermediate,3.1
+CAND0216,SK001,SQL,Beginner,0.9
+CAND0216,SK004,Python,Advanced,2.0
+CAND0216,SK005,Pandas,Beginner,4.6
+CAND0216,SK012,APIs,Beginner,2.0
+CAND0216,SK014,LLMs,Advanced,4.9
+CAND0216,SK019,ETL,Beginner,0.6
+CAND0216,SK020,Statistics,Intermediate,1.6
+CAND0217,SK001,SQL,Advanced,2.6
+CAND0217,SK002,Excel,Advanced,3.8
+CAND0217,SK012,APIs,Advanced,0.4
+CAND0217,SK016,Problem Solving,Intermediate,3.3
+CAND0217,SK017,Market Research,Beginner,1.6
+CAND0218,SK001,SQL,Intermediate,1.1
+CAND0218,SK002,Excel,Advanced,3.3
+CAND0218,SK003,Power BI,Intermediate,2.7
+CAND0218,SK004,Python,Beginner,2.5
+CAND0218,SK008,Recruitment Analytics,Intermediate,1.7
+CAND0218,SK012,APIs,Advanced,0.4
+CAND0218,SK013,Machine Learning,Beginner,3.2
+CAND0218,SK015,Communication,Beginner,0.7
+CAND0218,SK017,Market Research,Intermediate,2.7
+CAND0219,SK004,Python,Advanced,0.4
+CAND0219,SK010,Automation,Intermediate,4.0
+CAND0219,SK013,Machine Learning,Advanced,0.7
+CAND0219,SK014,LLMs,Advanced,2.7
+CAND0219,SK015,Communication,Advanced,3.3
+CAND0219,SK016,Problem Solving,Beginner,2.5
+CAND0220,SK001,SQL,Advanced,4.9
+CAND0220,SK002,Excel,Beginner,0.6
+CAND0220,SK003,Power BI,Advanced,2.5
+CAND0220,SK004,Python,Intermediate,2.3
+CAND0220,SK012,APIs,Advanced,3.7
+CAND0220,SK014,LLMs,Advanced,1.2
+CAND0221,SK002,Excel,Advanced,1.2
+CAND0221,SK003,Power BI,Beginner,1.4
+CAND0221,SK004,Python,Advanced,2.8
+CAND0221,SK006,Data Cleaning,Advanced,1.9
+CAND0221,SK014,LLMs,Intermediate,2.3
+CAND0221,SK016,Problem Solving,Beginner,2.8
+CAND0222,SK001,SQL,Beginner,2.4
+CAND0222,SK002,Excel,Advanced,2.5
+CAND0222,SK006,Data Cleaning,Advanced,0.4
+CAND0222,SK008,Recruitment Analytics,Advanced,1.8
+CAND0222,SK012,APIs,Intermediate,4.7
+CAND0222,SK017,Market Research,Intermediate,2.8
+CAND0222,SK019,ETL,Advanced,4.4
+CAND0223,SK001,SQL,Beginner,2.5
+CAND0223,SK002,Excel,Intermediate,2.3
+CAND0223,SK005,Pandas,Advanced,4.1
+CAND0223,SK007,Dashboarding,Beginner,1.4
+CAND0223,SK017,Market Research,Beginner,3.3
+CAND0224,SK001,SQL,Beginner,0.2
+CAND0224,SK002,Excel,Advanced,2.4
+CAND0224,SK004,Python,Beginner,4.7
+CAND0224,SK005,Pandas,Beginner,2.8
+CAND0224,SK006,Data Cleaning,Advanced,4.6
+CAND0224,SK011,Power Automate,Beginner,4.5
+CAND0224,SK017,Market Research,Beginner,3.3
+CAND0225,SK001,SQL,Beginner,4.4
+CAND0225,SK006,Data Cleaning,Advanced,1.6
+CAND0225,SK016,Problem Solving,Intermediate,0.8
+CAND0225,SK017,Market Research,Advanced,2.5
+CAND0225,SK018,DAX,Advanced,4.6
+CAND0225,SK020,Statistics,Beginner,0.2
+CAND0226,SK001,SQL,Advanced,1.6
+CAND0226,SK002,Excel,Beginner,4.5
+CAND0226,SK003,Power BI,Beginner,1.9
+CAND0226,SK004,Python,Advanced,2.5
+CAND0226,SK005,Pandas,Advanced,3.4
+CAND0226,SK015,Communication,Intermediate,0.7
+CAND0226,SK017,Market Research,Advanced,4.2
+CAND0226,SK019,ETL,Advanced,4.5
+CAND0226,SK020,Statistics,Beginner,3.5
+CAND0227,SK001,SQL,Advanced,3.1
+CAND0227,SK002,Excel,Advanced,2.0
+CAND0227,SK004,Python,Beginner,1.1
+CAND0227,SK006,Data Cleaning,Intermediate,0.3
+CAND0227,SK007,Dashboarding,Advanced,3.6
+CAND0227,SK012,APIs,Beginner,1.0
+CAND0227,SK013,Machine Learning,Intermediate,4.7
+CAND0227,SK014,LLMs,Advanced,2.0
+CAND0227,SK016,Problem Solving,Advanced,1.9
+CAND0227,SK018,DAX,Intermediate,3.2
+CAND0228,SK003,Power BI,Intermediate,3.5
+CAND0228,SK005,Pandas,Intermediate,3.4
+CAND0228,SK008,Recruitment Analytics,Intermediate,0.4
+CAND0228,SK009,Talent Intelligence,Beginner,1.8
+CAND0228,SK019,ETL,Advanced,3.0
+CAND0229,SK001,SQL,Intermediate,0.2
+CAND0229,SK002,Excel,Advanced,0.4
+CAND0229,SK004,Python,Intermediate,1.9
+CAND0229,SK011,Power Automate,Advanced,3.6
+CAND0229,SK019,ETL,Advanced,1.5
+CAND0230,SK001,SQL,Beginner,3.1
+CAND0230,SK004,Python,Beginner,1.6
+CAND0230,SK005,Pandas,Intermediate,2.5
+CAND0230,SK006,Data Cleaning,Beginner,4.1
+CAND0230,SK007,Dashboarding,Intermediate,1.4
+CAND0230,SK008,Recruitment Analytics,Advanced,2.6
+CAND0230,SK011,Power Automate,Intermediate,4.9
+CAND0230,SK015,Communication,Intermediate,4.3
+CAND0230,SK018,DAX,Advanced,4.2
+CAND0231,SK001,SQL,Advanced,0.9
+CAND0231,SK002,Excel,Intermediate,2.8
+CAND0231,SK003,Power BI,Intermediate,4.3
+CAND0231,SK004,Python,Advanced,4.5
+CAND0231,SK005,Pandas,Advanced,2.6
+CAND0231,SK007,Dashboarding,Beginner,1.6
+CAND0231,SK016,Problem Solving,Beginner,4.1
+CAND0232,SK001,SQL,Intermediate,0.6
+CAND0232,SK002,Excel,Beginner,2.9
+CAND0232,SK003,Power BI,Intermediate,1.5
+CAND0232,SK013,Machine Learning,Beginner,2.6
+CAND0232,SK018,DAX,Beginner,2.1
+CAND0233,SK002,Excel,Advanced,3.9
+CAND0233,SK004,Python,Beginner,4.1
+CAND0233,SK007,Dashboarding,Beginner,4.6
+CAND0233,SK008,Recruitment Analytics,Beginner,3.7
+CAND0233,SK011,Power Automate,Advanced,0.5
+CAND0233,SK014,LLMs,Advanced,3.0
+CAND0234,SK004,Python,Advanced,4.8
+CAND0234,SK015,Communication,Beginner,2.7
+CAND0234,SK017,Market Research,Beginner,1.8
+CAND0234,SK018,DAX,Intermediate,0.5
+CAND0235,SK001,SQL,Beginner,3.9
+CAND0235,SK002,Excel,Intermediate,1.0
+CAND0235,SK004,Python,Advanced,0.3
+CAND0235,SK005,Pandas,Beginner,0.9
+CAND0235,SK006,Data Cleaning,Beginner,3.4
+CAND0235,SK008,Recruitment Analytics,Intermediate,2.7
+CAND0235,SK012,APIs,Intermediate,4.3
+CAND0235,SK015,Communication,Advanced,1.7
+CAND0235,SK018,DAX,Intermediate,4.5
+CAND0235,SK020,Statistics,Intermediate,3.9
+CAND0236,SK001,SQL,Beginner,3.4
+CAND0236,SK002,Excel,Advanced,1.4
+CAND0236,SK003,Power BI,Advanced,2.3
+CAND0236,SK008,Recruitment Analytics,Beginner,3.1
+CAND0236,SK012,APIs,Advanced,2.6
+CAND0236,SK018,DAX,Beginner,0.7
+CAND0237,SK004,Python,Beginner,2.1
+CAND0237,SK005,Pandas,Intermediate,2.3
+CAND0237,SK007,Dashboarding,Advanced,4.4
+CAND0237,SK008,Recruitment Analytics,Advanced,2.6
+CAND0237,SK010,Automation,Intermediate,4.4
+CAND0237,SK012,APIs,Beginner,3.4
+CAND0237,SK014,LLMs,Advanced,4.1
+CAND0237,SK016,Problem Solving,Beginner,2.2
+CAND0238,SK001,SQL,Advanced,1.0
+CAND0238,SK012,APIs,Intermediate,1.0
+CAND0238,SK014,LLMs,Beginner,1.1
+CAND0238,SK017,Market Research,Intermediate,2.3
+CAND0238,SK018,DAX,Advanced,4.2
+CAND0239,SK001,SQL,Advanced,4.5
+CAND0239,SK002,Excel,Advanced,4.8
+CAND0239,SK006,Data Cleaning,Beginner,2.4
+CAND0239,SK007,Dashboarding,Advanced,3.0
+CAND0239,SK013,Machine Learning,Intermediate,2.9
+CAND0239,SK015,Communication,Beginner,0.9
+CAND0239,SK018,DAX,Intermediate,3.2
+CAND0239,SK019,ETL,Intermediate,2.4
+CAND0240,SK001,SQL,Advanced,0.3
+CAND0240,SK009,Talent Intelligence,Beginner,4.6
+CAND0240,SK010,Automation,Advanced,4.7
+CAND0240,SK011,Power Automate,Intermediate,0.8
+CAND0240,SK013,Machine Learning,Intermediate,0.7
+CAND0240,SK014,LLMs,Intermediate,1.8
+CAND0240,SK016,Problem Solving,Advanced,3.0
+CAND0241,SK001,SQL,Intermediate,2.7
+CAND0241,SK002,Excel,Beginner,0.5
+CAND0241,SK003,Power BI,Advanced,1.9
+CAND0241,SK004,Python,Beginner,0.2
+CAND0241,SK005,Pandas,Advanced,1.1
+CAND0241,SK009,Talent Intelligence,Intermediate,3.1
+CAND0241,SK012,APIs,Advanced,1.1
+CAND0241,SK013,Machine Learning,Intermediate,2.9
+CAND0241,SK017,Market Research,Intermediate,1.9
+CAND0241,SK018,DAX,Intermediate,5.0
+CAND0242,SK001,SQL,Beginner,0.5
+CAND0242,SK004,Python,Advanced,2.1
+CAND0242,SK005,Pandas,Advanced,0.4
+CAND0242,SK007,Dashboarding,Intermediate,1.0
+CAND0242,SK020,Statistics,Beginner,2.1
+CAND0243,SK004,Python,Beginner,2.0
+CAND0243,SK005,Pandas,Beginner,0.3
+CAND0243,SK006,Data Cleaning,Intermediate,3.3
+CAND0243,SK007,Dashboarding,Beginner,4.7
+CAND0243,SK008,Recruitment Analytics,Intermediate,4.0
+CAND0243,SK012,APIs,Intermediate,3.3
+CAND0243,SK014,LLMs,Intermediate,0.9
+CAND0243,SK018,DAX,Advanced,4.1
+CAND0244,SK001,SQL,Advanced,3.9
+CAND0244,SK008,Recruitment Analytics,Intermediate,2.1
+CAND0244,SK010,Automation,Advanced,4.8
+CAND0244,SK012,APIs,Intermediate,4.5
+CAND0244,SK013,Machine Learning,Advanced,3.9
+CAND0244,SK016,Problem Solving,Intermediate,1.4
+CAND0244,SK020,Statistics,Advanced,2.0
+CAND0245,SK001,SQL,Intermediate,4.5
+CAND0245,SK002,Excel,Advanced,3.4
+CAND0245,SK004,Python,Intermediate,1.9
+CAND0245,SK005,Pandas,Advanced,1.2
+CAND0245,SK007,Dashboarding,Advanced,4.4
+CAND0245,SK009,Talent Intelligence,Advanced,1.2
+CAND0245,SK010,Automation,Intermediate,2.9
+CAND0245,SK012,APIs,Beginner,3.4
+CAND0245,SK019,ETL,Intermediate,3.3
+CAND0246,SK001,SQL,Advanced,4.1
+CAND0246,SK002,Excel,Intermediate,2.0
+CAND0246,SK004,Python,Intermediate,0.2
+CAND0246,SK006,Data Cleaning,Advanced,4.5
+CAND0246,SK007,Dashboarding,Intermediate,1.4
+CAND0246,SK014,LLMs,Advanced,2.2
+CAND0246,SK016,Problem Solving,Advanced,2.9
+CAND0246,SK017,Market Research,Advanced,4.2
+CAND0246,SK018,DAX,Intermediate,1.6
+CAND0246,SK019,ETL,Advanced,2.3
+CAND0247,SK001,SQL,Advanced,0.4
+CAND0247,SK002,Excel,Beginner,2.8
+CAND0247,SK004,Python,Intermediate,2.4
+CAND0247,SK011,Power Automate,Advanced,4.1
+CAND0247,SK012,APIs,Beginner,2.4
+CAND0247,SK013,Machine Learning,Intermediate,1.0
+CAND0247,SK015,Communication,Advanced,3.8
+CAND0247,SK017,Market Research,Advanced,0.4
+CAND0247,SK018,DAX,Intermediate,2.3
+CAND0248,SK002,Excel,Beginner,0.5
+CAND0248,SK005,Pandas,Beginner,1.8
+CAND0248,SK009,Talent Intelligence,Intermediate,0.7
+CAND0248,SK011,Power Automate,Beginner,3.4
+CAND0248,SK012,APIs,Advanced,3.5
+CAND0248,SK015,Communication,Beginner,1.6
+CAND0248,SK018,DAX,Intermediate,0.3
+CAND0248,SK019,ETL,Beginner,4.8
+CAND0249,SK002,Excel,Intermediate,3.9
+CAND0249,SK007,Dashboarding,Advanced,3.4
+CAND0249,SK008,Recruitment Analytics,Beginner,4.2
+CAND0249,SK010,Automation,Intermediate,3.2
+CAND0249,SK011,Power Automate,Intermediate,1.1
+CAND0250,SK002,Excel,Intermediate,1.9
+CAND0250,SK004,Python,Intermediate,4.1
+CAND0250,SK005,Pandas,Beginner,2.8
+CAND0250,SK008,Recruitment Analytics,Advanced,2.0
+CAND0250,SK012,APIs,Beginner,4.1
+CAND0251,SK001,SQL,Intermediate,1.6
+CAND0251,SK002,Excel,Beginner,1.4
+CAND0251,SK004,Python,Intermediate,4.9
+CAND0251,SK012,APIs,Advanced,4.2
+CAND0251,SK016,Problem Solving,Advanced,0.6
+CAND0251,SK017,Market Research,Beginner,1.8
+CAND0251,SK020,Statistics,Beginner,2.5
+CAND0252,SK001,SQL,Beginner,2.8
+CAND0252,SK004,Python,Beginner,2.2
+CAND0252,SK008,Recruitment Analytics,Beginner,1.4
+CAND0252,SK011,Power Automate,Intermediate,2.0
+CAND0252,SK012,APIs,Beginner,4.3
+CAND0252,SK015,Communication,Advanced,1.7
+CAND0252,SK019,ETL,Intermediate,2.0
+CAND0252,SK020,Statistics,Intermediate,3.7
+CAND0253,SK001,SQL,Advanced,2.3
+CAND0253,SK002,Excel,Beginner,0.3
+CAND0253,SK004,Python,Advanced,4.7
+CAND0253,SK006,Data Cleaning,Intermediate,2.9
+CAND0253,SK009,Talent Intelligence,Beginner,3.1
+CAND0253,SK014,LLMs,Intermediate,1.4
+CAND0253,SK020,Statistics,Beginner,4.6
+CAND0254,SK001,SQL,Advanced,0.9
+CAND0254,SK002,Excel,Beginner,4.6
+CAND0254,SK003,Power BI,Advanced,3.7
+CAND0254,SK005,Pandas,Intermediate,1.3
+CAND0254,SK006,Data Cleaning,Beginner,4.7
+CAND0254,SK011,Power Automate,Beginner,1.5
+CAND0254,SK014,LLMs,Beginner,4.2
+CAND0254,SK016,Problem Solving,Advanced,4.6
+CAND0255,SK001,SQL,Beginner,2.1
+CAND0255,SK002,Excel,Intermediate,0.4
+CAND0255,SK003,Power BI,Advanced,0.9
+CAND0255,SK005,Pandas,Beginner,4.0
+CAND0255,SK010,Automation,Beginner,0.7
+CAND0255,SK011,Power Automate,Intermediate,0.8
+CAND0255,SK012,APIs,Intermediate,3.9
+CAND0255,SK015,Communication,Intermediate,2.0
+CAND0255,SK017,Market Research,Beginner,3.1
+CAND0256,SK001,SQL,Beginner,2.7
+CAND0256,SK004,Python,Advanced,1.2
+CAND0256,SK010,Automation,Intermediate,1.4
+CAND0256,SK011,Power Automate,Advanced,2.0
+CAND0257,SK001,SQL,Intermediate,0.9
+CAND0257,SK002,Excel,Advanced,0.8
+CAND0257,SK004,Python,Advanced,4.7
+CAND0257,SK006,Data Cleaning,Advanced,0.8
+CAND0257,SK016,Problem Solving,Intermediate,4.1
+CAND0257,SK018,DAX,Intermediate,1.2
+CAND0258,SK003,Power BI,Advanced,0.9
+CAND0258,SK004,Python,Beginner,3.0
+CAND0258,SK005,Pandas,Beginner,2.1
+CAND0258,SK014,LLMs,Beginner,4.0
+CAND0258,SK017,Market Research,Intermediate,1.2
+CAND0259,SK001,SQL,Advanced,1.6
+CAND0259,SK002,Excel,Advanced,3.8
+CAND0259,SK003,Power BI,Advanced,0.6
+CAND0259,SK004,Python,Beginner,0.5
+CAND0259,SK010,Automation,Intermediate,1.7
+CAND0259,SK012,APIs,Beginner,4.1
+CAND0259,SK014,LLMs,Beginner,0.2
+CAND0259,SK016,Problem Solving,Advanced,2.0
+CAND0260,SK001,SQL,Advanced,2.1
+CAND0260,SK002,Excel,Intermediate,0.4
+CAND0260,SK005,Pandas,Advanced,3.9
+CAND0260,SK007,Dashboarding,Intermediate,0.2
+CAND0260,SK008,Recruitment Analytics,Advanced,4.0
+CAND0260,SK011,Power Automate,Intermediate,2.2
+CAND0260,SK012,APIs,Advanced,2.4
+CAND0260,SK016,Problem Solving,Intermediate,1.6
+CAND0260,SK018,DAX,Beginner,2.8
+CAND0261,SK001,SQL,Advanced,0.8
+CAND0261,SK004,Python,Beginner,0.5
+CAND0261,SK008,Recruitment Analytics,Intermediate,0.7
+CAND0261,SK014,LLMs,Beginner,1.5
+CAND0261,SK017,Market Research,Beginner,0.7
+CAND0261,SK018,DAX,Intermediate,1.0
+CAND0262,SK001,SQL,Advanced,3.8
+CAND0262,SK002,Excel,Advanced,3.7
+CAND0262,SK004,Python,Advanced,2.1
+CAND0262,SK006,Data Cleaning,Beginner,3.7
+CAND0262,SK008,Recruitment Analytics,Advanced,2.2
+CAND0262,SK018,DAX,Intermediate,4.2
+CAND0263,SK003,Power BI,Advanced,3.0
+CAND0263,SK008,Recruitment Analytics,Intermediate,3.3
+CAND0263,SK016,Problem Solving,Intermediate,2.5
+CAND0263,SK018,DAX,Beginner,0.4
+CAND0263,SK019,ETL,Intermediate,0.8
+CAND0264,SK001,SQL,Beginner,4.0
+CAND0264,SK002,Excel,Advanced,2.8
+CAND0264,SK004,Python,Advanced,1.7
+CAND0264,SK015,Communication,Beginner,1.2
+CAND0264,SK016,Problem Solving,Beginner,2.7
+CAND0264,SK019,ETL,Beginner,3.9
+CAND0265,SK002,Excel,Intermediate,2.1
+CAND0265,SK003,Power BI,Beginner,3.1
+CAND0265,SK004,Python,Intermediate,2.3
+CAND0265,SK006,Data Cleaning,Beginner,1.3
+CAND0265,SK007,Dashboarding,Intermediate,3.7
+CAND0265,SK009,Talent Intelligence,Beginner,3.5
+CAND0265,SK010,Automation,Advanced,2.6
+CAND0265,SK012,APIs,Intermediate,3.8
+CAND0265,SK015,Communication,Intermediate,1.4
+CAND0265,SK019,ETL,Intermediate,2.1
+CAND0266,SK001,SQL,Beginner,2.8
+CAND0266,SK002,Excel,Advanced,2.5
+CAND0266,SK008,Recruitment Analytics,Intermediate,4.2
+CAND0266,SK013,Machine Learning,Beginner,1.0
+CAND0266,SK015,Communication,Beginner,1.2
+CAND0266,SK020,Statistics,Advanced,4.7
+CAND0267,SK001,SQL,Beginner,0.2
+CAND0267,SK002,Excel,Advanced,0.7
+CAND0267,SK003,Power BI,Intermediate,2.2
+CAND0267,SK004,Python,Beginner,3.5
+CAND0267,SK010,Automation,Beginner,3.2
+CAND0267,SK013,Machine Learning,Beginner,2.0
+CAND0267,SK015,Communication,Intermediate,2.7
+CAND0267,SK018,DAX,Beginner,3.1
+CAND0267,SK020,Statistics,Advanced,3.7
+CAND0268,SK001,SQL,Intermediate,3.0
+CAND0268,SK002,Excel,Intermediate,4.6
+CAND0268,SK009,Talent Intelligence,Beginner,2.0
+CAND0268,SK014,LLMs,Advanced,3.9
+CAND0268,SK016,Problem Solving,Beginner,0.2
+CAND0268,SK019,ETL,Intermediate,2.8
+CAND0269,SK002,Excel,Advanced,4.9
+CAND0269,SK003,Power BI,Advanced,0.7
+CAND0269,SK006,Data Cleaning,Advanced,1.0
+CAND0269,SK008,Recruitment Analytics,Beginner,2.0
+CAND0269,SK013,Machine Learning,Advanced,1.3
+CAND0269,SK018,DAX,Beginner,0.4
+CAND0269,SK019,ETL,Intermediate,0.4
+CAND0269,SK020,Statistics,Advanced,4.7
+CAND0270,SK001,SQL,Advanced,1.1
+CAND0270,SK002,Excel,Beginner,2.8
+CAND0270,SK003,Power BI,Intermediate,3.5
+CAND0270,SK004,Python,Intermediate,3.3
+CAND0270,SK006,Data Cleaning,Intermediate,1.8
+CAND0270,SK015,Communication,Intermediate,2.7
+CAND0270,SK019,ETL,Advanced,4.0
+CAND0271,SK001,SQL,Intermediate,0.8
+CAND0271,SK004,Python,Intermediate,2.8
+CAND0271,SK009,Talent Intelligence,Intermediate,4.0
+CAND0271,SK010,Automation,Intermediate,1.9
+CAND0271,SK015,Communication,Advanced,0.7
+CAND0271,SK016,Problem Solving,Advanced,2.8
+CAND0271,SK017,Market Research,Beginner,5.0
+CAND0271,SK018,DAX,Beginner,2.3
+CAND0271,SK019,ETL,Intermediate,1.2
+CAND0272,SK001,SQL,Intermediate,4.2
+CAND0272,SK004,Python,Intermediate,4.1
+CAND0272,SK007,Dashboarding,Advanced,4.4
+CAND0272,SK008,Recruitment Analytics,Intermediate,0.7
+CAND0272,SK014,LLMs,Advanced,1.7
+CAND0272,SK017,Market Research,Intermediate,1.2
+CAND0272,SK020,Statistics,Advanced,2.6
+CAND0273,SK001,SQL,Beginner,0.7
+CAND0273,SK002,Excel,Beginner,3.3
+CAND0273,SK004,Python,Beginner,2.6
+CAND0273,SK007,Dashboarding,Intermediate,5.0
+CAND0273,SK017,Market Research,Intermediate,1.1
+CAND0273,SK019,ETL,Advanced,3.5
+CAND0274,SK004,Python,Intermediate,3.1
+CAND0274,SK007,Dashboarding,Advanced,1.8
+CAND0274,SK008,Recruitment Analytics,Advanced,0.4
+CAND0274,SK013,Machine Learning,Beginner,1.7
+CAND0274,SK014,LLMs,Advanced,4.2
+CAND0275,SK001,SQL,Advanced,2.2
+CAND0275,SK002,Excel,Beginner,3.5
+CAND0275,SK004,Python,Advanced,2.8
+CAND0275,SK006,Data Cleaning,Beginner,0.9
+CAND0275,SK010,Automation,Intermediate,5.0
+CAND0275,SK012,APIs,Beginner,3.1
+CAND0275,SK016,Problem Solving,Beginner,0.9
+CAND0275,SK018,DAX,Intermediate,3.9
+CAND0276,SK003,Power BI,Intermediate,4.2
+CAND0276,SK004,Python,Intermediate,4.5
+CAND0276,SK006,Data Cleaning,Beginner,4.1
+CAND0276,SK009,Talent Intelligence,Beginner,3.6
+CAND0276,SK015,Communication,Intermediate,4.1
+CAND0276,SK016,Problem Solving,Beginner,3.5
+CAND0277,SK001,SQL,Beginner,0.7
+CAND0277,SK002,Excel,Intermediate,1.2
+CAND0277,SK004,Python,Beginner,3.1
+CAND0277,SK008,Recruitment Analytics,Beginner,4.5
+CAND0277,SK009,Talent Intelligence,Intermediate,3.1
+CAND0277,SK012,APIs,Advanced,3.4
+CAND0277,SK014,LLMs,Intermediate,3.9
+CAND0277,SK018,DAX,Advanced,0.4
+CAND0277,SK019,ETL,Advanced,2.3
+CAND0278,SK001,SQL,Advanced,3.1
+CAND0278,SK005,Pandas,Beginner,3.6
+CAND0278,SK011,Power Automate,Intermediate,2.5
+CAND0278,SK012,APIs,Beginner,1.8
+CAND0278,SK015,Communication,Beginner,2.2
+CAND0278,SK018,DAX,Advanced,0.5
+CAND0278,SK019,ETL,Beginner,1.2
+CAND0279,SK001,SQL,Beginner,3.6
+CAND0279,SK003,Power BI,Beginner,1.7
+CAND0279,SK007,Dashboarding,Advanced,1.0
+CAND0279,SK008,Recruitment Analytics,Beginner,3.7
+CAND0279,SK012,APIs,Intermediate,0.7
+CAND0279,SK014,LLMs,Advanced,2.7
+CAND0279,SK015,Communication,Advanced,1.3
+CAND0279,SK016,Problem Solving,Beginner,2.2
+CAND0280,SK002,Excel,Advanced,4.0
+CAND0280,SK006,Data Cleaning,Intermediate,1.5
+CAND0280,SK008,Recruitment Analytics,Intermediate,3.9
+CAND0280,SK010,Automation,Advanced,4.4
+CAND0280,SK011,Power Automate,Intermediate,0.9
+CAND0280,SK014,LLMs,Advanced,0.3
+CAND0281,SK001,SQL,Advanced,3.7
+CAND0281,SK004,Python,Intermediate,3.4
+CAND0281,SK007,Dashboarding,Intermediate,2.2
+CAND0281,SK008,Recruitment Analytics,Intermediate,0.2
+CAND0281,SK010,Automation,Advanced,1.6
+CAND0281,SK012,APIs,Intermediate,2.6
+CAND0281,SK015,Communication,Beginner,3.2
+CAND0282,SK001,SQL,Advanced,3.2
+CAND0282,SK002,Excel,Beginner,2.6
+CAND0282,SK003,Power BI,Beginner,2.1
+CAND0282,SK005,Pandas,Beginner,3.4
+CAND0282,SK007,Dashboarding,Beginner,0.3
+CAND0282,SK011,Power Automate,Beginner,1.7
+CAND0282,SK014,LLMs,Intermediate,3.2
+CAND0282,SK015,Communication,Beginner,3.8
+CAND0282,SK016,Problem Solving,Advanced,5.0
+CAND0283,SK002,Excel,Intermediate,3.1
+CAND0283,SK006,Data Cleaning,Beginner,2.9
+CAND0283,SK008,Recruitment Analytics,Beginner,1.3
+CAND0283,SK013,Machine Learning,Intermediate,0.6
+CAND0283,SK016,Problem Solving,Intermediate,0.6
+CAND0284,SK001,SQL,Advanced,4.3
+CAND0284,SK002,Excel,Intermediate,0.2
+CAND0284,SK004,Python,Intermediate,3.4
+CAND0284,SK007,Dashboarding,Advanced,3.8
+CAND0284,SK008,Recruitment Analytics,Intermediate,2.2
+CAND0284,SK018,DAX,Beginner,4.1
+CAND0285,SK002,Excel,Advanced,1.4
+CAND0285,SK004,Python,Beginner,2.6
+CAND0285,SK006,Data Cleaning,Intermediate,4.1
+CAND0285,SK007,Dashboarding,Beginner,1.6
+CAND0285,SK008,Recruitment Analytics,Advanced,2.9
+CAND0285,SK009,Talent Intelligence,Intermediate,4.7
+CAND0285,SK018,DAX,Beginner,2.9
+CAND0285,SK019,ETL,Intermediate,0.3
+CAND0285,SK020,Statistics,Intermediate,1.2
+CAND0286,SK006,Data Cleaning,Intermediate,4.2
+CAND0286,SK012,APIs,Beginner,1.4
+CAND0286,SK017,Market Research,Intermediate,4.1
+CAND0286,SK019,ETL,Advanced,4.4
+CAND0287,SK001,SQL,Beginner,4.1
+CAND0287,SK002,Excel,Advanced,1.2
+CAND0287,SK004,Python,Beginner,3.9
+CAND0287,SK007,Dashboarding,Advanced,1.8
+CAND0287,SK010,Automation,Beginner,2.8
+CAND0287,SK011,Power Automate,Intermediate,1.2
+CAND0287,SK014,LLMs,Intermediate,4.9
+CAND0287,SK015,Communication,Advanced,3.7
+CAND0287,SK019,ETL,Advanced,2.1
+CAND0288,SK001,SQL,Advanced,0.3
+CAND0288,SK002,Excel,Intermediate,3.0
+CAND0288,SK008,Recruitment Analytics,Beginner,4.3
+CAND0288,SK009,Talent Intelligence,Advanced,2.3
+CAND0288,SK014,LLMs,Beginner,0.6
+CAND0288,SK015,Communication,Beginner,4.0
+CAND0288,SK017,Market Research,Intermediate,4.0
+CAND0288,SK019,ETL,Advanced,4.7
+CAND0289,SK002,Excel,Advanced,3.7
+CAND0289,SK004,Python,Intermediate,4.7
+CAND0289,SK007,Dashboarding,Advanced,0.7
+CAND0289,SK011,Power Automate,Intermediate,3.4
+CAND0289,SK012,APIs,Intermediate,2.9
+CAND0289,SK013,Machine Learning,Advanced,3.5
+CAND0289,SK015,Communication,Beginner,1.6
+CAND0289,SK016,Problem Solving,Beginner,4.9
+CAND0290,SK001,SQL,Beginner,3.3
+CAND0290,SK004,Python,Intermediate,2.2
+CAND0290,SK011,Power Automate,Advanced,3.0
+CAND0290,SK014,LLMs,Beginner,2.5
+CAND0290,SK015,Communication,Intermediate,0.4
+CAND0290,SK017,Market Research,Advanced,3.8
+CAND0290,SK020,Statistics,Intermediate,4.5
+CAND0291,SK001,SQL,Beginner,4.9
+CAND0291,SK002,Excel,Advanced,4.3
+CAND0291,SK003,Power BI,Advanced,1.8
+CAND0291,SK004,Python,Advanced,5.0
+CAND0291,SK006,Data Cleaning,Intermediate,3.8
+CAND0291,SK008,Recruitment Analytics,Intermediate,4.4
+CAND0291,SK011,Power Automate,Intermediate,2.7
+CAND0291,SK013,Machine Learning,Beginner,3.2
+CAND0291,SK014,LLMs,Beginner,2.7
+CAND0291,SK016,Problem Solving,Intermediate,3.0
+CAND0292,SK001,SQL,Beginner,4.3
+CAND0292,SK002,Excel,Beginner,2.3
+CAND0292,SK004,Python,Advanced,2.0
+CAND0292,SK006,Data Cleaning,Intermediate,0.6
+CAND0292,SK007,Dashboarding,Advanced,3.3
+CAND0292,SK009,Talent Intelligence,Beginner,3.8
+CAND0292,SK011,Power Automate,Advanced,4.6
+CAND0292,SK013,Machine Learning,Intermediate,0.9
+CAND0292,SK018,DAX,Advanced,2.6
+CAND0293,SK001,SQL,Advanced,2.2
+CAND0293,SK002,Excel,Intermediate,1.7
+CAND0293,SK007,Dashboarding,Intermediate,1.2
+CAND0293,SK013,Machine Learning,Advanced,1.4
+CAND0293,SK016,Problem Solving,Advanced,3.9
+CAND0293,SK017,Market Research,Intermediate,3.8
+CAND0293,SK018,DAX,Advanced,1.4
+CAND0294,SK001,SQL,Intermediate,3.6
+CAND0294,SK002,Excel,Advanced,4.5
+CAND0294,SK003,Power BI,Intermediate,4.4
+CAND0294,SK004,Python,Beginner,4.5
+CAND0294,SK005,Pandas,Intermediate,1.5
+CAND0294,SK007,Dashboarding,Intermediate,2.4
+CAND0294,SK018,DAX,Intermediate,1.0
+CAND0295,SK005,Pandas,Advanced,4.6
+CAND0295,SK006,Data Cleaning,Advanced,2.5
+CAND0295,SK008,Recruitment Analytics,Intermediate,1.5
+CAND0295,SK009,Talent Intelligence,Intermediate,4.8
+CAND0295,SK013,Machine Learning,Intermediate,3.1
+CAND0295,SK015,Communication,Advanced,1.6
+CAND0295,SK019,ETL,Beginner,4.7
+CAND0296,SK001,SQL,Beginner,2.5
+CAND0296,SK004,Python,Intermediate,2.2
+CAND0296,SK005,Pandas,Intermediate,1.6
+CAND0296,SK007,Dashboarding,Intermediate,4.4
+CAND0296,SK008,Recruitment Analytics,Beginner,4.8
+CAND0296,SK011,Power Automate,Intermediate,2.2
+CAND0296,SK012,APIs,Intermediate,0.6
+CAND0296,SK013,Machine Learning,Advanced,2.3
+CAND0296,SK015,Communication,Beginner,1.6
+CAND0296,SK018,DAX,Beginner,1.7
+CAND0297,SK001,SQL,Intermediate,2.0
+CAND0297,SK002,Excel,Intermediate,3.7
+CAND0297,SK007,Dashboarding,Beginner,1.4
+CAND0297,SK011,Power Automate,Intermediate,3.7
+CAND0297,SK012,APIs,Intermediate,1.4
+CAND0297,SK017,Market Research,Intermediate,3.3
+CAND0297,SK018,DAX,Intermediate,2.0
+CAND0297,SK020,Statistics,Intermediate,4.8
+CAND0298,SK001,SQL,Advanced,3.7
+CAND0298,SK002,Excel,Beginner,0.5
+CAND0298,SK005,Pandas,Beginner,4.1
+CAND0298,SK014,LLMs,Advanced,5.0
+CAND0298,SK019,ETL,Advanced,1.9
+CAND0299,SK001,SQL,Beginner,3.8
+CAND0299,SK002,Excel,Intermediate,4.0
+CAND0299,SK003,Power BI,Intermediate,2.1
+CAND0299,SK004,Python,Beginner,1.7
+CAND0299,SK011,Power Automate,Intermediate,2.5
+CAND0299,SK013,Machine Learning,Intermediate,4.6
+CAND0299,SK015,Communication,Advanced,3.3
+CAND0299,SK017,Market Research,Advanced,2.2
+CAND0299,SK020,Statistics,Intermediate,3.4
+CAND0300,SK004,Python,Intermediate,3.6
+CAND0300,SK009,Talent Intelligence,Intermediate,2.1
+CAND0300,SK013,Machine Learning,Advanced,3.0
+CAND0300,SK014,LLMs,Beginner,2.7
+CAND0300,SK015,Communication,Advanced,0.5
+CAND0300,SK017,Market Research,Advanced,1.0
+CAND0300,SK019,ETL,Beginner,3.5
+CAND0301,SK001,SQL,Intermediate,4.2
+CAND0301,SK002,Excel,Advanced,1.4
+CAND0301,SK004,Python,Advanced,2.2
+CAND0301,SK006,Data Cleaning,Beginner,0.5
+CAND0301,SK016,Problem Solving,Beginner,1.9
+CAND0301,SK019,ETL,Beginner,4.4
+CAND0301,SK020,Statistics,Advanced,2.1
+CAND0302,SK002,Excel,Beginner,1.4
+CAND0302,SK010,Automation,Advanced,3.8
+CAND0302,SK015,Communication,Intermediate,1.0
+CAND0302,SK016,Problem Solving,Intermediate,1.6
+CAND0302,SK020,Statistics,Intermediate,4.2
+CAND0303,SK001,SQL,Advanced,1.0
+CAND0303,SK007,Dashboarding,Advanced,1.3
+CAND0303,SK009,Talent Intelligence,Advanced,2.5
+CAND0303,SK010,Automation,Beginner,4.2
+CAND0303,SK011,Power Automate,Beginner,2.8
+CAND0304,SK001,SQL,Advanced,3.4
+CAND0304,SK002,Excel,Beginner,0.9
+CAND0304,SK004,Python,Advanced,2.0
+CAND0304,SK010,Automation,Intermediate,4.5
+CAND0304,SK014,LLMs,Intermediate,3.9
+CAND0304,SK016,Problem Solving,Advanced,4.1
+CAND0304,SK018,DAX,Intermediate,1.2
+CAND0304,SK019,ETL,Advanced,4.7
+CAND0305,SK004,Python,Advanced,4.5
+CAND0305,SK006,Data Cleaning,Beginner,4.6
+CAND0305,SK010,Automation,Advanced,4.9
+CAND0305,SK011,Power Automate,Intermediate,1.9
+CAND0305,SK012,APIs,Advanced,4.2
+CAND0305,SK013,Machine Learning,Beginner,2.0
+CAND0305,SK016,Problem Solving,Intermediate,3.8
+CAND0305,SK019,ETL,Beginner,1.2
+CAND0306,SK001,SQL,Beginner,5.0
+CAND0306,SK003,Power BI,Advanced,0.5
+CAND0306,SK004,Python,Intermediate,4.4
+CAND0306,SK008,Recruitment Analytics,Beginner,1.4
+CAND0306,SK010,Automation,Advanced,3.1
+CAND0306,SK019,ETL,Beginner,1.7
+CAND0307,SK002,Excel,Beginner,2.7
+CAND0307,SK004,Python,Beginner,2.5
+CAND0307,SK008,Recruitment Analytics,Beginner,1.6
+CAND0307,SK012,APIs,Beginner,1.6
+CAND0307,SK015,Communication,Intermediate,0.6
+CAND0308,SK003,Power BI,Beginner,1.1
+CAND0308,SK004,Python,Intermediate,1.6
+CAND0308,SK007,Dashboarding,Intermediate,2.3
+CAND0308,SK011,Power Automate,Beginner,3.4
+CAND0308,SK012,APIs,Beginner,4.5
+CAND0308,SK018,DAX,Advanced,5.0
+CAND0309,SK004,Python,Intermediate,1.8
+CAND0309,SK007,Dashboarding,Intermediate,0.8
+CAND0309,SK008,Recruitment Analytics,Advanced,3.8
+CAND0309,SK010,Automation,Beginner,3.1
+CAND0309,SK011,Power Automate,Beginner,0.9
+CAND0309,SK012,APIs,Advanced,4.3
+CAND0309,SK017,Market Research,Advanced,1.5
+CAND0309,SK018,DAX,Beginner,0.5
+CAND0310,SK001,SQL,Advanced,3.2
+CAND0310,SK002,Excel,Beginner,0.5
+CAND0310,SK003,Power BI,Advanced,3.7
+CAND0310,SK004,Python,Advanced,0.8
+CAND0310,SK014,LLMs,Advanced,1.4
+CAND0310,SK015,Communication,Advanced,0.8
+CAND0310,SK019,ETL,Advanced,0.9
+CAND0311,SK001,SQL,Advanced,3.9
+CAND0311,SK003,Power BI,Beginner,0.3
+CAND0311,SK005,Pandas,Beginner,3.2
+CAND0311,SK007,Dashboarding,Intermediate,3.0
+CAND0311,SK011,Power Automate,Advanced,0.6
+CAND0311,SK012,APIs,Beginner,0.3
+CAND0311,SK015,Communication,Advanced,1.3
+CAND0311,SK016,Problem Solving,Advanced,4.0
+CAND0311,SK020,Statistics,Advanced,4.6
+CAND0312,SK001,SQL,Advanced,3.4
+CAND0312,SK002,Excel,Intermediate,2.9
+CAND0312,SK004,Python,Advanced,2.6
+CAND0312,SK005,Pandas,Beginner,1.4
+CAND0312,SK012,APIs,Beginner,2.9
+CAND0312,SK015,Communication,Beginner,0.9
+CAND0312,SK016,Problem Solving,Intermediate,0.6
+CAND0312,SK019,ETL,Intermediate,1.1
+CAND0313,SK001,SQL,Intermediate,0.4
+CAND0313,SK004,Python,Advanced,0.3
+CAND0313,SK005,Pandas,Beginner,1.5
+CAND0313,SK011,Power Automate,Intermediate,4.0
+CAND0313,SK017,Market Research,Intermediate,4.5
+CAND0314,SK001,SQL,Advanced,2.6
+CAND0314,SK002,Excel,Intermediate,2.1
+CAND0314,SK005,Pandas,Advanced,1.4
+CAND0314,SK011,Power Automate,Beginner,0.7
+CAND0314,SK013,Machine Learning,Intermediate,1.8
+CAND0314,SK015,Communication,Intermediate,2.3
+CAND0315,SK002,Excel,Advanced,3.2
+CAND0315,SK004,Python,Beginner,0.6
+CAND0315,SK008,Recruitment Analytics,Intermediate,3.4
+CAND0315,SK015,Communication,Beginner,2.2
+CAND0315,SK016,Problem Solving,Beginner,4.4
+CAND0315,SK017,Market Research,Beginner,4.2
+CAND0315,SK018,DAX,Beginner,4.4
+CAND0316,SK001,SQL,Advanced,3.8
+CAND0316,SK002,Excel,Beginner,3.8
+CAND0316,SK007,Dashboarding,Advanced,0.3
+CAND0316,SK013,Machine Learning,Advanced,0.3
+CAND0316,SK018,DAX,Intermediate,0.8
+CAND0317,SK002,Excel,Beginner,1.4
+CAND0317,SK006,Data Cleaning,Advanced,3.7
+CAND0317,SK008,Recruitment Analytics,Intermediate,1.3
+CAND0317,SK011,Power Automate,Intermediate,0.8
+CAND0317,SK012,APIs,Beginner,3.0
+CAND0317,SK017,Market Research,Beginner,4.8
+CAND0317,SK019,ETL,Intermediate,2.5
+CAND0318,SK002,Excel,Advanced,1.4
+CAND0318,SK004,Python,Advanced,3.8
+CAND0318,SK005,Pandas,Intermediate,4.1
+CAND0318,SK008,Recruitment Analytics,Advanced,3.8
+CAND0318,SK011,Power Automate,Intermediate,4.2
+CAND0318,SK019,ETL,Intermediate,2.0
+CAND0319,SK001,SQL,Beginner,3.8
+CAND0319,SK002,Excel,Beginner,2.7
+CAND0319,SK006,Data Cleaning,Beginner,1.4
+CAND0319,SK012,APIs,Beginner,0.4
+CAND0319,SK017,Market Research,Advanced,2.7
+CAND0319,SK019,ETL,Intermediate,2.8
+CAND0319,SK020,Statistics,Intermediate,3.5
+CAND0320,SK001,SQL,Intermediate,3.7
+CAND0320,SK004,Python,Advanced,1.8
+CAND0320,SK007,Dashboarding,Advanced,2.5
+CAND0320,SK010,Automation,Beginner,0.6
+CAND0320,SK014,LLMs,Intermediate,3.3
+CAND0320,SK016,Problem Solving,Beginner,4.7
+CAND0320,SK017,Market Research,Intermediate,4.5
+CAND0320,SK020,Statistics,Advanced,4.0
+CAND0321,SK004,Python,Advanced,0.5
+CAND0321,SK006,Data Cleaning,Advanced,1.6
+CAND0321,SK009,Talent Intelligence,Advanced,2.1
+CAND0321,SK016,Problem Solving,Beginner,2.3
+CAND0321,SK017,Market Research,Intermediate,3.9
+CAND0321,SK018,DAX,Advanced,3.3
+CAND0321,SK020,Statistics,Advanced,3.2
+CAND0322,SK001,SQL,Intermediate,1.7
+CAND0322,SK006,Data Cleaning,Beginner,3.1
+CAND0322,SK008,Recruitment Analytics,Intermediate,2.7
+CAND0322,SK009,Talent Intelligence,Intermediate,1.3
+CAND0322,SK011,Power Automate,Advanced,0.2
+CAND0322,SK013,Machine Learning,Beginner,2.9
+CAND0322,SK014,LLMs,Beginner,1.9
+CAND0322,SK020,Statistics,Advanced,4.1
+CAND0323,SK001,SQL,Advanced,3.3
+CAND0323,SK002,Excel,Beginner,4.6
+CAND0323,SK004,Python,Beginner,0.8
+CAND0323,SK007,Dashboarding,Intermediate,3.8
+CAND0323,SK013,Machine Learning,Advanced,1.2
+CAND0324,SK002,Excel,Beginner,4.1
+CAND0324,SK006,Data Cleaning,Advanced,4.9
+CAND0324,SK009,Talent Intelligence,Intermediate,0.2
+CAND0324,SK010,Automation,Beginner,1.1
+CAND0324,SK011,Power Automate,Intermediate,2.9
+CAND0324,SK013,Machine Learning,Beginner,4.2
+CAND0324,SK014,LLMs,Intermediate,4.4
+CAND0324,SK016,Problem Solving,Intermediate,3.8
+CAND0325,SK001,SQL,Beginner,1.9
+CAND0325,SK002,Excel,Advanced,0.9
+CAND0325,SK004,Python,Intermediate,0.4
+CAND0325,SK013,Machine Learning,Intermediate,2.5
+CAND0325,SK015,Communication,Intermediate,4.7
+CAND0325,SK016,Problem Solving,Intermediate,3.2
+CAND0325,SK017,Market Research,Beginner,2.6
+CAND0325,SK019,ETL,Beginner,3.2
+CAND0326,SK003,Power BI,Intermediate,3.7
+CAND0326,SK004,Python,Advanced,0.9
+CAND0326,SK005,Pandas,Advanced,1.9
+CAND0326,SK010,Automation,Beginner,1.0
+CAND0326,SK013,Machine Learning,Beginner,4.4
+CAND0327,SK001,SQL,Beginner,0.6
+CAND0327,SK002,Excel,Beginner,2.1
+CAND0327,SK004,Python,Intermediate,1.4
+CAND0327,SK007,Dashboarding,Advanced,2.0
+CAND0327,SK008,Recruitment Analytics,Intermediate,3.3
+CAND0327,SK011,Power Automate,Intermediate,1.6
+CAND0327,SK018,DAX,Intermediate,0.2
+CAND0327,SK020,Statistics,Advanced,3.1
+CAND0328,SK002,Excel,Intermediate,0.5
+CAND0328,SK003,Power BI,Advanced,3.5
+CAND0328,SK004,Python,Intermediate,1.6
+CAND0328,SK011,Power Automate,Intermediate,3.1
+CAND0328,SK016,Problem Solving,Beginner,1.8
+CAND0329,SK001,SQL,Advanced,1.8
+CAND0329,SK004,Python,Advanced,2.5
+CAND0329,SK006,Data Cleaning,Intermediate,2.3
+CAND0329,SK009,Talent Intelligence,Intermediate,2.0
+CAND0329,SK014,LLMs,Intermediate,3.0
+CAND0329,SK018,DAX,Beginner,2.5
+CAND0330,SK002,Excel,Intermediate,0.7
+CAND0330,SK004,Python,Intermediate,4.0
+CAND0330,SK007,Dashboarding,Beginner,4.8
+CAND0330,SK009,Talent Intelligence,Advanced,0.2
+CAND0330,SK010,Automation,Advanced,1.5
+CAND0330,SK011,Power Automate,Advanced,4.3
+CAND0330,SK019,ETL,Beginner,2.5
+CAND0331,SK002,Excel,Advanced,0.4
+CAND0331,SK004,Python,Beginner,4.8
+CAND0331,SK007,Dashboarding,Advanced,1.4
+CAND0331,SK010,Automation,Intermediate,4.3
+CAND0331,SK012,APIs,Intermediate,3.1
+CAND0331,SK018,DAX,Intermediate,1.4
+CAND0332,SK001,SQL,Advanced,1.8
+CAND0332,SK005,Pandas,Intermediate,0.7
+CAND0332,SK009,Talent Intelligence,Intermediate,1.5
+CAND0332,SK016,Problem Solving,Advanced,3.2
+CAND0332,SK018,DAX,Intermediate,0.7
+CAND0333,SK001,SQL,Beginner,4.2
+CAND0333,SK003,Power BI,Advanced,3.8
+CAND0333,SK004,Python,Intermediate,2.5
+CAND0333,SK007,Dashboarding,Advanced,1.6
+CAND0333,SK011,Power Automate,Intermediate,1.9
+CAND0333,SK012,APIs,Advanced,0.7
+CAND0333,SK015,Communication,Intermediate,2.1
+CAND0333,SK018,DAX,Beginner,4.0
+CAND0333,SK020,Statistics,Advanced,3.9
+CAND0334,SK004,Python,Intermediate,2.3
+CAND0334,SK006,Data Cleaning,Intermediate,0.3
+CAND0334,SK007,Dashboarding,Beginner,1.4
+CAND0334,SK008,Recruitment Analytics,Advanced,5.0
+CAND0334,SK014,LLMs,Intermediate,3.2
+CAND0334,SK020,Statistics,Beginner,1.4
+CAND0335,SK004,Python,Advanced,3.6
+CAND0335,SK006,Data Cleaning,Intermediate,4.7
+CAND0335,SK008,Recruitment Analytics,Intermediate,3.6
+CAND0335,SK009,Talent Intelligence,Intermediate,0.4
+CAND0335,SK010,Automation,Intermediate,0.3
+CAND0335,SK016,Problem Solving,Advanced,4.2
+CAND0335,SK019,ETL,Beginner,0.3
+CAND0336,SK001,SQL,Intermediate,3.0
+CAND0336,SK002,Excel,Intermediate,2.8
+CAND0336,SK004,Python,Advanced,3.1
+CAND0336,SK012,APIs,Advanced,1.7
+CAND0336,SK015,Communication,Advanced,0.7
+CAND0336,SK019,ETL,Advanced,0.9
+CAND0336,SK020,Statistics,Advanced,4.0
+CAND0337,SK004,Python,Beginner,2.0
+CAND0337,SK006,Data Cleaning,Advanced,4.0
+CAND0337,SK008,Recruitment Analytics,Advanced,2.7
+CAND0337,SK011,Power Automate,Intermediate,0.4
+CAND0337,SK013,Machine Learning,Beginner,2.4
+CAND0337,SK014,LLMs,Beginner,2.8
+CAND0337,SK015,Communication,Beginner,1.5
+CAND0337,SK018,DAX,Beginner,4.8
+CAND0338,SK001,SQL,Intermediate,1.0
+CAND0338,SK002,Excel,Advanced,1.7
+CAND0338,SK003,Power BI,Advanced,1.3
+CAND0338,SK004,Python,Intermediate,4.3
+CAND0338,SK007,Dashboarding,Beginner,1.7
+CAND0338,SK012,APIs,Advanced,3.9
+CAND0339,SK001,SQL,Beginner,4.6
+CAND0339,SK003,Power BI,Advanced,3.7
+CAND0339,SK004,Python,Intermediate,3.9
+CAND0339,SK009,Talent Intelligence,Intermediate,4.2
+CAND0339,SK012,APIs,Advanced,4.1
+CAND0339,SK013,Machine Learning,Intermediate,4.2
+CAND0339,SK014,LLMs,Advanced,1.0
+CAND0339,SK015,Communication,Intermediate,1.1
+CAND0340,SK003,Power BI,Advanced,0.7
+CAND0340,SK004,Python,Beginner,3.4
+CAND0340,SK005,Pandas,Beginner,4.0
+CAND0340,SK008,Recruitment Analytics,Beginner,0.6
+CAND0340,SK009,Talent Intelligence,Advanced,3.4
+CAND0340,SK015,Communication,Intermediate,4.4
+CAND0340,SK016,Problem Solving,Intermediate,0.6
+CAND0340,SK018,DAX,Beginner,3.0
+CAND0341,SK001,SQL,Intermediate,4.6
+CAND0341,SK002,Excel,Advanced,1.2
+CAND0341,SK005,Pandas,Intermediate,3.5
+CAND0341,SK006,Data Cleaning,Intermediate,1.5
+CAND0341,SK010,Automation,Beginner,0.7
+CAND0341,SK011,Power Automate,Beginner,4.0
+CAND0341,SK013,Machine Learning,Advanced,2.8
+CAND0341,SK015,Communication,Advanced,1.8
+CAND0341,SK016,Problem Solving,Beginner,2.0
+CAND0341,SK019,ETL,Intermediate,1.1
+CAND0342,SK002,Excel,Advanced,3.0
+CAND0342,SK005,Pandas,Intermediate,4.2
+CAND0342,SK007,Dashboarding,Advanced,2.3
+CAND0342,SK011,Power Automate,Intermediate,3.9
+CAND0343,SK001,SQL,Beginner,1.2
+CAND0343,SK002,Excel,Intermediate,1.5
+CAND0343,SK003,Power BI,Beginner,4.5
+CAND0343,SK009,Talent Intelligence,Beginner,1.1
+CAND0343,SK011,Power Automate,Beginner,2.8
+CAND0343,SK013,Machine Learning,Intermediate,0.3
+CAND0343,SK014,LLMs,Beginner,2.6
+CAND0343,SK016,Problem Solving,Intermediate,4.6
+CAND0343,SK018,DAX,Intermediate,4.6
+CAND0343,SK020,Statistics,Beginner,3.7
+CAND0344,SK002,Excel,Beginner,3.8
+CAND0344,SK004,Python,Intermediate,0.2
+CAND0344,SK014,LLMs,Intermediate,3.3
+CAND0344,SK016,Problem Solving,Advanced,4.2
+CAND0344,SK020,Statistics,Advanced,2.2
+CAND0345,SK001,SQL,Beginner,3.4
+CAND0345,SK002,Excel,Beginner,2.6
+CAND0345,SK004,Python,Advanced,1.3
+CAND0345,SK005,Pandas,Beginner,4.5
+CAND0345,SK010,Automation,Advanced,1.0
+CAND0345,SK016,Problem Solving,Intermediate,3.3
+CAND0346,SK001,SQL,Advanced,3.8
+CAND0346,SK002,Excel,Advanced,3.5
+CAND0346,SK004,Python,Intermediate,4.0
+CAND0346,SK009,Talent Intelligence,Intermediate,4.0
+CAND0346,SK010,Automation,Advanced,0.4
+CAND0346,SK014,LLMs,Advanced,3.7
+CAND0346,SK015,Communication,Intermediate,3.3
+CAND0346,SK017,Market Research,Beginner,1.6
+CAND0346,SK018,DAX,Intermediate,4.1
+CAND0347,SK002,Excel,Advanced,0.7
+CAND0347,SK004,Python,Intermediate,5.0
+CAND0347,SK015,Communication,Beginner,3.0
+CAND0347,SK020,Statistics,Intermediate,4.8
+CAND0348,SK001,SQL,Intermediate,4.8
+CAND0348,SK002,Excel,Intermediate,4.0
+CAND0348,SK004,Python,Beginner,1.0
+CAND0348,SK006,Data Cleaning,Intermediate,2.9
+CAND0348,SK008,Recruitment Analytics,Beginner,2.8
+CAND0348,SK009,Talent Intelligence,Advanced,2.4
+CAND0348,SK010,Automation,Intermediate,2.7
+CAND0348,SK011,Power Automate,Beginner,4.4
+CAND0349,SK002,Excel,Beginner,4.4
+CAND0349,SK004,Python,Intermediate,4.3
+CAND0349,SK007,Dashboarding,Intermediate,1.7
+CAND0349,SK008,Recruitment Analytics,Intermediate,2.0
+CAND0349,SK010,Automation,Beginner,3.9
+CAND0349,SK011,Power Automate,Advanced,1.9
+CAND0349,SK012,APIs,Beginner,4.4
+CAND0349,SK016,Problem Solving,Advanced,0.6
+CAND0349,SK020,Statistics,Beginner,4.6
+CAND0350,SK001,SQL,Advanced,3.0
+CAND0350,SK002,Excel,Intermediate,2.9
+CAND0350,SK005,Pandas,Beginner,4.7
+CAND0350,SK007,Dashboarding,Intermediate,4.1
+CAND0350,SK008,Recruitment Analytics,Advanced,2.4
+CAND0350,SK018,DAX,Intermediate,4.7
+CAND0351,SK001,SQL,Advanced,1.7
+CAND0351,SK002,Excel,Beginner,1.4
+CAND0351,SK007,Dashboarding,Advanced,2.0
+CAND0351,SK016,Problem Solving,Intermediate,0.6
+CAND0352,SK001,SQL,Intermediate,3.9
+CAND0352,SK002,Excel,Intermediate,2.4
+CAND0352,SK004,Python,Advanced,2.3
+CAND0352,SK007,Dashboarding,Beginner,0.2
+CAND0352,SK008,Recruitment Analytics,Intermediate,1.3
+CAND0352,SK009,Talent Intelligence,Intermediate,4.7
+CAND0352,SK011,Power Automate,Advanced,4.2
+CAND0352,SK018,DAX,Advanced,4.0
+CAND0352,SK019,ETL,Intermediate,3.4
+CAND0353,SK001,SQL,Advanced,4.2
+CAND0353,SK002,Excel,Advanced,2.4
+CAND0353,SK003,Power BI,Intermediate,4.5
+CAND0353,SK008,Recruitment Analytics,Intermediate,5.0
+CAND0353,SK016,Problem Solving,Intermediate,0.8
+CAND0353,SK018,DAX,Beginner,1.7
+CAND0354,SK001,SQL,Beginner,4.3
+CAND0354,SK002,Excel,Intermediate,1.0
+CAND0354,SK004,Python,Beginner,2.4
+CAND0354,SK007,Dashboarding,Advanced,4.5
+CAND0354,SK010,Automation,Intermediate,4.1
+CAND0354,SK014,LLMs,Advanced,4.5
+CAND0354,SK015,Communication,Intermediate,2.2
+CAND0354,SK018,DAX,Beginner,0.7
+CAND0355,SK001,SQL,Advanced,1.9
+CAND0355,SK002,Excel,Intermediate,2.4
+CAND0355,SK004,Python,Advanced,2.9
+CAND0355,SK013,Machine Learning,Intermediate,0.9
+CAND0355,SK016,Problem Solving,Intermediate,3.5
+CAND0355,SK019,ETL,Beginner,1.6
+CAND0355,SK020,Statistics,Intermediate,1.5
+CAND0356,SK001,SQL,Intermediate,3.8
+CAND0356,SK007,Dashboarding,Beginner,4.2
+CAND0356,SK017,Market Research,Intermediate,3.7
+CAND0356,SK019,ETL,Advanced,3.1
+CAND0357,SK001,SQL,Intermediate,4.5
+CAND0357,SK003,Power BI,Intermediate,3.1
+CAND0357,SK005,Pandas,Intermediate,0.4
+CAND0357,SK007,Dashboarding,Advanced,1.2
+CAND0357,SK009,Talent Intelligence,Advanced,4.5
+CAND0357,SK013,Machine Learning,Intermediate,0.9
+CAND0357,SK014,LLMs,Beginner,2.6
+CAND0357,SK017,Market Research,Advanced,1.1
+CAND0358,SK001,SQL,Advanced,4.0
+CAND0358,SK002,Excel,Intermediate,2.8
+CAND0358,SK003,Power BI,Advanced,4.6
+CAND0358,SK004,Python,Intermediate,1.2
+CAND0358,SK006,Data Cleaning,Beginner,1.1
+CAND0358,SK008,Recruitment Analytics,Beginner,0.4
+CAND0358,SK015,Communication,Beginner,1.2
+CAND0358,SK018,DAX,Advanced,4.7
+CAND0358,SK020,Statistics,Intermediate,1.5
+CAND0359,SK001,SQL,Advanced,1.9
+CAND0359,SK004,Python,Beginner,1.1
+CAND0359,SK009,Talent Intelligence,Intermediate,2.8
+CAND0359,SK013,Machine Learning,Intermediate,1.8
+CAND0359,SK020,Statistics,Beginner,3.1
+CAND0360,SK001,SQL,Intermediate,4.3
+CAND0360,SK004,Python,Intermediate,1.4
+CAND0360,SK005,Pandas,Advanced,1.8
+CAND0360,SK008,Recruitment Analytics,Advanced,2.5
+CAND0360,SK011,Power Automate,Intermediate,1.4
+CAND0360,SK017,Market Research,Beginner,4.8
+CAND0361,SK001,SQL,Intermediate,3.8
+CAND0361,SK002,Excel,Intermediate,4.9
+CAND0361,SK003,Power BI,Intermediate,1.8
+CAND0361,SK005,Pandas,Beginner,2.5
+CAND0361,SK006,Data Cleaning,Intermediate,2.8
+CAND0361,SK009,Talent Intelligence,Advanced,4.8
+CAND0361,SK012,APIs,Advanced,2.1
+CAND0361,SK017,Market Research,Advanced,1.1
+CAND0361,SK019,ETL,Beginner,3.7
+CAND0362,SK001,SQL,Advanced,4.5
+CAND0362,SK003,Power BI,Advanced,2.1
+CAND0362,SK004,Python,Intermediate,4.6
+CAND0362,SK006,Data Cleaning,Advanced,3.9
+CAND0362,SK008,Recruitment Analytics,Advanced,0.8
+CAND0362,SK016,Problem Solving,Intermediate,2.9
+CAND0363,SK001,SQL,Intermediate,1.0
+CAND0363,SK002,Excel,Beginner,2.5
+CAND0363,SK003,Power BI,Advanced,3.0
+CAND0363,SK004,Python,Intermediate,1.6
+CAND0363,SK005,Pandas,Intermediate,0.2
+CAND0363,SK006,Data Cleaning,Beginner,3.8
+CAND0363,SK007,Dashboarding,Advanced,2.9
+CAND0363,SK013,Machine Learning,Beginner,2.5
+CAND0363,SK016,Problem Solving,Beginner,1.8
+CAND0363,SK017,Market Research,Advanced,0.4
+CAND0364,SK001,SQL,Beginner,3.7
+CAND0364,SK003,Power BI,Intermediate,1.9
+CAND0364,SK005,Pandas,Intermediate,4.7
+CAND0364,SK010,Automation,Beginner,2.1
+CAND0364,SK011,Power Automate,Advanced,2.6
+CAND0364,SK016,Problem Solving,Beginner,3.4
+CAND0364,SK017,Market Research,Advanced,0.5
+CAND0364,SK018,DAX,Intermediate,2.1
+CAND0365,SK001,SQL,Intermediate,1.5
+CAND0365,SK004,Python,Beginner,1.3
+CAND0365,SK011,Power Automate,Advanced,2.1
+CAND0365,SK012,APIs,Intermediate,2.8
+CAND0365,SK015,Communication,Intermediate,1.6
+CAND0366,SK001,SQL,Beginner,2.2
+CAND0366,SK002,Excel,Beginner,4.3
+CAND0366,SK003,Power BI,Intermediate,2.3
+CAND0366,SK004,Python,Advanced,0.9
+CAND0366,SK007,Dashboarding,Beginner,2.1
+CAND0366,SK012,APIs,Beginner,1.5
+CAND0366,SK016,Problem Solving,Advanced,2.8
+CAND0366,SK017,Market Research,Advanced,3.6
+CAND0366,SK020,Statistics,Advanced,3.2
+CAND0367,SK002,Excel,Intermediate,3.4
+CAND0367,SK004,Python,Beginner,3.2
+CAND0367,SK012,APIs,Intermediate,0.6
+CAND0367,SK020,Statistics,Beginner,0.4
+CAND0368,SK002,Excel,Intermediate,3.0
+CAND0368,SK003,Power BI,Beginner,3.8
+CAND0368,SK004,Python,Advanced,1.8
+CAND0368,SK005,Pandas,Beginner,3.0
+CAND0368,SK008,Recruitment Analytics,Beginner,1.8
+CAND0368,SK012,APIs,Advanced,4.6
+CAND0368,SK018,DAX,Intermediate,4.1
+CAND0368,SK019,ETL,Beginner,2.3
+CAND0368,SK020,Statistics,Beginner,4.0
+CAND0369,SK001,SQL,Intermediate,4.6
+CAND0369,SK002,Excel,Intermediate,2.9
+CAND0369,SK003,Power BI,Intermediate,4.2
+CAND0369,SK006,Data Cleaning,Advanced,2.2
+CAND0369,SK010,Automation,Intermediate,0.8
+CAND0369,SK014,LLMs,Advanced,0.6
+CAND0369,SK015,Communication,Advanced,1.3
+CAND0369,SK018,DAX,Beginner,1.1
+CAND0370,SK001,SQL,Advanced,4.4
+CAND0370,SK002,Excel,Intermediate,3.2
+CAND0370,SK003,Power BI,Intermediate,2.7
+CAND0370,SK004,Python,Beginner,3.1
+CAND0370,SK008,Recruitment Analytics,Intermediate,1.9
+CAND0370,SK013,Machine Learning,Beginner,1.8
+CAND0370,SK014,LLMs,Intermediate,3.8
+CAND0370,SK015,Communication,Intermediate,1.3
+CAND0370,SK016,Problem Solving,Advanced,4.4
+CAND0370,SK018,DAX,Advanced,0.4
+CAND0370,SK019,ETL,Beginner,3.1
+CAND0371,SK001,SQL,Beginner,3.7
+CAND0371,SK002,Excel,Advanced,1.6
+CAND0371,SK003,Power BI,Advanced,0.5
+CAND0371,SK004,Python,Advanced,1.9
+CAND0371,SK005,Pandas,Beginner,2.5
+CAND0371,SK008,Recruitment Analytics,Beginner,1.6
+CAND0371,SK009,Talent Intelligence,Beginner,2.1
+CAND0371,SK010,Automation,Advanced,3.9
+CAND0371,SK019,ETL,Advanced,4.2
+CAND0372,SK001,SQL,Beginner,3.6
+CAND0372,SK002,Excel,Intermediate,4.6
+CAND0372,SK004,Python,Advanced,4.9
+CAND0372,SK005,Pandas,Beginner,3.5
+CAND0372,SK008,Recruitment Analytics,Beginner,2.4
+CAND0372,SK009,Talent Intelligence,Beginner,4.7
+CAND0372,SK012,APIs,Beginner,3.8
+CAND0373,SK001,SQL,Beginner,4.4
+CAND0373,SK003,Power BI,Advanced,0.5
+CAND0373,SK004,Python,Intermediate,0.8
+CAND0373,SK006,Data Cleaning,Advanced,4.0
+CAND0373,SK009,Talent Intelligence,Beginner,4.9
+CAND0373,SK010,Automation,Advanced,2.7
+CAND0373,SK013,Machine Learning,Advanced,1.5
+CAND0374,SK001,SQL,Intermediate,4.0
+CAND0374,SK002,Excel,Beginner,4.9
+CAND0374,SK006,Data Cleaning,Beginner,4.3
+CAND0374,SK008,Recruitment Analytics,Beginner,4.0
+CAND0374,SK010,Automation,Beginner,2.3
+CAND0374,SK011,Power Automate,Beginner,3.8
+CAND0374,SK018,DAX,Intermediate,3.7
+CAND0374,SK020,Statistics,Beginner,2.1
+CAND0375,SK001,SQL,Intermediate,1.6
+CAND0375,SK002,Excel,Intermediate,2.2
+CAND0375,SK005,Pandas,Advanced,1.7
+CAND0375,SK007,Dashboarding,Beginner,2.4
+CAND0376,SK001,SQL,Intermediate,3.1
+CAND0376,SK002,Excel,Advanced,3.6
+CAND0376,SK004,Python,Beginner,3.7
+CAND0376,SK005,Pandas,Intermediate,4.8
+CAND0376,SK008,Recruitment Analytics,Intermediate,4.7
+CAND0376,SK009,Talent Intelligence,Beginner,3.2
+CAND0376,SK011,Power Automate,Intermediate,4.8
+CAND0376,SK012,APIs,Advanced,3.0
+CAND0376,SK019,ETL,Advanced,0.3
+CAND0377,SK001,SQL,Beginner,1.4
+CAND0377,SK004,Python,Advanced,0.7
+CAND0377,SK006,Data Cleaning,Beginner,1.4
+CAND0377,SK007,Dashboarding,Intermediate,1.3
+CAND0377,SK009,Talent Intelligence,Intermediate,1.4
+CAND0377,SK012,APIs,Advanced,1.2
+CAND0377,SK018,DAX,Beginner,4.9
+CAND0377,SK019,ETL,Intermediate,1.7
+CAND0378,SK001,SQL,Intermediate,1.0
+CAND0378,SK004,Python,Beginner,1.3
+CAND0378,SK005,Pandas,Beginner,1.8
+CAND0378,SK009,Talent Intelligence,Beginner,2.1
+CAND0378,SK010,Automation,Beginner,1.4
+CAND0378,SK016,Problem Solving,Beginner,1.8
+CAND0379,SK001,SQL,Advanced,4.8
+CAND0379,SK003,Power BI,Intermediate,3.2
+CAND0379,SK004,Python,Advanced,0.5
+CAND0379,SK012,APIs,Beginner,0.9
+CAND0379,SK016,Problem Solving,Advanced,4.1
+CAND0379,SK018,DAX,Advanced,1.6
+CAND0380,SK003,Power BI,Beginner,2.7
+CAND0380,SK004,Python,Beginner,4.7
+CAND0380,SK006,Data Cleaning,Advanced,0.6
+CAND0380,SK010,Automation,Beginner,4.3
+CAND0380,SK013,Machine Learning,Advanced,4.9
+CAND0380,SK016,Problem Solving,Intermediate,4.5
+CAND0380,SK018,DAX,Intermediate,3.6
+CAND0381,SK001,SQL,Intermediate,2.6
+CAND0381,SK002,Excel,Beginner,4.5
+CAND0381,SK003,Power BI,Intermediate,2.3
+CAND0381,SK004,Python,Beginner,1.0
+CAND0381,SK009,Talent Intelligence,Advanced,3.2
+CAND0381,SK010,Automation,Beginner,4.9
+CAND0381,SK016,Problem Solving,Intermediate,1.4
+CAND0382,SK001,SQL,Beginner,2.4
+CAND0382,SK002,Excel,Beginner,1.7
+CAND0382,SK003,Power BI,Intermediate,0.9
+CAND0382,SK004,Python,Intermediate,3.1
+CAND0382,SK005,Pandas,Advanced,2.0
+CAND0382,SK012,APIs,Intermediate,3.4
+CAND0382,SK014,LLMs,Intermediate,3.1
+CAND0382,SK015,Communication,Intermediate,4.4
+CAND0382,SK016,Problem Solving,Intermediate,1.1
+CAND0383,SK001,SQL,Intermediate,3.7
+CAND0383,SK002,Excel,Beginner,3.7
+CAND0383,SK004,Python,Advanced,0.9
+CAND0383,SK014,LLMs,Advanced,2.7
+CAND0383,SK017,Market Research,Advanced,0.7
+CAND0383,SK018,DAX,Advanced,1.2
+CAND0384,SK002,Excel,Intermediate,0.6
+CAND0384,SK004,Python,Advanced,1.9
+CAND0384,SK007,Dashboarding,Intermediate,4.7
+CAND0384,SK008,Recruitment Analytics,Beginner,5.0
+CAND0384,SK013,Machine Learning,Advanced,0.4
+CAND0384,SK019,ETL,Advanced,2.0
+CAND0384,SK020,Statistics,Intermediate,3.8
+CAND0385,SK001,SQL,Advanced,4.9
+CAND0385,SK002,Excel,Beginner,3.4
+CAND0385,SK003,Power BI,Intermediate,2.3
+CAND0385,SK004,Python,Advanced,1.1
+CAND0385,SK006,Data Cleaning,Beginner,1.9
+CAND0385,SK008,Recruitment Analytics,Intermediate,0.3
+CAND0385,SK013,Machine Learning,Advanced,1.3
+CAND0385,SK016,Problem Solving,Advanced,3.6
+CAND0385,SK020,Statistics,Beginner,4.8
+CAND0386,SK001,SQL,Advanced,2.8
+CAND0386,SK002,Excel,Intermediate,2.4
+CAND0386,SK012,APIs,Beginner,1.4
+CAND0386,SK013,Machine Learning,Intermediate,1.5
+CAND0386,SK015,Communication,Beginner,4.7
+CAND0386,SK017,Market Research,Intermediate,2.7
+CAND0387,SK001,SQL,Intermediate,3.4
+CAND0387,SK002,Excel,Intermediate,4.1
+CAND0387,SK003,Power BI,Beginner,5.0
+CAND0387,SK004,Python,Beginner,4.6
+CAND0387,SK011,Power Automate,Beginner,2.6
+CAND0387,SK012,APIs,Advanced,3.3
+CAND0387,SK015,Communication,Beginner,3.0
+CAND0387,SK016,Problem Solving,Beginner,0.3
+CAND0387,SK020,Statistics,Beginner,0.8
+CAND0388,SK001,SQL,Beginner,0.7
+CAND0388,SK004,Python,Intermediate,3.5
+CAND0388,SK007,Dashboarding,Intermediate,0.7
+CAND0388,SK008,Recruitment Analytics,Beginner,4.2
+CAND0388,SK011,Power Automate,Beginner,2.0
+CAND0388,SK012,APIs,Advanced,2.5
+CAND0388,SK013,Machine Learning,Beginner,0.3
+CAND0388,SK014,LLMs,Beginner,0.9
+CAND0388,SK016,Problem Solving,Advanced,0.5
+CAND0388,SK020,Statistics,Intermediate,4.8
+CAND0389,SK001,SQL,Advanced,0.4
+CAND0389,SK002,Excel,Advanced,3.0
+CAND0389,SK005,Pandas,Advanced,4.2
+CAND0389,SK011,Power Automate,Advanced,4.3
+CAND0389,SK019,ETL,Intermediate,3.2
+CAND0389,SK020,Statistics,Beginner,2.7
+CAND0390,SK001,SQL,Advanced,1.3
+CAND0390,SK004,Python,Advanced,0.5
+CAND0390,SK005,Pandas,Beginner,3.0
+CAND0390,SK010,Automation,Intermediate,1.3
+CAND0390,SK013,Machine Learning,Beginner,3.2
+CAND0390,SK017,Market Research,Advanced,4.7
+CAND0390,SK018,DAX,Beginner,2.6
+CAND0391,SK002,Excel,Advanced,1.1
+CAND0391,SK004,Python,Beginner,2.7
+CAND0391,SK007,Dashboarding,Intermediate,1.0
+CAND0391,SK009,Talent Intelligence,Intermediate,0.9
+CAND0391,SK011,Power Automate,Intermediate,3.2
+CAND0391,SK014,LLMs,Beginner,0.2
+CAND0391,SK015,Communication,Beginner,1.4
+CAND0392,SK002,Excel,Beginner,1.1
+CAND0392,SK008,Recruitment Analytics,Beginner,3.4
+CAND0392,SK010,Automation,Advanced,2.9
+CAND0392,SK012,APIs,Beginner,4.2
+CAND0392,SK013,Machine Learning,Beginner,4.6
+CAND0393,SK001,SQL,Beginner,4.3
+CAND0393,SK002,Excel,Beginner,3.0
+CAND0393,SK003,Power BI,Intermediate,2.7
+CAND0393,SK011,Power Automate,Intermediate,3.9
+CAND0393,SK014,LLMs,Intermediate,3.2
+CAND0393,SK017,Market Research,Beginner,3.0
+CAND0394,SK003,Power BI,Intermediate,1.7
+CAND0394,SK005,Pandas,Beginner,0.3
+CAND0394,SK007,Dashboarding,Beginner,4.0
+CAND0394,SK008,Recruitment Analytics,Intermediate,3.5
+CAND0394,SK011,Power Automate,Beginner,1.4
+CAND0394,SK014,LLMs,Advanced,4.2
+CAND0394,SK020,Statistics,Beginner,3.7
+CAND0395,SK001,SQL,Beginner,4.6
+CAND0395,SK002,Excel,Beginner,3.5
+CAND0395,SK003,Power BI,Intermediate,3.5
+CAND0395,SK004,Python,Advanced,3.0
+CAND0395,SK008,Recruitment Analytics,Beginner,4.6
+CAND0395,SK010,Automation,Beginner,3.1
+CAND0395,SK015,Communication,Beginner,3.4
+CAND0395,SK020,Statistics,Intermediate,0.2
+CAND0396,SK001,SQL,Beginner,4.1
+CAND0396,SK003,Power BI,Advanced,0.8
+CAND0396,SK009,Talent Intelligence,Intermediate,4.3
+CAND0396,SK015,Communication,Intermediate,4.8
+CAND0397,SK001,SQL,Beginner,2.7
+CAND0397,SK002,Excel,Beginner,4.7
+CAND0397,SK004,Python,Advanced,3.2
+CAND0397,SK005,Pandas,Intermediate,0.2
+CAND0397,SK007,Dashboarding,Intermediate,4.6
+CAND0397,SK010,Automation,Advanced,3.6
+CAND0397,SK014,LLMs,Beginner,1.7
+CAND0397,SK016,Problem Solving,Beginner,2.3
+CAND0397,SK020,Statistics,Advanced,3.4
+CAND0398,SK001,SQL,Intermediate,2.4
+CAND0398,SK002,Excel,Intermediate,3.4
+CAND0398,SK007,Dashboarding,Advanced,2.4
+CAND0398,SK010,Automation,Beginner,0.5
+CAND0398,SK012,APIs,Beginner,0.7
+CAND0398,SK015,Communication,Intermediate,3.9
+CAND0398,SK017,Market Research,Intermediate,1.5
+CAND0399,SK002,Excel,Beginner,1.2
+CAND0399,SK004,Python,Intermediate,1.5
+CAND0399,SK005,Pandas,Advanced,3.2
+CAND0399,SK010,Automation,Advanced,4.6
+CAND0399,SK011,Power Automate,Advanced,2.4
+CAND0399,SK015,Communication,Advanced,4.7
+CAND0399,SK016,Problem Solving,Beginner,3.1
+CAND0399,SK019,ETL,Advanced,1.3
+CAND0399,SK020,Statistics,Advanced,4.9
+CAND0400,SK001,SQL,Intermediate,1.9
+CAND0400,SK002,Excel,Beginner,3.6
+CAND0400,SK003,Power BI,Advanced,0.4
+CAND0400,SK006,Data Cleaning,Intermediate,4.6
+CAND0400,SK007,Dashboarding,Intermediate,1.4
+CAND0400,SK010,Automation,Advanced,4.2
+CAND0400,SK013,Machine Learning,Beginner,0.3
+CAND0400,SK020,Statistics,Advanced,3.1
+CAND0401,SK001,SQL,Beginner,1.5
+CAND0401,SK002,Excel,Intermediate,4.8
+CAND0401,SK004,Python,Intermediate,2.4
+CAND0401,SK006,Data Cleaning,Intermediate,4.4
+CAND0401,SK010,Automation,Intermediate,3.9
+CAND0401,SK011,Power Automate,Advanced,3.0
+CAND0401,SK014,LLMs,Advanced,3.0
+CAND0401,SK018,DAX,Advanced,1.4
+CAND0402,SK001,SQL,Intermediate,4.0
+CAND0402,SK002,Excel,Beginner,3.8
+CAND0402,SK004,Python,Intermediate,2.5
+CAND0402,SK008,Recruitment Analytics,Beginner,3.3
+CAND0402,SK013,Machine Learning,Intermediate,3.0
+CAND0402,SK015,Communication,Intermediate,3.1
+CAND0403,SK002,Excel,Advanced,3.8
+CAND0403,SK004,Python,Beginner,5.0
+CAND0403,SK015,Communication,Intermediate,3.2
+CAND0403,SK017,Market Research,Beginner,4.6
+CAND0403,SK018,DAX,Intermediate,1.6
+CAND0404,SK001,SQL,Advanced,1.7
+CAND0404,SK002,Excel,Advanced,3.7
+CAND0404,SK011,Power Automate,Advanced,4.6
+CAND0404,SK012,APIs,Intermediate,4.7
+CAND0404,SK014,LLMs,Beginner,2.9
+CAND0404,SK015,Communication,Beginner,2.5
+CAND0405,SK007,Dashboarding,Intermediate,3.2
+CAND0405,SK008,Recruitment Analytics,Advanced,3.0
+CAND0405,SK012,APIs,Intermediate,3.2
+CAND0405,SK019,ETL,Intermediate,1.2
+CAND0406,SK004,Python,Advanced,4.6
+CAND0406,SK008,Recruitment Analytics,Intermediate,2.6
+CAND0406,SK015,Communication,Advanced,3.7
+CAND0406,SK016,Problem Solving,Beginner,4.0
+CAND0406,SK017,Market Research,Advanced,4.1
+CAND0406,SK019,ETL,Advanced,2.0
+CAND0406,SK020,Statistics,Intermediate,4.9
+CAND0407,SK002,Excel,Beginner,1.5
+CAND0407,SK004,Python,Beginner,4.0
+CAND0407,SK005,Pandas,Intermediate,4.6
+CAND0407,SK013,Machine Learning,Intermediate,2.3
+CAND0407,SK015,Communication,Beginner,2.3
+CAND0407,SK016,Problem Solving,Intermediate,1.9
+CAND0407,SK020,Statistics,Advanced,0.7
+CAND0408,SK001,SQL,Advanced,2.9
+CAND0408,SK002,Excel,Beginner,4.7
+CAND0408,SK004,Python,Intermediate,3.8
+CAND0408,SK005,Pandas,Intermediate,1.7
+CAND0408,SK011,Power Automate,Beginner,4.1
+CAND0408,SK015,Communication,Advanced,3.5
+CAND0408,SK017,Market Research,Intermediate,0.3
+CAND0409,SK001,SQL,Advanced,4.2
+CAND0409,SK002,Excel,Beginner,3.7
+CAND0409,SK004,Python,Intermediate,2.1
+CAND0409,SK008,Recruitment Analytics,Advanced,3.0
+CAND0409,SK010,Automation,Beginner,1.9
+CAND0409,SK011,Power Automate,Beginner,3.1
+CAND0409,SK012,APIs,Advanced,0.5
+CAND0409,SK016,Problem Solving,Beginner,3.2
+CAND0410,SK001,SQL,Advanced,0.5
+CAND0410,SK002,Excel,Intermediate,2.2
+CAND0410,SK003,Power BI,Intermediate,0.5
+CAND0410,SK004,Python,Advanced,2.4
+CAND0410,SK013,Machine Learning,Advanced,1.4
+CAND0410,SK019,ETL,Intermediate,4.8
+CAND0411,SK001,SQL,Beginner,2.7
+CAND0411,SK003,Power BI,Intermediate,3.4
+CAND0411,SK005,Pandas,Intermediate,4.2
+CAND0411,SK008,Recruitment Analytics,Advanced,0.4
+CAND0411,SK011,Power Automate,Advanced,3.5
+CAND0411,SK015,Communication,Advanced,4.1
+CAND0411,SK017,Market Research,Intermediate,2.5
+CAND0411,SK019,ETL,Beginner,3.4
+CAND0412,SK001,SQL,Advanced,1.4
+CAND0412,SK002,Excel,Intermediate,4.3
+CAND0412,SK003,Power BI,Intermediate,4.9
+CAND0412,SK004,Python,Advanced,2.2
+CAND0412,SK009,Talent Intelligence,Advanced,0.9
+CAND0412,SK018,DAX,Beginner,3.9
+CAND0413,SK001,SQL,Beginner,2.5
+CAND0413,SK002,Excel,Beginner,3.3
+CAND0413,SK004,Python,Advanced,4.9
+CAND0413,SK005,Pandas,Beginner,4.2
+CAND0413,SK013,Machine Learning,Beginner,1.1
+CAND0413,SK014,LLMs,Intermediate,3.9
+CAND0413,SK018,DAX,Advanced,3.2
+CAND0413,SK019,ETL,Advanced,1.3
+CAND0414,SK001,SQL,Advanced,0.5
+CAND0414,SK002,Excel,Advanced,3.7
+CAND0414,SK003,Power BI,Advanced,1.1
+CAND0414,SK005,Pandas,Intermediate,0.9
+CAND0414,SK007,Dashboarding,Advanced,0.9
+CAND0414,SK011,Power Automate,Advanced,4.1
+CAND0414,SK014,LLMs,Intermediate,4.6
+CAND0414,SK015,Communication,Beginner,2.0
+CAND0414,SK020,Statistics,Advanced,1.4
+CAND0415,SK001,SQL,Advanced,1.5
+CAND0415,SK002,Excel,Beginner,4.0
+CAND0415,SK003,Power BI,Advanced,3.2
+CAND0415,SK004,Python,Advanced,3.7
+CAND0415,SK006,Data Cleaning,Intermediate,2.6
+CAND0415,SK009,Talent Intelligence,Beginner,0.6
+CAND0415,SK010,Automation,Beginner,1.3
+CAND0415,SK011,Power Automate,Intermediate,1.4
+CAND0415,SK016,Problem Solving,Advanced,3.6
+CAND0415,SK017,Market Research,Beginner,1.7
+CAND0415,SK019,ETL,Intermediate,2.5
+CAND0416,SK001,SQL,Beginner,4.6
+CAND0416,SK002,Excel,Advanced,0.7
+CAND0416,SK006,Data Cleaning,Beginner,0.3
+CAND0416,SK011,Power Automate,Advanced,1.5
+CAND0416,SK012,APIs,Intermediate,4.8
+CAND0416,SK013,Machine Learning,Intermediate,1.0
+CAND0416,SK017,Market Research,Intermediate,1.1
+CAND0417,SK001,SQL,Advanced,1.7
+CAND0417,SK004,Python,Advanced,3.2
+CAND0417,SK005,Pandas,Advanced,4.8
+CAND0417,SK006,Data Cleaning,Intermediate,3.9
+CAND0417,SK007,Dashboarding,Advanced,2.4
+CAND0417,SK009,Talent Intelligence,Advanced,1.1
+CAND0417,SK013,Machine Learning,Intermediate,4.9
+CAND0417,SK018,DAX,Advanced,1.7
+CAND0418,SK002,Excel,Beginner,4.9
+CAND0418,SK003,Power BI,Intermediate,0.3
+CAND0418,SK005,Pandas,Advanced,2.7
+CAND0418,SK009,Talent Intelligence,Beginner,4.8
+CAND0418,SK015,Communication,Intermediate,4.8
+CAND0418,SK018,DAX,Intermediate,4.3
+CAND0418,SK019,ETL,Beginner,0.7
+CAND0419,SK001,SQL,Beginner,0.4
+CAND0419,SK004,Python,Advanced,3.6
+CAND0419,SK006,Data Cleaning,Advanced,4.8
+CAND0419,SK007,Dashboarding,Advanced,1.4
+CAND0419,SK010,Automation,Advanced,2.9
+CAND0419,SK017,Market Research,Advanced,2.4
+CAND0419,SK018,DAX,Beginner,4.0
+CAND0420,SK001,SQL,Intermediate,4.9
+CAND0420,SK004,Python,Intermediate,2.8
+CAND0420,SK007,Dashboarding,Beginner,1.1
+CAND0420,SK016,Problem Solving,Intermediate,0.8
+CAND0420,SK017,Market Research,Beginner,3.2
+CAND0420,SK019,ETL,Beginner,2.8
+CAND0421,SK002,Excel,Intermediate,3.9
+CAND0421,SK003,Power BI,Beginner,3.2
+CAND0421,SK009,Talent Intelligence,Intermediate,0.5
+CAND0421,SK014,LLMs,Advanced,3.7
+CAND0421,SK016,Problem Solving,Intermediate,1.9
+CAND0421,SK018,DAX,Beginner,3.5
+CAND0422,SK001,SQL,Intermediate,3.6
+CAND0422,SK002,Excel,Beginner,2.3
+CAND0422,SK003,Power BI,Beginner,1.2
+CAND0422,SK012,APIs,Beginner,0.3
+CAND0423,SK001,SQL,Advanced,4.5
+CAND0423,SK004,Python,Advanced,1.5
+CAND0423,SK005,Pandas,Beginner,4.4
+CAND0423,SK006,Data Cleaning,Advanced,1.5
+CAND0423,SK008,Recruitment Analytics,Intermediate,1.8
+CAND0423,SK015,Communication,Beginner,3.0
+CAND0423,SK018,DAX,Intermediate,3.9
+CAND0423,SK020,Statistics,Beginner,4.3
+CAND0424,SK001,SQL,Advanced,3.4
+CAND0424,SK002,Excel,Beginner,1.4
+CAND0424,SK004,Python,Beginner,1.4
+CAND0424,SK007,Dashboarding,Intermediate,4.6
+CAND0424,SK008,Recruitment Analytics,Beginner,4.7
+CAND0424,SK013,Machine Learning,Intermediate,0.7
+CAND0424,SK014,LLMs,Intermediate,1.5
+CAND0424,SK017,Market Research,Intermediate,0.2
+CAND0425,SK001,SQL,Intermediate,4.2
+CAND0425,SK002,Excel,Beginner,2.7
+CAND0425,SK004,Python,Advanced,0.8
+CAND0425,SK006,Data Cleaning,Beginner,0.8
+CAND0425,SK010,Automation,Beginner,1.7
+CAND0425,SK011,Power Automate,Beginner,3.3
+CAND0425,SK012,APIs,Intermediate,3.2
+CAND0425,SK018,DAX,Advanced,2.2
+CAND0425,SK020,Statistics,Advanced,3.7
+CAND0426,SK001,SQL,Advanced,4.0
+CAND0426,SK002,Excel,Advanced,4.7
+CAND0426,SK004,Python,Intermediate,2.6
+CAND0426,SK006,Data Cleaning,Advanced,1.1
+CAND0426,SK011,Power Automate,Intermediate,3.3
+CAND0426,SK012,APIs,Advanced,1.7
+CAND0426,SK019,ETL,Intermediate,4.6
+CAND0427,SK006,Data Cleaning,Advanced,1.9
+CAND0427,SK010,Automation,Beginner,0.6
+CAND0427,SK013,Machine Learning,Intermediate,3.9
+CAND0427,SK016,Problem Solving,Intermediate,1.7
+CAND0428,SK001,SQL,Beginner,4.9
+CAND0428,SK002,Excel,Beginner,1.4
+CAND0428,SK004,Python,Intermediate,4.1
+CAND0428,SK006,Data Cleaning,Advanced,4.5
+CAND0428,SK013,Machine Learning,Advanced,0.2
+CAND0428,SK015,Communication,Advanced,2.5
+CAND0428,SK019,ETL,Advanced,2.3
+CAND0428,SK020,Statistics,Intermediate,4.2
+CAND0429,SK002,Excel,Beginner,1.8
+CAND0429,SK006,Data Cleaning,Intermediate,2.9
+CAND0429,SK008,Recruitment Analytics,Intermediate,1.7
+CAND0429,SK010,Automation,Intermediate,3.1
+CAND0429,SK011,Power Automate,Beginner,0.7
+CAND0429,SK012,APIs,Beginner,4.0
+CAND0430,SK001,SQL,Advanced,0.7
+CAND0430,SK002,Excel,Intermediate,0.2
+CAND0430,SK003,Power BI,Advanced,4.9
+CAND0430,SK007,Dashboarding,Intermediate,4.8
+CAND0430,SK008,Recruitment Analytics,Advanced,2.4
+CAND0430,SK010,Automation,Beginner,4.0
+CAND0430,SK011,Power Automate,Beginner,4.4
+CAND0430,SK018,DAX,Advanced,4.7
+CAND0430,SK019,ETL,Beginner,1.1
+CAND0431,SK001,SQL,Intermediate,3.5
+CAND0431,SK002,Excel,Beginner,0.8
+CAND0431,SK004,Python,Advanced,3.3
+CAND0431,SK007,Dashboarding,Advanced,3.0
+CAND0431,SK013,Machine Learning,Advanced,1.3
+CAND0431,SK017,Market Research,Advanced,4.9
+CAND0431,SK019,ETL,Intermediate,1.5
+CAND0432,SK001,SQL,Advanced,2.1
+CAND0432,SK004,Python,Beginner,4.6
+CAND0432,SK005,Pandas,Beginner,1.2
+CAND0432,SK008,Recruitment Analytics,Advanced,2.5
+CAND0432,SK016,Problem Solving,Advanced,4.4
+CAND0433,SK005,Pandas,Beginner,4.9
+CAND0433,SK009,Talent Intelligence,Intermediate,2.1
+CAND0433,SK012,APIs,Beginner,0.4
+CAND0433,SK013,Machine Learning,Advanced,0.2
+CAND0433,SK017,Market Research,Beginner,2.5
+CAND0433,SK019,ETL,Intermediate,3.0
+CAND0434,SK001,SQL,Beginner,2.4
+CAND0434,SK004,Python,Advanced,4.5
+CAND0434,SK009,Talent Intelligence,Beginner,3.8
+CAND0434,SK010,Automation,Beginner,2.1
+CAND0434,SK011,Power Automate,Intermediate,1.6
+CAND0434,SK014,LLMs,Beginner,1.6
+CAND0434,SK015,Communication,Intermediate,4.2
+CAND0434,SK016,Problem Solving,Advanced,0.7
+CAND0434,SK017,Market Research,Intermediate,0.3
+CAND0434,SK019,ETL,Advanced,1.4
+CAND0435,SK007,Dashboarding,Intermediate,4.1
+CAND0435,SK011,Power Automate,Advanced,4.0
+CAND0435,SK016,Problem Solving,Intermediate,1.9
+CAND0435,SK017,Market Research,Intermediate,2.4
+CAND0435,SK019,ETL,Beginner,4.6
+CAND0435,SK020,Statistics,Intermediate,1.8
+CAND0436,SK002,Excel,Beginner,0.5
+CAND0436,SK003,Power BI,Intermediate,3.3
+CAND0436,SK004,Python,Beginner,4.1
+CAND0436,SK005,Pandas,Intermediate,2.4
+CAND0436,SK010,Automation,Intermediate,0.7
+CAND0436,SK013,Machine Learning,Advanced,3.3
+CAND0436,SK014,LLMs,Beginner,1.7
+CAND0436,SK016,Problem Solving,Beginner,3.3
+CAND0436,SK017,Market Research,Beginner,2.6
+CAND0437,SK001,SQL,Beginner,2.2
+CAND0437,SK002,Excel,Advanced,3.1
+CAND0437,SK004,Python,Beginner,4.8
+CAND0437,SK005,Pandas,Intermediate,3.5
+CAND0437,SK006,Data Cleaning,Beginner,3.7
+CAND0437,SK007,Dashboarding,Beginner,0.6
+CAND0437,SK012,APIs,Beginner,4.7
+CAND0437,SK013,Machine Learning,Advanced,4.0
+CAND0437,SK014,LLMs,Intermediate,1.1
+CAND0437,SK020,Statistics,Intermediate,1.3
+CAND0438,SK002,Excel,Beginner,1.5
+CAND0438,SK004,Python,Intermediate,0.6
+CAND0438,SK005,Pandas,Intermediate,4.0
+CAND0438,SK009,Talent Intelligence,Intermediate,4.5
+CAND0438,SK010,Automation,Advanced,1.4
+CAND0438,SK015,Communication,Intermediate,1.7
+CAND0438,SK019,ETL,Intermediate,3.5
+CAND0439,SK001,SQL,Intermediate,1.5
+CAND0439,SK002,Excel,Intermediate,2.9
+CAND0439,SK004,Python,Intermediate,4.0
+CAND0439,SK005,Pandas,Beginner,3.9
+CAND0439,SK014,LLMs,Beginner,2.8
+CAND0439,SK019,ETL,Beginner,4.7
+CAND0440,SK001,SQL,Beginner,4.6
+CAND0440,SK002,Excel,Advanced,3.3
+CAND0440,SK003,Power BI,Advanced,3.6
+CAND0440,SK004,Python,Beginner,2.0
+CAND0440,SK005,Pandas,Intermediate,1.6
+CAND0440,SK006,Data Cleaning,Advanced,3.5
+CAND0440,SK008,Recruitment Analytics,Beginner,3.4
+CAND0440,SK014,LLMs,Intermediate,2.0
+CAND0440,SK016,Problem Solving,Intermediate,4.1
+CAND0440,SK017,Market Research,Intermediate,3.0
+CAND0441,SK001,SQL,Advanced,3.1
+CAND0441,SK002,Excel,Advanced,1.7
+CAND0441,SK005,Pandas,Beginner,1.3
+CAND0441,SK007,Dashboarding,Beginner,2.5
+CAND0441,SK011,Power Automate,Beginner,3.0
+CAND0441,SK014,LLMs,Advanced,0.5
+CAND0442,SK001,SQL,Beginner,4.8
+CAND0442,SK002,Excel,Intermediate,4.5
+CAND0442,SK006,Data Cleaning,Advanced,0.3
+CAND0442,SK007,Dashboarding,Advanced,1.1
+CAND0442,SK008,Recruitment Analytics,Beginner,2.9
+CAND0442,SK010,Automation,Intermediate,4.8
+CAND0442,SK017,Market Research,Advanced,0.3
+CAND0443,SK001,SQL,Advanced,0.7
+CAND0443,SK002,Excel,Beginner,0.5
+CAND0443,SK014,LLMs,Advanced,4.3
+CAND0443,SK015,Communication,Intermediate,1.7
+CAND0443,SK020,Statistics,Beginner,2.4
+CAND0444,SK002,Excel,Beginner,3.0
+CAND0444,SK004,Python,Advanced,4.3
+CAND0444,SK006,Data Cleaning,Beginner,3.8
+CAND0444,SK009,Talent Intelligence,Beginner,3.0
+CAND0444,SK012,APIs,Intermediate,4.0
+CAND0444,SK013,Machine Learning,Advanced,0.9
+CAND0444,SK016,Problem Solving,Beginner,4.3
+CAND0444,SK019,ETL,Beginner,0.3
+CAND0445,SK002,Excel,Beginner,2.7
+CAND0445,SK004,Python,Advanced,2.4
+CAND0445,SK006,Data Cleaning,Advanced,1.5
+CAND0445,SK014,LLMs,Intermediate,3.9
+CAND0445,SK020,Statistics,Intermediate,1.6
+CAND0446,SK001,SQL,Advanced,2.7
+CAND0446,SK002,Excel,Advanced,3.8
+CAND0446,SK003,Power BI,Beginner,4.8
+CAND0446,SK004,Python,Beginner,2.2
+CAND0446,SK006,Data Cleaning,Advanced,2.9
+CAND0446,SK009,Talent Intelligence,Intermediate,1.4
+CAND0446,SK011,Power Automate,Advanced,2.2
+CAND0446,SK015,Communication,Advanced,3.0
+CAND0446,SK016,Problem Solving,Beginner,3.8
+CAND0446,SK017,Market Research,Intermediate,2.6
+CAND0446,SK018,DAX,Beginner,4.3
+CAND0447,SK001,SQL,Intermediate,2.4
+CAND0447,SK004,Python,Intermediate,2.8
+CAND0447,SK005,Pandas,Advanced,1.4
+CAND0447,SK009,Talent Intelligence,Intermediate,2.8
+CAND0447,SK011,Power Automate,Advanced,1.5
+CAND0447,SK012,APIs,Intermediate,0.2
+CAND0447,SK014,LLMs,Advanced,3.6
+CAND0447,SK015,Communication,Intermediate,2.2
+CAND0448,SK001,SQL,Beginner,2.8
+CAND0448,SK002,Excel,Beginner,2.1
+CAND0448,SK003,Power BI,Beginner,4.0
+CAND0448,SK010,Automation,Beginner,2.7
+CAND0448,SK014,LLMs,Beginner,4.5
+CAND0448,SK015,Communication,Advanced,3.7
+CAND0448,SK016,Problem Solving,Advanced,3.3
+CAND0448,SK020,Statistics,Intermediate,1.4
+CAND0449,SK001,SQL,Advanced,3.6
+CAND0449,SK002,Excel,Advanced,2.7
+CAND0449,SK004,Python,Beginner,0.6
+CAND0449,SK007,Dashboarding,Advanced,2.1
+CAND0449,SK011,Power Automate,Intermediate,5.0
+CAND0449,SK016,Problem Solving,Advanced,4.2
+CAND0449,SK018,DAX,Advanced,0.5
+CAND0449,SK020,Statistics,Intermediate,3.0
+CAND0450,SK001,SQL,Beginner,4.2
+CAND0450,SK002,Excel,Beginner,0.6
+CAND0450,SK004,Python,Advanced,0.6
+CAND0450,SK005,Pandas,Advanced,2.9
+CAND0450,SK006,Data Cleaning,Intermediate,2.9
+CAND0450,SK009,Talent Intelligence,Advanced,2.3
+CAND0450,SK012,APIs,Advanced,0.8
+CAND0451,SK001,SQL,Beginner,3.7
+CAND0451,SK002,Excel,Beginner,2.5
+CAND0451,SK004,Python,Intermediate,0.5
+CAND0451,SK013,Machine Learning,Beginner,1.3
+CAND0451,SK016,Problem Solving,Advanced,3.0
+CAND0451,SK017,Market Research,Advanced,2.3
+CAND0452,SK001,SQL,Advanced,4.6
+CAND0452,SK002,Excel,Beginner,3.4
+CAND0452,SK003,Power BI,Beginner,4.1
+CAND0452,SK004,Python,Intermediate,2.9
+CAND0452,SK005,Pandas,Intermediate,0.3
+CAND0452,SK010,Automation,Beginner,0.3
+CAND0452,SK011,Power Automate,Beginner,0.9
+CAND0452,SK014,LLMs,Advanced,1.6
+CAND0452,SK015,Communication,Intermediate,1.0
+CAND0453,SK001,SQL,Intermediate,1.9
+CAND0453,SK002,Excel,Advanced,4.0
+CAND0453,SK003,Power BI,Intermediate,1.5
+CAND0453,SK006,Data Cleaning,Intermediate,3.4
+CAND0453,SK020,Statistics,Advanced,3.4
+CAND0454,SK002,Excel,Advanced,3.5
+CAND0454,SK004,Python,Advanced,3.9
+CAND0454,SK005,Pandas,Intermediate,3.4
+CAND0454,SK008,Recruitment Analytics,Beginner,0.5
+CAND0454,SK010,Automation,Beginner,2.1
+CAND0454,SK011,Power Automate,Beginner,1.9
+CAND0454,SK014,LLMs,Advanced,1.2
+CAND0454,SK015,Communication,Intermediate,0.4
+CAND0455,SK001,SQL,Advanced,3.0
+CAND0455,SK002,Excel,Advanced,3.1
+CAND0455,SK003,Power BI,Intermediate,2.8
+CAND0455,SK007,Dashboarding,Advanced,3.4
+CAND0455,SK008,Recruitment Analytics,Intermediate,3.9
+CAND0455,SK014,LLMs,Beginner,4.2
+CAND0455,SK015,Communication,Intermediate,1.8
+CAND0455,SK018,DAX,Beginner,4.1
+CAND0456,SK001,SQL,Advanced,3.1
+CAND0456,SK002,Excel,Advanced,0.5
+CAND0456,SK004,Python,Intermediate,2.6
+CAND0456,SK010,Automation,Beginner,1.6
+CAND0456,SK012,APIs,Beginner,3.4
+CAND0456,SK016,Problem Solving,Intermediate,1.4
+CAND0456,SK017,Market Research,Intermediate,0.3
+CAND0456,SK018,DAX,Advanced,3.0
+CAND0456,SK020,Statistics,Intermediate,1.2
+CAND0457,SK002,Excel,Advanced,4.8
+CAND0457,SK004,Python,Advanced,2.7
+CAND0457,SK005,Pandas,Advanced,4.3
+CAND0457,SK008,Recruitment Analytics,Advanced,1.4
+CAND0457,SK011,Power Automate,Advanced,2.2
+CAND0457,SK012,APIs,Advanced,3.1
+CAND0457,SK015,Communication,Advanced,5.0
+CAND0457,SK020,Statistics,Intermediate,3.1
+CAND0458,SK001,SQL,Intermediate,3.7
+CAND0458,SK002,Excel,Beginner,3.3
+CAND0458,SK003,Power BI,Advanced,4.7
+CAND0458,SK004,Python,Advanced,0.2
+CAND0458,SK008,Recruitment Analytics,Beginner,4.4
+CAND0458,SK012,APIs,Beginner,3.4
+CAND0458,SK014,LLMs,Intermediate,1.5
+CAND0459,SK001,SQL,Advanced,2.7
+CAND0459,SK004,Python,Intermediate,4.6
+CAND0459,SK005,Pandas,Advanced,4.3
+CAND0459,SK011,Power Automate,Advanced,3.1
+CAND0459,SK014,LLMs,Beginner,4.3
+CAND0459,SK016,Problem Solving,Intermediate,2.5
+CAND0459,SK020,Statistics,Advanced,1.4
+CAND0460,SK001,SQL,Advanced,2.8
+CAND0460,SK002,Excel,Intermediate,3.5
+CAND0460,SK003,Power BI,Beginner,0.6
+CAND0460,SK004,Python,Intermediate,0.6
+CAND0460,SK005,Pandas,Beginner,2.6
+CAND0460,SK009,Talent Intelligence,Advanced,0.4
+CAND0460,SK010,Automation,Intermediate,1.9
+CAND0460,SK013,Machine Learning,Beginner,3.2
+CAND0460,SK015,Communication,Beginner,2.2
+CAND0460,SK018,DAX,Intermediate,3.2
+CAND0461,SK001,SQL,Intermediate,4.8
+CAND0461,SK005,Pandas,Beginner,1.5
+CAND0461,SK006,Data Cleaning,Beginner,4.6
+CAND0461,SK008,Recruitment Analytics,Beginner,3.7
+CAND0461,SK015,Communication,Advanced,5.0
+CAND0461,SK017,Market Research,Beginner,2.2
+CAND0461,SK018,DAX,Beginner,3.5
+CAND0461,SK019,ETL,Advanced,2.3
+CAND0461,SK020,Statistics,Advanced,2.4
+CAND0462,SK004,Python,Beginner,4.2
+CAND0462,SK007,Dashboarding,Advanced,1.6
+CAND0462,SK009,Talent Intelligence,Intermediate,2.5
+CAND0462,SK013,Machine Learning,Beginner,2.2
+CAND0462,SK019,ETL,Advanced,1.9
+CAND0463,SK001,SQL,Beginner,4.8
+CAND0463,SK002,Excel,Intermediate,0.3
+CAND0463,SK003,Power BI,Intermediate,1.8
+CAND0463,SK012,APIs,Intermediate,2.7
+CAND0463,SK013,Machine Learning,Intermediate,4.8
+CAND0463,SK014,LLMs,Beginner,2.0
+CAND0464,SK001,SQL,Beginner,4.1
+CAND0464,SK005,Pandas,Advanced,3.6
+CAND0464,SK008,Recruitment Analytics,Intermediate,0.5
+CAND0464,SK010,Automation,Intermediate,3.3
+CAND0464,SK015,Communication,Beginner,1.6
+CAND0464,SK017,Market Research,Intermediate,4.4
+CAND0465,SK001,SQL,Advanced,4.3
+CAND0465,SK003,Power BI,Advanced,4.5
+CAND0465,SK004,Python,Advanced,3.8
+CAND0465,SK005,Pandas,Beginner,4.5
+CAND0465,SK007,Dashboarding,Intermediate,0.6
+CAND0465,SK011,Power Automate,Advanced,4.4
+CAND0465,SK014,LLMs,Intermediate,3.2
+CAND0466,SK002,Excel,Beginner,1.0
+CAND0466,SK006,Data Cleaning,Advanced,3.5
+CAND0466,SK007,Dashboarding,Beginner,1.8
+CAND0466,SK008,Recruitment Analytics,Beginner,4.7
+CAND0466,SK011,Power Automate,Advanced,2.7
+CAND0466,SK013,Machine Learning,Advanced,2.0
+CAND0466,SK015,Communication,Advanced,0.4
+CAND0466,SK017,Market Research,Intermediate,4.2
+CAND0466,SK018,DAX,Advanced,1.5
+CAND0467,SK002,Excel,Beginner,0.4
+CAND0467,SK004,Python,Beginner,3.4
+CAND0467,SK006,Data Cleaning,Advanced,1.0
+CAND0467,SK009,Talent Intelligence,Advanced,2.8
+CAND0467,SK010,Automation,Intermediate,0.6
+CAND0467,SK012,APIs,Advanced,3.8
+CAND0467,SK014,LLMs,Beginner,1.2
+CAND0467,SK017,Market Research,Beginner,4.6
+CAND0467,SK019,ETL,Beginner,4.4
+CAND0467,SK020,Statistics,Intermediate,2.7
+CAND0468,SK005,Pandas,Beginner,2.5
+CAND0468,SK007,Dashboarding,Advanced,2.4
+CAND0468,SK013,Machine Learning,Intermediate,4.9
+CAND0468,SK015,Communication,Advanced,1.4
+CAND0468,SK016,Problem Solving,Beginner,2.6
+CAND0468,SK020,Statistics,Intermediate,2.4
+CAND0469,SK001,SQL,Intermediate,3.3
+CAND0469,SK003,Power BI,Intermediate,4.1
+CAND0469,SK009,Talent Intelligence,Advanced,3.6
+CAND0469,SK014,LLMs,Intermediate,1.4
+CAND0469,SK015,Communication,Intermediate,1.0
+CAND0470,SK001,SQL,Advanced,2.5
+CAND0470,SK002,Excel,Beginner,4.7
+CAND0470,SK004,Python,Intermediate,1.3
+CAND0470,SK009,Talent Intelligence,Advanced,3.4
+CAND0470,SK015,Communication,Beginner,1.0
+CAND0470,SK016,Problem Solving,Intermediate,4.1
+CAND0470,SK018,DAX,Intermediate,4.6
+CAND0471,SK002,Excel,Intermediate,1.6
+CAND0471,SK004,Python,Intermediate,2.7
+CAND0471,SK006,Data Cleaning,Advanced,4.0
+CAND0471,SK009,Talent Intelligence,Advanced,1.3
+CAND0471,SK010,Automation,Advanced,4.0
+CAND0472,SK001,SQL,Advanced,2.2
+CAND0472,SK002,Excel,Intermediate,2.1
+CAND0472,SK004,Python,Advanced,2.4
+CAND0472,SK008,Recruitment Analytics,Advanced,2.1
+CAND0472,SK009,Talent Intelligence,Intermediate,2.0
+CAND0472,SK010,Automation,Beginner,1.6
+CAND0472,SK014,LLMs,Intermediate,2.7
+CAND0472,SK018,DAX,Intermediate,3.8
+CAND0473,SK001,SQL,Advanced,1.8
+CAND0473,SK004,Python,Advanced,2.4
+CAND0473,SK006,Data Cleaning,Advanced,2.3
+CAND0473,SK007,Dashboarding,Beginner,3.4
+CAND0473,SK008,Recruitment Analytics,Intermediate,4.5
+CAND0473,SK010,Automation,Beginner,3.5
+CAND0473,SK014,LLMs,Intermediate,4.7
+CAND0473,SK016,Problem Solving,Advanced,4.2
+CAND0473,SK017,Market Research,Advanced,4.2
+CAND0474,SK001,SQL,Beginner,0.6
+CAND0474,SK002,Excel,Advanced,0.4
+CAND0474,SK004,Python,Beginner,3.0
+CAND0474,SK009,Talent Intelligence,Beginner,3.5
+CAND0474,SK014,LLMs,Beginner,3.7
+CAND0474,SK016,Problem Solving,Advanced,2.6
+CAND0474,SK020,Statistics,Intermediate,0.9
+CAND0475,SK002,Excel,Beginner,2.8
+CAND0475,SK008,Recruitment Analytics,Beginner,4.7
+CAND0475,SK011,Power Automate,Intermediate,4.1
+CAND0475,SK012,APIs,Beginner,2.4
+CAND0475,SK014,LLMs,Beginner,1.8
+CAND0476,SK001,SQL,Intermediate,3.1
+CAND0476,SK005,Pandas,Advanced,3.2
+CAND0476,SK006,Data Cleaning,Intermediate,3.5
+CAND0476,SK009,Talent Intelligence,Advanced,3.4
+CAND0476,SK013,Machine Learning,Intermediate,1.9
+CAND0476,SK015,Communication,Intermediate,1.8
+CAND0476,SK016,Problem Solving,Intermediate,3.1
+CAND0477,SK001,SQL,Beginner,2.3
+CAND0477,SK002,Excel,Intermediate,2.7
+CAND0477,SK008,Recruitment Analytics,Intermediate,4.5
+CAND0477,SK011,Power Automate,Advanced,1.3
+CAND0477,SK012,APIs,Intermediate,4.7
+CAND0477,SK018,DAX,Advanced,1.7
+CAND0477,SK020,Statistics,Advanced,4.3
+CAND0478,SK002,Excel,Beginner,3.1
+CAND0478,SK004,Python,Advanced,1.1
+CAND0478,SK005,Pandas,Intermediate,4.2
+CAND0478,SK006,Data Cleaning,Intermediate,2.6
+CAND0478,SK013,Machine Learning,Advanced,1.6
+CAND0478,SK015,Communication,Beginner,0.5
+CAND0478,SK017,Market Research,Beginner,0.4
+CAND0479,SK001,SQL,Intermediate,4.8
+CAND0479,SK007,Dashboarding,Beginner,4.1
+CAND0479,SK009,Talent Intelligence,Intermediate,3.5
+CAND0479,SK013,Machine Learning,Beginner,1.0
+CAND0479,SK015,Communication,Beginner,4.0
+CAND0479,SK016,Problem Solving,Advanced,5.0
+CAND0480,SK001,SQL,Intermediate,0.6
+CAND0480,SK004,Python,Advanced,0.6
+CAND0480,SK005,Pandas,Advanced,4.5
+CAND0480,SK006,Data Cleaning,Intermediate,3.6
+CAND0480,SK007,Dashboarding,Advanced,1.0
+CAND0480,SK008,Recruitment Analytics,Intermediate,2.9
+CAND0480,SK014,LLMs,Advanced,2.9
+CAND0481,SK001,SQL,Beginner,1.8
+CAND0481,SK003,Power BI,Intermediate,0.2
+CAND0481,SK004,Python,Advanced,4.5
+CAND0481,SK009,Talent Intelligence,Beginner,4.8
+CAND0481,SK010,Automation,Beginner,1.2
+CAND0481,SK016,Problem Solving,Intermediate,3.8
+CAND0482,SK001,SQL,Intermediate,3.5
+CAND0482,SK003,Power BI,Intermediate,2.3
+CAND0482,SK009,Talent Intelligence,Intermediate,0.6
+CAND0482,SK012,APIs,Intermediate,1.3
+CAND0482,SK016,Problem Solving,Beginner,0.8
+CAND0482,SK017,Market Research,Beginner,0.9
+CAND0483,SK002,Excel,Intermediate,2.9
+CAND0483,SK003,Power BI,Beginner,3.2
+CAND0483,SK004,Python,Advanced,0.4
+CAND0483,SK007,Dashboarding,Advanced,3.3
+CAND0483,SK017,Market Research,Advanced,0.5
+CAND0483,SK019,ETL,Intermediate,3.5
+CAND0483,SK020,Statistics,Intermediate,4.1
+CAND0484,SK001,SQL,Advanced,3.7
+CAND0484,SK002,Excel,Advanced,1.2
+CAND0484,SK004,Python,Intermediate,4.8
+CAND0484,SK005,Pandas,Beginner,3.8
+CAND0484,SK007,Dashboarding,Advanced,2.1
+CAND0484,SK019,ETL,Beginner,5.0
+CAND0485,SK001,SQL,Beginner,4.5
+CAND0485,SK003,Power BI,Intermediate,1.6
+CAND0485,SK004,Python,Intermediate,4.1
+CAND0485,SK007,Dashboarding,Beginner,0.7
+CAND0485,SK016,Problem Solving,Advanced,1.2
+CAND0486,SK001,SQL,Advanced,2.5
+CAND0486,SK004,Python,Intermediate,1.9
+CAND0486,SK008,Recruitment Analytics,Advanced,2.6
+CAND0486,SK009,Talent Intelligence,Intermediate,3.8
+CAND0486,SK012,APIs,Beginner,1.9
+CAND0486,SK018,DAX,Advanced,2.4
+CAND0487,SK001,SQL,Advanced,2.6
+CAND0487,SK002,Excel,Beginner,0.6
+CAND0487,SK003,Power BI,Advanced,3.8
+CAND0487,SK004,Python,Beginner,1.7
+CAND0487,SK007,Dashboarding,Advanced,3.8
+CAND0487,SK013,Machine Learning,Beginner,4.8
+CAND0487,SK019,ETL,Advanced,3.1
+CAND0488,SK001,SQL,Advanced,4.3
+CAND0488,SK002,Excel,Intermediate,2.1
+CAND0488,SK004,Python,Advanced,1.4
+CAND0488,SK013,Machine Learning,Advanced,0.9
+CAND0488,SK014,LLMs,Beginner,1.2
+CAND0488,SK015,Communication,Intermediate,0.5
+CAND0489,SK001,SQL,Advanced,2.2
+CAND0489,SK002,Excel,Beginner,1.1
+CAND0489,SK004,Python,Intermediate,1.2
+CAND0489,SK008,Recruitment Analytics,Beginner,4.0
+CAND0489,SK010,Automation,Intermediate,1.8
+CAND0489,SK011,Power Automate,Advanced,3.9
+CAND0489,SK017,Market Research,Intermediate,1.6
+CAND0489,SK018,DAX,Advanced,2.8
+CAND0490,SK001,SQL,Advanced,4.3
+CAND0490,SK004,Python,Intermediate,4.6
+CAND0490,SK006,Data Cleaning,Advanced,0.9
+CAND0490,SK007,Dashboarding,Intermediate,2.8
+CAND0490,SK008,Recruitment Analytics,Intermediate,3.8
+CAND0490,SK010,Automation,Intermediate,1.7
+CAND0490,SK012,APIs,Beginner,1.2
+CAND0490,SK015,Communication,Beginner,4.5
+CAND0490,SK018,DAX,Intermediate,4.0
+CAND0490,SK020,Statistics,Beginner,4.6
+CAND0491,SK001,SQL,Beginner,0.9
+CAND0491,SK006,Data Cleaning,Beginner,2.8
+CAND0491,SK007,Dashboarding,Beginner,1.4
+CAND0491,SK008,Recruitment Analytics,Beginner,2.2
+CAND0491,SK009,Talent Intelligence,Intermediate,1.9
+CAND0491,SK012,APIs,Intermediate,2.2
+CAND0491,SK014,LLMs,Intermediate,2.7
+CAND0491,SK016,Problem Solving,Advanced,2.5
+CAND0491,SK019,ETL,Advanced,1.5
+CAND0492,SK001,SQL,Advanced,2.3
+CAND0492,SK002,Excel,Intermediate,0.4
+CAND0492,SK003,Power BI,Intermediate,1.9
+CAND0492,SK004,Python,Intermediate,0.2
+CAND0492,SK005,Pandas,Beginner,0.7
+CAND0492,SK007,Dashboarding,Intermediate,1.4
+CAND0492,SK008,Recruitment Analytics,Beginner,2.0
+CAND0492,SK016,Problem Solving,Beginner,2.8
+CAND0493,SK001,SQL,Beginner,4.3
+CAND0493,SK002,Excel,Intermediate,0.6
+CAND0493,SK003,Power BI,Advanced,3.1
+CAND0493,SK004,Python,Intermediate,3.8
+CAND0493,SK007,Dashboarding,Beginner,4.0
+CAND0493,SK009,Talent Intelligence,Intermediate,1.8
+CAND0493,SK013,Machine Learning,Advanced,1.5
+CAND0493,SK014,LLMs,Intermediate,4.6
+CAND0493,SK018,DAX,Beginner,3.8
+CAND0494,SK002,Excel,Advanced,1.5
+CAND0494,SK004,Python,Advanced,1.7
+CAND0494,SK008,Recruitment Analytics,Intermediate,4.3
+CAND0494,SK009,Talent Intelligence,Intermediate,3.4
+CAND0494,SK013,Machine Learning,Intermediate,0.3
+CAND0494,SK015,Communication,Beginner,5.0
+CAND0494,SK016,Problem Solving,Beginner,0.6
+CAND0494,SK017,Market Research,Intermediate,3.3
+CAND0494,SK020,Statistics,Beginner,0.9
+CAND0495,SK008,Recruitment Analytics,Advanced,4.8
+CAND0495,SK009,Talent Intelligence,Intermediate,3.8
+CAND0495,SK013,Machine Learning,Beginner,2.1
+CAND0495,SK016,Problem Solving,Advanced,1.3
+CAND0495,SK017,Market Research,Intermediate,3.4
+CAND0496,SK001,SQL,Advanced,3.1
+CAND0496,SK004,Python,Beginner,2.2
+CAND0496,SK011,Power Automate,Intermediate,0.4
+CAND0496,SK015,Communication,Beginner,0.5
+CAND0496,SK019,ETL,Intermediate,4.1
+CAND0497,SK001,SQL,Intermediate,0.4
+CAND0497,SK008,Recruitment Analytics,Advanced,2.2
+CAND0497,SK009,Talent Intelligence,Intermediate,4.7
+CAND0497,SK016,Problem Solving,Intermediate,3.6
+CAND0497,SK017,Market Research,Advanced,1.8
+CAND0497,SK018,DAX,Advanced,0.8
+CAND0498,SK001,SQL,Beginner,4.9
+CAND0498,SK002,Excel,Advanced,2.5
+CAND0498,SK004,Python,Advanced,3.6
+CAND0498,SK009,Talent Intelligence,Intermediate,4.3
+CAND0498,SK010,Automation,Beginner,2.5
+CAND0498,SK012,APIs,Beginner,2.6
+CAND0498,SK013,Machine Learning,Beginner,0.7
+CAND0498,SK020,Statistics,Advanced,4.5
+CAND0499,SK001,SQL,Intermediate,3.0
+CAND0499,SK004,Python,Beginner,1.7
+CAND0499,SK007,Dashboarding,Beginner,4.1
+CAND0499,SK009,Talent Intelligence,Advanced,1.2
+CAND0499,SK010,Automation,Beginner,4.2
+CAND0499,SK015,Communication,Intermediate,1.5
+CAND0500,SK001,SQL,Advanced,3.6
+CAND0500,SK002,Excel,Intermediate,3.3
+CAND0500,SK003,Power BI,Intermediate,2.4
+CAND0500,SK004,Python,Beginner,3.7
+CAND0500,SK008,Recruitment Analytics,Beginner,0.4
+CAND0500,SK016,Problem Solving,Intermediate,4.4
+CAND0500,SK017,Market Research,Advanced,1.6
+CAND0500,SK019,ETL,Intermediate,0.6
+CAND0500,SK020,Statistics,Intermediate,1.0

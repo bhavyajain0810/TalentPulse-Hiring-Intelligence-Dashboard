@@ -1,0 +1,3 @@
+sqlite3
+# No external dependency is required for the core scripts.
+# Optional for visuals/notebooks: pandas, matplotlib, powerbi-desktop.

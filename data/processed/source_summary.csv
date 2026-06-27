@@ -1,0 +1,11 @@
+source_name,source_type,applications,shortlisted,interviewed,offers,hires,shortlist_rate,interview_rate,hire_rate,avg_time_to_hire_days,source_quality_score
+GitHub Search,Technical Community,71,63,49,24,22,0.8873,0.6901,0.3099,,64.5
+Employee Referral,Referral,69,58,49,21,19,0.8406,0.7101,0.2754,,62.5
+Company Careers Page,Owned,79,66,53,25,15,0.8354,0.6709,0.1899,,58.4
+Hackathon/Unstop,Campus Community,72,64,42,19,16,0.8889,0.5833,0.2222,,58.2
+LinkedIn Talent Insights,Market Intelligence,73,61,47,19,14,0.8356,0.6438,0.1918,,57.5
+LinkedIn,Social,72,60,43,18,10,0.8333,0.5972,0.1389,,54.2
+Campus Placement Cell,Campus,75,61,43,17,14,0.8133,0.5733,0.1867,,54.1
+Job Portal,Job Board,65,52,40,14,9,0.8,0.6154,0.1385,,53.7
+Alumni Referral,Referral,66,56,34,14,9,0.8485,0.5152,0.1364,,51.8
+Recruiter Outreach,Outbound,78,60,44,21,12,0.7692,0.5641,0.1538,,51.3

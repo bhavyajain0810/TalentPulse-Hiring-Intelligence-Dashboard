@@ -1,0 +1,8 @@
+stage_name,stage_rank,applications_reached,stage_conversion_rate,dropoff_from_previous
+Applied,1,720,,
+Screened,2,678,0.9417,0.0583
+Shortlisted,3,601,0.8864,0.1136
+Interview 1,4,444,0.7388,0.2612
+Interview 2,5,282,0.6351,0.3649
+Offer,6,192,0.6809,0.3191
+Hired,7,140,0.7292,0.2708

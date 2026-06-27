@@ -1,0 +1,16 @@
+{
+  "name": "TalentPulse Lenovo Inspired Theme",
+  "dataColors": [
+    "#E2231A",
+    "#1D4ED8",
+    "#111827",
+    "#64748B",
+    "#16A34A",
+    "#F59E0B",
+    "#7C3AED",
+    "#0891B2"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#1D4ED8"
+}

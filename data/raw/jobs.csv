@@ -1,0 +1,19 @@
+job_id,job_title,department,location,employment_type,openings,priority,posted_date,target_close_date,salary_band,required_experience_years,required_skills
+JOB001,Data Analyst Intern,Data & Analytics,Bangalore,Internship,12,High,2025-11-04,2026-04-24,Entry-6LPA,0,Pandas;Python;DAX;Power BI;LLMs
+JOB002,Digital Analyst Intern,Marketing,Bangalore,Internship,2,High,2025-11-12,2026-02-16,Intern-33K,2,DAX;Dashboarding;Statistics;LLMs
+JOB003,Talent Acquisition Analytics Intern,Talent Acquisition,Gurugram,Internship,5,Medium,2026-01-15,2026-02-24,Intern-30K,0,Power Automate;Talent Intelligence;Pandas;Dashboarding;Statistics;Excel;Communication
+JOB004,AI Automation Intern,Engineering,Bangalore,Internship,8,High,2025-12-16,2026-03-05,Entry-10LPA,1,Communication;DAX;Python;Machine Learning
+JOB005,Business Analyst Intern,Operations,Gurugram,Internship,3,Low,2025-12-08,2026-04-10,Entry-10LPA,1,Power BI;Excel;Recruitment Analytics;Automation;Statistics
+JOB006,Power BI Developer Intern,Data & Analytics,Bangalore,Internship,5,High,2025-12-19,2026-02-24,Entry-8LPA,3,Data Cleaning;APIs;ETL;Dashboarding;Talent Intelligence;DAX
+JOB007,Backend Engineering Intern,Engineering,Bangalore,Internship,12,Low,2025-11-10,2026-04-07,Intern-33K,2,Data Cleaning;Communication;Machine Learning;Talent Intelligence;Recruitment Analytics
+JOB008,HR Tech Intern,Talent Acquisition,Gurugram,Internship,12,Medium,2026-02-16,2026-04-28,Intern-30K,0,Power Automate;Machine Learning;Talent Intelligence;Power BI
+JOB009,Market Intelligence Intern,Marketing,Gurugram,Internship,5,Low,2026-01-31,2026-03-01,Intern-33K,3,Machine Learning;Communication;Pandas;Talent Intelligence;DAX;Python;APIs
+JOB010,SQL Reporting Intern,Data & Analytics,Bangalore,Internship,10,Low,2025-12-04,2026-04-25,Entry-10LPA,1,APIs;Recruitment Analytics;Pandas;Market Research;Problem Solving;Excel;Machine Learning
+JOB011,Campus Hiring Intern,Talent Acquisition,Gurugram,Internship,2,High,2025-11-20,2026-04-10,Intern-33K,3,Statistics;Power BI;Machine Learning;DAX;Communication;Talent Intelligence;Pandas
+JOB012,Data Engineering Intern,Engineering,Bangalore,Internship,10,High,2026-01-27,2026-04-22,Intern-30K,3,Power Automate;Python;Automation;LLMs;Data Cleaning;Recruitment Analytics
+JOB013,Recruitment Operations Intern,Talent Acquisition,Gurugram,Internship,2,Low,2026-02-01,2026-02-22,Entry-10LPA,0,Automation;Market Research;Dashboarding;Pandas
+JOB014,Product Analytics Intern,Data & Analytics,Bangalore,Internship,7,High,2026-01-09,2026-04-29,Entry-10LPA,0,Problem Solving;SQL;Python;APIs;Automation;DAX
+JOB015,Dashboard Automation Intern,Operations,Bangalore,Internship,2,High,2026-01-12,2026-01-30,Intern-30K,3,Power BI;DAX;Pandas;ETL;Problem Solving;Talent Intelligence;Statistics
+JOB016,Customer Insights Intern,Customer Success,Bangalore,Internship,6,Low,2026-01-17,2026-03-15,Intern-33K,2,Automation;Machine Learning;APIs;Communication;Market Research
+JOB017,Sales Operations Analyst Intern,Sales,Gurugram,Internship,3,High,2025-11-29,2026-01-28,Entry-6LPA,0,ETL;Recruitment Analytics;SQL;Power BI;Excel
+JOB018,Financial Analytics Intern,Finance,Bangalore,Internship,5,High,2025-11-05,2026-03-03,Intern-30K,2,Talent Intelligence;Problem Solving;Dashboarding;Pandas;ETL

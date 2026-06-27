@@ -1,0 +1,12 @@
+{
+  "project": "TalentPulse: AI-Assisted Talent Acquisition Analytics Dashboard",
+  "generated_on": "2026-06-26T22:18:19",
+  "records": {
+    "candidates": 500,
+    "applications": 720,
+    "stage_history": 3057,
+    "interviews": 726,
+    "offers": 192,
+    "candidate_skills": 3511
+  }
+}

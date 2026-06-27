@@ -1,0 +1,501 @@
+candidate_id,candidate_name,gender,location,education,graduation_year,experience_years,current_company,linkedin_url,email_domain,notice_period_days,willing_to_relocate
+CAND0001,Sakshi Bansal,Female,Mumbai,MCA,2024,0,HCLTech,https://www.linkedin.com/in/sakshi-bansal-0001/,company.com,90,Yes
+CAND0002,Arjun Jain,Male,Chennai,MBA HR,2022,4,Accenture,https://www.linkedin.com/in/arjun-jain-0002/,outlook.com,60,No
+CAND0003,Priya Nair,Female,Jaipur,B.Sc Statistics,2022,1,Freshworks,https://www.linkedin.com/in/priya-nair-0003/,gmail.com,0,Maybe
+CAND0004,Aarav Gupta,Non-disclosed,Mumbai,MBA HR,2027,0,HCLTech,https://www.linkedin.com/in/aarav-gupta-0004/,gmail.com,15,No
+CAND0005,Pooja Nair,Female,Jaipur,B.Tech ECE,2027,1,Startup,https://www.linkedin.com/in/pooja-nair-0005/,company.com,15,Yes
+CAND0006,Aarohi Kapoor,Female,Indore,B.Com,2027,2,TCS,https://www.linkedin.com/in/aarohi-kapoor-0006/,gmail.com,60,No
+CAND0007,Harsh Singh,Male,Bangalore,BBA,2022,8,Infosys,https://www.linkedin.com/in/harsh-singh-0007/,gmail.com,90,Yes
+CAND0008,Myra Khan,Female,Kolkata,B.Tech IT,2026,3,HCLTech,https://www.linkedin.com/in/myra-khan-0008/,college.edu,30,Yes
+CAND0009,Yash Khan,Male,Pune,MBA Analytics,2027,2,Cognizant,https://www.linkedin.com/in/yash-khan-0009/,college.edu,0,Yes
+CAND0010,Ankit Mehta,Male,Gurugram,MBA Analytics,2026,2,Wipro,https://www.linkedin.com/in/ankit-mehta-0010/,college.edu,0,Yes
+CAND0011,Priya Joshi,Female,Noida,B.Tech ECE,2026,4,TCS,https://www.linkedin.com/in/priya-joshi-0011/,college.edu,90,Yes
+CAND0012,Krishna Nair,Male,Gurugram,B.Tech ECE,2027,6,Wipro,https://www.linkedin.com/in/krishna-nair-0012/,college.edu,30,Maybe
+CAND0013,Tanvi Verma,Female,Ahmedabad,B.Tech ECE,2024,3,Cognizant,https://www.linkedin.com/in/tanvi-verma-0013/,college.edu,0,Yes
+CAND0014,Ishaan Jain,Male,Bangalore,MBA Analytics,2023,1,Wipro,https://www.linkedin.com/in/ishaan-jain-0014/,company.com,60,Maybe
+CAND0015,Ananya Mehta,Female,Gurugram,BBA,2027,7,Freshworks,https://www.linkedin.com/in/ananya-mehta-0015/,gmail.com,30,Maybe
+CAND0016,Manav Agarwal,Male,Bangalore,B.Com,2022,1,Accenture,https://www.linkedin.com/in/manav-agarwal-0016/,outlook.com,90,Yes
+CAND0017,Avni Bansal,Female,Kolkata,BBA,2023,4,Wipro,https://www.linkedin.com/in/avni-bansal-0017/,company.com,0,Yes
+CAND0018,Yash Bansal,Male,Ahmedabad,MBA Analytics,2023,6,Wipro,https://www.linkedin.com/in/yash-bansal-0018/,gmail.com,45,Yes
+CAND0019,Kabir Verma,Male,Jaipur,MBA HR,2023,1,TCS,https://www.linkedin.com/in/kabir-verma-0019/,outlook.com,45,No
+CAND0020,Isha Nair,Female,Hyderabad,B.Tech ECE,2025,3,Capgemini,https://www.linkedin.com/in/isha-nair-0020/,gmail.com,0,No
+CAND0021,Meera Jain,Female,Gurugram,B.Com,2024,3,HCLTech,https://www.linkedin.com/in/meera-jain-0021/,gmail.com,45,Maybe
+CAND0022,Aarohi Bansal,Female,Bangalore,MBA HR,2026,2,Capgemini,https://www.linkedin.com/in/aarohi-bansal-0022/,company.com,0,Maybe
+CAND0023,Dhruv Reddy,Male,Ahmedabad,MBA Analytics,2027,6,Freshworks,https://www.linkedin.com/in/dhruv-reddy-0023/,college.edu,90,No
+CAND0024,Kavya Das,Female,Delhi,MCA,2027,1,Startup,https://www.linkedin.com/in/kavya-das-0024/,outlook.com,60,Maybe
+CAND0025,Avni Sharma,Female,Pune,M.Sc Data Science,2025,1,Zoho,https://www.linkedin.com/in/avni-sharma-0025/,college.edu,45,No
+CAND0026,Riya Mishra,Female,Jaipur,BBA,2027,5,Startup,https://www.linkedin.com/in/riya-mishra-0026/,gmail.com,30,Maybe
+CAND0027,Dhruv Reddy,Male,Gurugram,MBA Analytics,2023,5,Accenture,https://www.linkedin.com/in/dhruv-reddy-0027/,outlook.com,15,Yes
+CAND0028,Sakshi Saxena,Female,Gurugram,M.Sc Data Science,2027,2,Accenture,https://www.linkedin.com/in/sakshi-saxena-0028/,company.com,45,No
+CAND0029,Ananya Mehta,Female,Chennai,B.Tech ECE,2027,1,Cognizant,https://www.linkedin.com/in/ananya-mehta-0029/,gmail.com,60,Yes
+CAND0030,Arjun Joshi,Male,Delhi,B.Tech ECE,2027,5,Freshworks,https://www.linkedin.com/in/arjun-joshi-0030/,college.edu,45,Maybe
+CAND0031,Harsh Bansal,Male,Noida,B.Sc Statistics,2023,2,Cognizant,https://www.linkedin.com/in/harsh-bansal-0031/,college.edu,15,Maybe
+CAND0032,Shruti Patel,Female,Ahmedabad,B.Tech IT,2025,1,Student,https://www.linkedin.com/in/shruti-patel-0032/,college.edu,15,No
+CAND0033,Avni Gupta,Female,Delhi,BBA,2027,0,Student,https://www.linkedin.com/in/avni-gupta-0033/,outlook.com,0,No
+CAND0034,Avni Joshi,Female,Chennai,M.Sc Data Science,2025,0,Student,https://www.linkedin.com/in/avni-joshi-0034/,gmail.com,60,No
+CAND0035,Dev Iyer,Male,Chennai,B.Tech ECE,2025,6,Student,https://www.linkedin.com/in/dev-iyer-0035/,outlook.com,45,Yes
+CAND0036,Sakshi Sharma,Female,Chennai,MCA,2027,1,Student,https://www.linkedin.com/in/sakshi-sharma-0036/,outlook.com,45,Yes
+CAND0037,Raghav Sharma,Non-disclosed,Chennai,B.Tech CSE,2027,3,Infosys,https://www.linkedin.com/in/raghav-sharma-0037/,company.com,15,No
+CAND0038,Meera Malhotra,Female,Hyderabad,B.Com,2024,1,HCLTech,https://www.linkedin.com/in/meera-malhotra-0038/,college.edu,45,No
+CAND0039,Siddharth Sharma,Male,Indore,MBA HR,2024,2,Startup,https://www.linkedin.com/in/siddharth-sharma-0039/,gmail.com,90,Yes
+CAND0040,Kabir Verma,Male,Bangalore,BBA,2023,3,Cognizant,https://www.linkedin.com/in/kabir-verma-0040/,gmail.com,60,Yes
+CAND0041,Ishaan Chopra,Male,Delhi,B.Tech IT,2027,3,Wipro,https://www.linkedin.com/in/ishaan-chopra-0041/,college.edu,0,Maybe
+CAND0042,Kavya Kapoor,Female,Ahmedabad,MCA,2025,7,Student,https://www.linkedin.com/in/kavya-kapoor-0042/,outlook.com,0,Maybe
+CAND0043,Kabir Mehta,Male,Indore,M.Sc Data Science,2027,5,Infosys,https://www.linkedin.com/in/kabir-mehta-0043/,gmail.com,30,Maybe
+CAND0044,Aditi Gupta,Female,Noida,MCA,2022,3,Cognizant,https://www.linkedin.com/in/aditi-gupta-0044/,gmail.com,45,No
+CAND0045,Nikhil Agarwal,Male,Chennai,MBA Analytics,2027,0,Zoho,https://www.linkedin.com/in/nikhil-agarwal-0045/,company.com,45,No
+CAND0046,Ankit Nair,Male,Hyderabad,MBA Analytics,2022,6,Cognizant,https://www.linkedin.com/in/ankit-nair-0046/,outlook.com,45,Maybe
+CAND0047,Aryan Reddy,Male,Bangalore,BBA,2024,2,Cognizant,https://www.linkedin.com/in/aryan-reddy-0047/,outlook.com,30,No
+CAND0048,Jiya Nair,Female,Noida,MBA HR,2022,0,Student,https://www.linkedin.com/in/jiya-nair-0048/,company.com,45,Maybe
+CAND0049,Siddharth Patel,Male,Jaipur,MBA Analytics,2022,5,Accenture,https://www.linkedin.com/in/siddharth-patel-0049/,company.com,90,Yes
+CAND0050,Myra Chopra,Female,Jaipur,MCA,2024,2,Student,https://www.linkedin.com/in/myra-chopra-0050/,college.edu,30,Maybe
+CAND0051,Rahul Nair,Male,Mumbai,B.Tech IT,2027,0,Student,https://www.linkedin.com/in/rahul-nair-0051/,outlook.com,15,Yes
+CAND0052,Ishaan Kapoor,Male,Noida,MBA HR,2022,3,Deloitte,https://www.linkedin.com/in/ishaan-kapoor-0052/,outlook.com,30,Yes
+CAND0053,Avni Agarwal,Female,Pune,MBA Analytics,2027,0,Student,https://www.linkedin.com/in/avni-agarwal-0053/,outlook.com,90,No
+CAND0054,Ananya Kapoor,Female,Pune,B.Com,2025,2,Wipro,https://www.linkedin.com/in/ananya-kapoor-0054/,gmail.com,30,No
+CAND0055,Isha Malhotra,Female,Jaipur,B.Tech CSE,2027,0,Wipro,https://www.linkedin.com/in/isha-malhotra-0055/,outlook.com,60,No
+CAND0056,Sanya Mehta,Female,Noida,M.Sc Data Science,2026,4,Zoho,https://www.linkedin.com/in/sanya-mehta-0056/,outlook.com,60,No
+CAND0057,Nikhil Iyer,Male,Kolkata,M.Sc Data Science,2024,8,Zoho,https://www.linkedin.com/in/nikhil-iyer-0057/,gmail.com,60,Maybe
+CAND0058,Riya Verma,Female,Pune,MBA HR,2023,3,Wipro,https://www.linkedin.com/in/riya-verma-0058/,gmail.com,15,Yes
+CAND0059,Jiya Patel,Female,Pune,MBA Analytics,2027,0,Student,https://www.linkedin.com/in/jiya-patel-0059/,company.com,0,Maybe
+CAND0060,Meera Kapoor,Female,Ahmedabad,MCA,2023,5,Infosys,https://www.linkedin.com/in/meera-kapoor-0060/,outlook.com,90,Yes
+CAND0061,Krishna Gupta,Male,Bangalore,M.Sc Data Science,2027,0,Deloitte,https://www.linkedin.com/in/krishna-gupta-0061/,company.com,0,No
+CAND0062,Aryan Nair,Male,Noida,B.Tech IT,2025,2,Zoho,https://www.linkedin.com/in/aryan-nair-0062/,gmail.com,45,Maybe
+CAND0063,Meera Sharma,Female,Gurugram,M.Sc Data Science,2027,1,Zoho,https://www.linkedin.com/in/meera-sharma-0063/,gmail.com,90,No
+CAND0064,Rohan Patel,Male,Noida,BBA,2024,3,Zoho,https://www.linkedin.com/in/rohan-patel-0064/,company.com,90,No
+CAND0065,Siddharth Chopra,Non-disclosed,Chennai,B.Tech IT,2027,1,Wipro,https://www.linkedin.com/in/siddharth-chopra-0065/,college.edu,45,Maybe
+CAND0066,Aryan Das,Male,Bangalore,MBA Analytics,2024,2,Capgemini,https://www.linkedin.com/in/aryan-das-0066/,gmail.com,45,Maybe
+CAND0067,Aarav Das,Male,Jaipur,B.Tech ECE,2023,2,Capgemini,https://www.linkedin.com/in/aarav-das-0067/,company.com,90,No
+CAND0068,Karan Nair,Male,Noida,B.Sc Statistics,2027,0,Infosys,https://www.linkedin.com/in/karan-nair-0068/,gmail.com,90,Maybe
+CAND0069,Rohan Iyer,Male,Noida,MBA HR,2027,0,Infosys,https://www.linkedin.com/in/rohan-iyer-0069/,company.com,0,Maybe
+CAND0070,Siddharth Iyer,Male,Noida,B.Sc Statistics,2025,4,Cognizant,https://www.linkedin.com/in/siddharth-iyer-0070/,outlook.com,45,Maybe
+CAND0071,Riya Saxena,Female,Noida,B.Tech IT,2023,4,Deloitte,https://www.linkedin.com/in/riya-saxena-0071/,company.com,30,Maybe
+CAND0072,Ananya Iyer,Female,Indore,M.Sc Data Science,2026,1,Startup,https://www.linkedin.com/in/ananya-iyer-0072/,company.com,15,No
+CAND0073,Dev Reddy,Male,Noida,B.Sc Statistics,2025,4,Capgemini,https://www.linkedin.com/in/dev-reddy-0073/,outlook.com,90,Yes
+CAND0074,Kabir Bansal,Male,Bangalore,MCA,2025,1,HCLTech,https://www.linkedin.com/in/kabir-bansal-0074/,outlook.com,45,Yes
+CAND0075,Myra Reddy,Female,Gurugram,B.Tech IT,2025,6,Freshworks,https://www.linkedin.com/in/myra-reddy-0075/,company.com,0,Maybe
+CAND0076,Nisha Gupta,Female,Jaipur,B.Com,2024,5,Zoho,https://www.linkedin.com/in/nisha-gupta-0076/,company.com,90,Yes
+CAND0077,Raghav Malhotra,Male,Hyderabad,B.Tech ECE,2025,3,TCS,https://www.linkedin.com/in/raghav-malhotra-0077/,gmail.com,15,Maybe
+CAND0078,Rahul Khan,Male,Indore,B.Tech IT,2027,0,Cognizant,https://www.linkedin.com/in/rahul-khan-0078/,outlook.com,90,No
+CAND0079,Vivaan Reddy,Male,Bangalore,MCA,2024,1,Wipro,https://www.linkedin.com/in/vivaan-reddy-0079/,outlook.com,60,No
+CAND0080,Rohan Singh,Male,Delhi,MBA HR,2026,0,Cognizant,https://www.linkedin.com/in/rohan-singh-0080/,outlook.com,15,No
+CAND0081,Nikhil Nair,Male,Ahmedabad,B.Tech ECE,2024,0,Wipro,https://www.linkedin.com/in/nikhil-nair-0081/,gmail.com,45,No
+CAND0082,Rahul Bansal,Non-disclosed,Indore,MBA HR,2024,1,HCLTech,https://www.linkedin.com/in/rahul-bansal-0082/,company.com,0,Yes
+CAND0083,Aditi Kapoor,Female,Pune,B.Tech CSE,2024,8,Startup,https://www.linkedin.com/in/aditi-kapoor-0083/,company.com,30,Yes
+CAND0084,Vivaan Saxena,Male,Indore,MBA HR,2024,2,Zoho,https://www.linkedin.com/in/vivaan-saxena-0084/,college.edu,15,Maybe
+CAND0085,Meera Agarwal,Female,Ahmedabad,B.Tech CSE,2027,0,Deloitte,https://www.linkedin.com/in/meera-agarwal-0085/,company.com,0,Maybe
+CAND0086,Nisha Gupta,Female,Pune,BBA,2025,1,Accenture,https://www.linkedin.com/in/nisha-gupta-0086/,outlook.com,60,No
+CAND0087,Ishaan Singh,Male,Pune,MBA Analytics,2025,7,Student,https://www.linkedin.com/in/ishaan-singh-0087/,college.edu,0,No
+CAND0088,Krishna Khan,Non-disclosed,Ahmedabad,B.Tech ECE,2025,4,Capgemini,https://www.linkedin.com/in/krishna-khan-0088/,gmail.com,45,Yes
+CAND0089,Diya Joshi,Female,Hyderabad,MBA Analytics,2027,3,Zoho,https://www.linkedin.com/in/diya-joshi-0089/,company.com,90,No
+CAND0090,Sanya Patel,Female,Bangalore,B.Com,2026,3,Zoho,https://www.linkedin.com/in/sanya-patel-0090/,outlook.com,90,Yes
+CAND0091,Nikhil Iyer,Male,Ahmedabad,B.Tech CSE,2023,2,TCS,https://www.linkedin.com/in/nikhil-iyer-0091/,college.edu,45,Yes
+CAND0092,Avni Agarwal,Female,Chennai,B.Tech ECE,2027,2,HCLTech,https://www.linkedin.com/in/avni-agarwal-0092/,outlook.com,45,Maybe
+CAND0093,Sakshi Saxena,Female,Chennai,B.Tech CSE,2024,7,Student,https://www.linkedin.com/in/sakshi-saxena-0093/,college.edu,15,No
+CAND0094,Sanya Chopra,Female,Gurugram,B.Tech ECE,2024,8,Startup,https://www.linkedin.com/in/sanya-chopra-0094/,college.edu,0,No
+CAND0095,Diya Joshi,Female,Gurugram,M.Sc Data Science,2027,3,TCS,https://www.linkedin.com/in/diya-joshi-0095/,gmail.com,30,Yes
+CAND0096,Ankit Verma,Non-disclosed,Gurugram,MBA HR,2026,5,Zoho,https://www.linkedin.com/in/ankit-verma-0096/,outlook.com,15,No
+CAND0097,Dhruv Sharma,Male,Pune,BBA,2023,6,Freshworks,https://www.linkedin.com/in/dhruv-sharma-0097/,college.edu,15,Yes
+CAND0098,Aarav Agarwal,Male,Bangalore,M.Sc Data Science,2023,1,Capgemini,https://www.linkedin.com/in/aarav-agarwal-0098/,gmail.com,15,No
+CAND0099,Neha Mishra,Female,Gurugram,B.Sc Statistics,2025,4,Capgemini,https://www.linkedin.com/in/neha-mishra-0099/,gmail.com,45,Maybe
+CAND0100,Jiya Jain,Female,Indore,B.Tech ECE,2027,5,Deloitte,https://www.linkedin.com/in/jiya-jain-0100/,company.com,90,Yes
+CAND0101,Sakshi Malhotra,Female,Chennai,B.Sc Statistics,2025,4,Infosys,https://www.linkedin.com/in/sakshi-malhotra-0101/,gmail.com,30,Maybe
+CAND0102,Nisha Nair,Female,Kolkata,B.Com,2026,3,HCLTech,https://www.linkedin.com/in/nisha-nair-0102/,college.edu,45,Maybe
+CAND0103,Arjun Mehta,Male,Ahmedabad,MBA HR,2026,3,HCLTech,https://www.linkedin.com/in/arjun-mehta-0103/,company.com,15,No
+CAND0104,Radhika Malhotra,Female,Chennai,MCA,2024,4,Capgemini,https://www.linkedin.com/in/radhika-malhotra-0104/,college.edu,30,Yes
+CAND0105,Siddharth Gupta,Male,Gurugram,MCA,2022,5,Infosys,https://www.linkedin.com/in/siddharth-gupta-0105/,college.edu,15,Maybe
+CAND0106,Avni Das,Female,Hyderabad,B.Com,2025,3,Startup,https://www.linkedin.com/in/avni-das-0106/,company.com,90,Yes
+CAND0107,Dhruv Iyer,Non-disclosed,Hyderabad,BBA,2027,0,Startup,https://www.linkedin.com/in/dhruv-iyer-0107/,company.com,15,Yes
+CAND0108,Avni Chopra,Female,Gurugram,MBA HR,2026,4,HCLTech,https://www.linkedin.com/in/avni-chopra-0108/,gmail.com,60,Maybe
+CAND0109,Ishaan Sharma,Male,Delhi,B.Com,2024,1,Capgemini,https://www.linkedin.com/in/ishaan-sharma-0109/,gmail.com,15,Yes
+CAND0110,Aryan Gupta,Male,Delhi,B.Tech IT,2022,4,Student,https://www.linkedin.com/in/aryan-gupta-0110/,outlook.com,45,No
+CAND0111,Rohan Chopra,Male,Pune,M.Sc Data Science,2026,4,Infosys,https://www.linkedin.com/in/rohan-chopra-0111/,gmail.com,15,Yes
+CAND0112,Vivaan Gupta,Male,Pune,B.Sc Statistics,2025,2,Zoho,https://www.linkedin.com/in/vivaan-gupta-0112/,company.com,45,No
+CAND0113,Shruti Mehta,Female,Hyderabad,M.Sc Data Science,2024,2,Cognizant,https://www.linkedin.com/in/shruti-mehta-0113/,college.edu,0,Yes
+CAND0114,Jiya Jain,Female,Bangalore,BBA,2023,1,Deloitte,https://www.linkedin.com/in/jiya-jain-0114/,college.edu,30,Yes
+CAND0115,Neha Singh,Female,Delhi,MBA HR,2027,2,Freshworks,https://www.linkedin.com/in/neha-singh-0115/,college.edu,0,No
+CAND0116,Vivaan Bansal,Male,Bangalore,B.Com,2022,2,Zoho,https://www.linkedin.com/in/vivaan-bansal-0116/,company.com,60,No
+CAND0117,Manav Iyer,Male,Gurugram,BBA,2024,2,Zoho,https://www.linkedin.com/in/manav-iyer-0117/,company.com,90,No
+CAND0118,Diya Khan,Female,Chennai,B.Tech IT,2026,3,HCLTech,https://www.linkedin.com/in/diya-khan-0118/,college.edu,90,No
+CAND0119,Priya Gupta,Female,Noida,B.Tech ECE,2026,3,Accenture,https://www.linkedin.com/in/priya-gupta-0119/,college.edu,30,Maybe
+CAND0120,Krishna Khan,Non-disclosed,Gurugram,M.Sc Data Science,2027,0,Wipro,https://www.linkedin.com/in/krishna-khan-0120/,gmail.com,15,Maybe
+CAND0121,Ankit Kapoor,Male,Jaipur,M.Sc Data Science,2026,4,Capgemini,https://www.linkedin.com/in/ankit-kapoor-0121/,college.edu,15,No
+CAND0122,Radhika Iyer,Female,Pune,B.Tech ECE,2024,3,Infosys,https://www.linkedin.com/in/radhika-iyer-0122/,college.edu,45,No
+CAND0123,Aditi Iyer,Female,Gurugram,M.Sc Data Science,2022,3,Zoho,https://www.linkedin.com/in/aditi-iyer-0123/,company.com,45,Maybe
+CAND0124,Vivaan Joshi,Male,Kolkata,M.Sc Data Science,2024,3,Cognizant,https://www.linkedin.com/in/vivaan-joshi-0124/,outlook.com,0,No
+CAND0125,Tanvi Gupta,Female,Noida,MBA HR,2022,3,Student,https://www.linkedin.com/in/tanvi-gupta-0125/,company.com,45,Maybe
+CAND0126,Rohan Chopra,Male,Hyderabad,MCA,2025,7,Capgemini,https://www.linkedin.com/in/rohan-chopra-0126/,gmail.com,90,Maybe
+CAND0127,Tanvi Mehta,Female,Noida,MBA Analytics,2024,3,Student,https://www.linkedin.com/in/tanvi-mehta-0127/,outlook.com,30,Yes
+CAND0128,Krishna Chopra,Male,Pune,MCA,2027,8,Wipro,https://www.linkedin.com/in/krishna-chopra-0128/,gmail.com,30,Maybe
+CAND0129,Tanvi Agarwal,Female,Ahmedabad,B.Tech ECE,2027,4,Infosys,https://www.linkedin.com/in/tanvi-agarwal-0129/,company.com,60,No
+CAND0130,Kavya Singh,Female,Mumbai,MBA HR,2025,1,Accenture,https://www.linkedin.com/in/kavya-singh-0130/,outlook.com,15,Yes
+CAND0131,Diya Mishra,Female,Noida,B.Tech CSE,2026,5,Startup,https://www.linkedin.com/in/diya-mishra-0131/,college.edu,60,Yes
+CAND0132,Krishna Singh,Male,Delhi,BBA,2026,5,Student,https://www.linkedin.com/in/krishna-singh-0132/,company.com,0,No
+CAND0133,Sanya Joshi,Female,Kolkata,B.Sc Statistics,2027,1,Accenture,https://www.linkedin.com/in/sanya-joshi-0133/,outlook.com,30,No
+CAND0134,Karan Chopra,Male,Ahmedabad,B.Sc Statistics,2025,7,Deloitte,https://www.linkedin.com/in/karan-chopra-0134/,company.com,60,Maybe
+CAND0135,Priya Verma,Female,Kolkata,B.Sc Statistics,2027,0,Capgemini,https://www.linkedin.com/in/priya-verma-0135/,gmail.com,90,Maybe
+CAND0136,Rahul Gupta,Male,Delhi,BBA,2026,1,HCLTech,https://www.linkedin.com/in/rahul-gupta-0136/,gmail.com,15,No
+CAND0137,Aarav Bansal,Male,Bangalore,MBA HR,2024,2,HCLTech,https://www.linkedin.com/in/aarav-bansal-0137/,gmail.com,30,Yes
+CAND0138,Diya Reddy,Female,Delhi,B.Sc Statistics,2027,0,Student,https://www.linkedin.com/in/diya-reddy-0138/,outlook.com,90,No
+CAND0139,Ananya Gupta,Female,Bangalore,B.Tech ECE,2023,1,Student,https://www.linkedin.com/in/ananya-gupta-0139/,company.com,0,No
+CAND0140,Diya Jain,Female,Mumbai,B.Sc Statistics,2026,2,Infosys,https://www.linkedin.com/in/diya-jain-0140/,gmail.com,45,Maybe
+CAND0141,Harsh Kapoor,Male,Mumbai,MCA,2024,4,TCS,https://www.linkedin.com/in/harsh-kapoor-0141/,college.edu,15,Maybe
+CAND0142,Isha Mishra,Female,Hyderabad,B.Tech ECE,2027,0,Freshworks,https://www.linkedin.com/in/isha-mishra-0142/,gmail.com,45,No
+CAND0143,Pooja Chopra,Female,Pune,B.Tech IT,2024,4,Capgemini,https://www.linkedin.com/in/pooja-chopra-0143/,outlook.com,90,Maybe
+CAND0144,Ankit Reddy,Male,Delhi,BBA,2027,0,Startup,https://www.linkedin.com/in/ankit-reddy-0144/,company.com,90,No
+CAND0145,Krishna Gupta,Male,Indore,B.Tech CSE,2025,5,Deloitte,https://www.linkedin.com/in/krishna-gupta-0145/,outlook.com,0,Yes
+CAND0146,Yash Iyer,Male,Noida,B.Sc Statistics,2026,2,Deloitte,https://www.linkedin.com/in/yash-iyer-0146/,gmail.com,90,Yes
+CAND0147,Aarohi Reddy,Female,Pune,MCA,2027,0,Student,https://www.linkedin.com/in/aarohi-reddy-0147/,company.com,45,No
+CAND0148,Siddharth Patel,Non-disclosed,Hyderabad,MBA Analytics,2026,7,Infosys,https://www.linkedin.com/in/siddharth-patel-0148/,company.com,0,No
+CAND0149,Rohan Das,Male,Pune,B.Com,2022,1,Startup,https://www.linkedin.com/in/rohan-das-0149/,college.edu,30,No
+CAND0150,Manav Singh,Male,Indore,B.Tech CSE,2025,2,Student,https://www.linkedin.com/in/manav-singh-0150/,college.edu,60,No
+CAND0151,Aarohi Gupta,Female,Ahmedabad,B.Tech ECE,2024,3,Student,https://www.linkedin.com/in/aarohi-gupta-0151/,outlook.com,0,Yes
+CAND0152,Nikhil Jain,Male,Delhi,B.Com,2024,0,HCLTech,https://www.linkedin.com/in/nikhil-jain-0152/,gmail.com,60,Yes
+CAND0153,Dev Chopra,Male,Jaipur,BBA,2026,4,Freshworks,https://www.linkedin.com/in/dev-chopra-0153/,college.edu,45,No
+CAND0154,Kabir Mehta,Male,Bangalore,B.Tech ECE,2025,4,HCLTech,https://www.linkedin.com/in/kabir-mehta-0154/,gmail.com,30,No
+CAND0155,Karan Saxena,Male,Pune,MBA HR,2025,4,Infosys,https://www.linkedin.com/in/karan-saxena-0155/,outlook.com,0,No
+CAND0156,Radhika Gupta,Female,Ahmedabad,B.Com,2024,8,Student,https://www.linkedin.com/in/radhika-gupta-0156/,gmail.com,60,Maybe
+CAND0157,Kavya Singh,Female,Indore,BBA,2027,4,Capgemini,https://www.linkedin.com/in/kavya-singh-0157/,outlook.com,0,Yes
+CAND0158,Kabir Patel,Male,Bangalore,B.Com,2026,1,Cognizant,https://www.linkedin.com/in/kabir-patel-0158/,outlook.com,60,Yes
+CAND0159,Pooja Patel,Female,Noida,M.Sc Data Science,2025,2,Infosys,https://www.linkedin.com/in/pooja-patel-0159/,outlook.com,30,Maybe
+CAND0160,Radhika Mishra,Female,Hyderabad,M.Sc Data Science,2026,0,Wipro,https://www.linkedin.com/in/radhika-mishra-0160/,outlook.com,45,Maybe
+CAND0161,Vivaan Mehta,Male,Noida,B.Com,2027,0,Student,https://www.linkedin.com/in/vivaan-mehta-0161/,outlook.com,30,Maybe
+CAND0162,Aditya Nair,Male,Mumbai,MBA Analytics,2026,3,Wipro,https://www.linkedin.com/in/aditya-nair-0162/,college.edu,60,Maybe
+CAND0163,Priya Kapoor,Female,Kolkata,M.Sc Data Science,2027,0,Capgemini,https://www.linkedin.com/in/priya-kapoor-0163/,gmail.com,0,Yes
+CAND0164,Myra Nair,Female,Ahmedabad,MCA,2026,1,Zoho,https://www.linkedin.com/in/myra-nair-0164/,gmail.com,45,Maybe
+CAND0165,Rahul Patel,Male,Mumbai,MCA,2027,5,Deloitte,https://www.linkedin.com/in/rahul-patel-0165/,company.com,0,Maybe
+CAND0166,Radhika Bansal,Female,Jaipur,M.Sc Data Science,2024,2,Wipro,https://www.linkedin.com/in/radhika-bansal-0166/,college.edu,90,No
+CAND0167,Dev Malhotra,Male,Delhi,B.Tech ECE,2026,4,Infosys,https://www.linkedin.com/in/dev-malhotra-0167/,college.edu,15,No
+CAND0168,Radhika Khan,Female,Delhi,MCA,2027,0,Zoho,https://www.linkedin.com/in/radhika-khan-0168/,company.com,15,Yes
+CAND0169,Ankit Reddy,Male,Mumbai,B.Tech ECE,2025,4,Cognizant,https://www.linkedin.com/in/ankit-reddy-0169/,company.com,30,No
+CAND0170,Pooja Mishra,Female,Jaipur,M.Sc Data Science,2023,8,Capgemini,https://www.linkedin.com/in/pooja-mishra-0170/,gmail.com,0,No
+CAND0171,Siddharth Iyer,Male,Noida,BBA,2027,0,Deloitte,https://www.linkedin.com/in/siddharth-iyer-0171/,college.edu,45,No
+CAND0172,Aarohi Kapoor,Female,Noida,MBA Analytics,2026,1,Infosys,https://www.linkedin.com/in/aarohi-kapoor-0172/,company.com,60,No
+CAND0173,Ishaan Saxena,Male,Ahmedabad,B.Tech IT,2023,3,HCLTech,https://www.linkedin.com/in/ishaan-saxena-0173/,college.edu,30,Maybe
+CAND0174,Krishna Verma,Male,Kolkata,B.Tech CSE,2026,2,TCS,https://www.linkedin.com/in/krishna-verma-0174/,gmail.com,15,Maybe
+CAND0175,Sakshi Mishra,Female,Jaipur,B.Com,2023,0,Zoho,https://www.linkedin.com/in/sakshi-mishra-0175/,college.edu,15,No
+CAND0176,Rahul Kapoor,Non-disclosed,Hyderabad,B.Tech ECE,2026,2,Cognizant,https://www.linkedin.com/in/rahul-kapoor-0176/,college.edu,45,Yes
+CAND0177,Diya Bansal,Female,Kolkata,B.Tech CSE,2027,1,Zoho,https://www.linkedin.com/in/diya-bansal-0177/,company.com,30,Maybe
+CAND0178,Ankit Kapoor,Male,Mumbai,B.Sc Statistics,2026,4,Wipro,https://www.linkedin.com/in/ankit-kapoor-0178/,company.com,15,Maybe
+CAND0179,Myra Mehta,Female,Mumbai,BBA,2027,0,HCLTech,https://www.linkedin.com/in/myra-mehta-0179/,outlook.com,45,Maybe
+CAND0180,Siddharth Jain,Male,Indore,B.Com,2027,0,Startup,https://www.linkedin.com/in/siddharth-jain-0180/,company.com,60,No
+CAND0181,Priya Joshi,Female,Noida,MBA Analytics,2024,1,Zoho,https://www.linkedin.com/in/priya-joshi-0181/,company.com,15,Yes
+CAND0182,Kavya Khan,Female,Pune,MBA HR,2027,5,Student,https://www.linkedin.com/in/kavya-khan-0182/,company.com,30,No
+CAND0183,Meera Iyer,Female,Gurugram,MCA,2026,3,HCLTech,https://www.linkedin.com/in/meera-iyer-0183/,college.edu,15,No
+CAND0184,Isha Chopra,Female,Jaipur,B.Sc Statistics,2027,3,Accenture,https://www.linkedin.com/in/isha-chopra-0184/,outlook.com,60,No
+CAND0185,Ishaan Agarwal,Male,Gurugram,MBA HR,2026,3,Accenture,https://www.linkedin.com/in/ishaan-agarwal-0185/,gmail.com,90,Maybe
+CAND0186,Sanya Jain,Female,Gurugram,B.Sc Statistics,2027,2,Infosys,https://www.linkedin.com/in/sanya-jain-0186/,outlook.com,0,Maybe
+CAND0187,Rohan Bansal,Non-disclosed,Ahmedabad,B.Sc Statistics,2025,7,Startup,https://www.linkedin.com/in/rohan-bansal-0187/,outlook.com,30,No
+CAND0188,Aarohi Gupta,Female,Ahmedabad,B.Tech CSE,2026,3,Wipro,https://www.linkedin.com/in/aarohi-gupta-0188/,company.com,15,Yes
+CAND0189,Aryan Patel,Non-disclosed,Delhi,B.Tech CSE,2024,7,TCS,https://www.linkedin.com/in/aryan-patel-0189/,college.edu,60,Maybe
+CAND0190,Tanvi Iyer,Female,Jaipur,B.Tech ECE,2026,8,Cognizant,https://www.linkedin.com/in/tanvi-iyer-0190/,outlook.com,60,No
+CAND0191,Diya Reddy,Female,Delhi,MBA Analytics,2027,4,Student,https://www.linkedin.com/in/diya-reddy-0191/,outlook.com,0,Maybe
+CAND0192,Kavya Kapoor,Female,Ahmedabad,M.Sc Data Science,2023,4,Startup,https://www.linkedin.com/in/kavya-kapoor-0192/,company.com,45,Maybe
+CAND0193,Pooja Mehta,Female,Delhi,B.Com,2025,8,Accenture,https://www.linkedin.com/in/pooja-mehta-0193/,gmail.com,30,No
+CAND0194,Meera Reddy,Female,Pune,B.Tech CSE,2026,3,Deloitte,https://www.linkedin.com/in/meera-reddy-0194/,college.edu,90,Yes
+CAND0195,Diya Joshi,Female,Pune,MBA Analytics,2027,0,Student,https://www.linkedin.com/in/diya-joshi-0195/,gmail.com,90,No
+CAND0196,Sanya Khan,Female,Delhi,M.Sc Data Science,2025,2,Capgemini,https://www.linkedin.com/in/sanya-khan-0196/,company.com,90,Maybe
+CAND0197,Raghav Verma,Male,Mumbai,B.Tech IT,2026,4,Freshworks,https://www.linkedin.com/in/raghav-verma-0197/,company.com,60,Maybe
+CAND0198,Myra Mehta,Female,Bangalore,MBA HR,2026,5,Zoho,https://www.linkedin.com/in/myra-mehta-0198/,outlook.com,15,No
+CAND0199,Nikhil Mehta,Male,Ahmedabad,B.Sc Statistics,2026,1,Infosys,https://www.linkedin.com/in/nikhil-mehta-0199/,company.com,0,No
+CAND0200,Neha Joshi,Female,Kolkata,MBA Analytics,2027,0,Student,https://www.linkedin.com/in/neha-joshi-0200/,gmail.com,45,No
+CAND0201,Karan Kapoor,Male,Gurugram,B.Tech IT,2027,0,Freshworks,https://www.linkedin.com/in/karan-kapoor-0201/,gmail.com,0,No
+CAND0202,Neha Singh,Female,Delhi,MCA,2027,4,Capgemini,https://www.linkedin.com/in/neha-singh-0202/,company.com,45,No
+CAND0203,Avni Agarwal,Female,Ahmedabad,BBA,2022,6,Freshworks,https://www.linkedin.com/in/avni-agarwal-0203/,company.com,60,Yes
+CAND0204,Kabir Sharma,Male,Bangalore,B.Tech ECE,2025,8,HCLTech,https://www.linkedin.com/in/kabir-sharma-0204/,company.com,15,Yes
+CAND0205,Krishna Nair,Male,Mumbai,B.Tech IT,2027,7,TCS,https://www.linkedin.com/in/krishna-nair-0205/,company.com,60,Yes
+CAND0206,Isha Mehta,Female,Kolkata,B.Tech CSE,2027,0,Accenture,https://www.linkedin.com/in/isha-mehta-0206/,gmail.com,45,No
+CAND0207,Riya Jain,Female,Delhi,MBA HR,2024,2,Student,https://www.linkedin.com/in/riya-jain-0207/,college.edu,60,Maybe
+CAND0208,Yash Khan,Male,Pune,B.Tech ECE,2027,6,Accenture,https://www.linkedin.com/in/yash-khan-0208/,company.com,30,No
+CAND0209,Myra Singh,Female,Ahmedabad,B.Sc Statistics,2026,3,TCS,https://www.linkedin.com/in/myra-singh-0209/,college.edu,90,Maybe
+CAND0210,Shruti Reddy,Female,Indore,MBA Analytics,2023,2,HCLTech,https://www.linkedin.com/in/shruti-reddy-0210/,outlook.com,60,No
+CAND0211,Sanya Iyer,Female,Indore,B.Tech CSE,2027,0,Freshworks,https://www.linkedin.com/in/sanya-iyer-0211/,company.com,45,Maybe
+CAND0212,Aryan Khan,Male,Pune,B.Tech IT,2027,1,Cognizant,https://www.linkedin.com/in/aryan-khan-0212/,college.edu,0,Maybe
+CAND0213,Karan Jain,Male,Pune,M.Sc Data Science,2026,1,TCS,https://www.linkedin.com/in/karan-jain-0213/,gmail.com,15,Maybe
+CAND0214,Raghav Verma,Male,Jaipur,MBA Analytics,2024,1,TCS,https://www.linkedin.com/in/raghav-verma-0214/,outlook.com,15,Maybe
+CAND0215,Sakshi Khan,Female,Indore,MCA,2023,3,Accenture,https://www.linkedin.com/in/sakshi-khan-0215/,college.edu,30,No
+CAND0216,Dev Iyer,Male,Pune,B.Sc Statistics,2025,1,Infosys,https://www.linkedin.com/in/dev-iyer-0216/,company.com,30,Yes
+CAND0217,Neha Jain,Female,Kolkata,BBA,2027,6,TCS,https://www.linkedin.com/in/neha-jain-0217/,college.edu,60,Maybe
+CAND0218,Manav Iyer,Male,Delhi,MCA,2023,1,Zoho,https://www.linkedin.com/in/manav-iyer-0218/,outlook.com,45,Maybe
+CAND0219,Yash Nair,Male,Jaipur,B.Sc Statistics,2027,8,Cognizant,https://www.linkedin.com/in/yash-nair-0219/,outlook.com,90,No
+CAND0220,Avni Patel,Female,Delhi,B.Tech CSE,2026,7,Freshworks,https://www.linkedin.com/in/avni-patel-0220/,gmail.com,0,Maybe
+CAND0221,Ananya Bansal,Female,Delhi,B.Tech IT,2023,6,Student,https://www.linkedin.com/in/ananya-bansal-0221/,outlook.com,0,Yes
+CAND0222,Dev Jain,Male,Kolkata,B.Sc Statistics,2026,3,Startup,https://www.linkedin.com/in/dev-jain-0222/,company.com,0,Yes
+CAND0223,Manav Sharma,Male,Bangalore,B.Tech ECE,2024,2,Deloitte,https://www.linkedin.com/in/manav-sharma-0223/,gmail.com,60,Maybe
+CAND0224,Rohan Mehta,Male,Gurugram,MBA HR,2023,2,Zoho,https://www.linkedin.com/in/rohan-mehta-0224/,college.edu,30,No
+CAND0225,Aditya Chopra,Male,Chennai,MBA HR,2023,2,Deloitte,https://www.linkedin.com/in/aditya-chopra-0225/,gmail.com,90,Maybe
+CAND0226,Aditya Malhotra,Male,Chennai,B.Tech CSE,2025,1,Startup,https://www.linkedin.com/in/aditya-malhotra-0226/,gmail.com,90,Yes
+CAND0227,Neha Reddy,Female,Kolkata,B.Tech ECE,2022,8,TCS,https://www.linkedin.com/in/neha-reddy-0227/,outlook.com,15,Maybe
+CAND0228,Siddharth Nair,Male,Bangalore,MBA Analytics,2027,7,Freshworks,https://www.linkedin.com/in/siddharth-nair-0228/,gmail.com,15,No
+CAND0229,Riya Kapoor,Female,Delhi,MCA,2027,4,Infosys,https://www.linkedin.com/in/riya-kapoor-0229/,college.edu,15,Maybe
+CAND0230,Pooja Das,Female,Hyderabad,BBA,2027,2,Student,https://www.linkedin.com/in/pooja-das-0230/,gmail.com,60,Maybe
+CAND0231,Vivaan Mehta,Non-disclosed,Chennai,B.Com,2022,1,Zoho,https://www.linkedin.com/in/vivaan-mehta-0231/,company.com,30,Yes
+CAND0232,Nikhil Patel,Male,Mumbai,MCA,2025,1,Wipro,https://www.linkedin.com/in/nikhil-patel-0232/,company.com,0,Maybe
+CAND0233,Sanya Gupta,Female,Gurugram,BBA,2025,1,Student,https://www.linkedin.com/in/sanya-gupta-0233/,company.com,30,No
+CAND0234,Ananya Iyer,Female,Jaipur,B.Tech IT,2024,1,Wipro,https://www.linkedin.com/in/ananya-iyer-0234/,gmail.com,15,No
+CAND0235,Avni Mishra,Female,Chennai,B.Tech ECE,2027,0,Infosys,https://www.linkedin.com/in/avni-mishra-0235/,college.edu,45,Yes
+CAND0236,Pooja Gupta,Female,Indore,M.Sc Data Science,2023,7,Freshworks,https://www.linkedin.com/in/pooja-gupta-0236/,outlook.com,90,No
+CAND0237,Meera Iyer,Female,Pune,BBA,2022,2,HCLTech,https://www.linkedin.com/in/meera-iyer-0237/,college.edu,45,No
+CAND0238,Aditya Chopra,Male,Pune,B.Sc Statistics,2027,7,Zoho,https://www.linkedin.com/in/aditya-chopra-0238/,outlook.com,45,Yes
+CAND0239,Ananya Malhotra,Female,Hyderabad,B.Com,2025,6,Cognizant,https://www.linkedin.com/in/ananya-malhotra-0239/,college.edu,45,Maybe
+CAND0240,Krishna Iyer,Non-disclosed,Hyderabad,MBA HR,2027,3,Cognizant,https://www.linkedin.com/in/krishna-iyer-0240/,college.edu,15,No
+CAND0241,Rahul Patel,Non-disclosed,Kolkata,MCA,2024,5,Deloitte,https://www.linkedin.com/in/rahul-patel-0241/,company.com,30,Yes
+CAND0242,Karan Kapoor,Male,Noida,B.Sc Statistics,2022,0,Student,https://www.linkedin.com/in/karan-kapoor-0242/,outlook.com,45,No
+CAND0243,Aditya Bansal,Male,Ahmedabad,MBA Analytics,2027,2,Accenture,https://www.linkedin.com/in/aditya-bansal-0243/,college.edu,90,Yes
+CAND0244,Aryan Gupta,Male,Jaipur,M.Sc Data Science,2025,8,HCLTech,https://www.linkedin.com/in/aryan-gupta-0244/,company.com,60,Yes
+CAND0245,Dev Das,Male,Kolkata,B.Tech IT,2022,3,Accenture,https://www.linkedin.com/in/dev-das-0245/,college.edu,15,Maybe
+CAND0246,Ankit Malhotra,Male,Hyderabad,B.Tech IT,2025,8,TCS,https://www.linkedin.com/in/ankit-malhotra-0246/,gmail.com,30,Yes
+CAND0247,Harsh Das,Male,Kolkata,B.Sc Statistics,2023,4,Capgemini,https://www.linkedin.com/in/harsh-das-0247/,company.com,45,Maybe
+CAND0248,Harsh Agarwal,Male,Hyderabad,B.Tech IT,2025,8,Deloitte,https://www.linkedin.com/in/harsh-agarwal-0248/,company.com,0,Yes
+CAND0249,Krishna Chopra,Male,Pune,B.Tech ECE,2023,1,Cognizant,https://www.linkedin.com/in/krishna-chopra-0249/,college.edu,45,Yes
+CAND0250,Radhika Reddy,Female,Gurugram,B.Tech IT,2027,1,TCS,https://www.linkedin.com/in/radhika-reddy-0250/,college.edu,90,Yes
+CAND0251,Rohan Khan,Male,Noida,B.Tech ECE,2027,0,HCLTech,https://www.linkedin.com/in/rohan-khan-0251/,company.com,15,No
+CAND0252,Rohan Bansal,Male,Chennai,MBA HR,2027,0,Cognizant,https://www.linkedin.com/in/rohan-bansal-0252/,company.com,45,Yes
+CAND0253,Karan Nair,Male,Indore,M.Sc Data Science,2022,5,Infosys,https://www.linkedin.com/in/karan-nair-0253/,outlook.com,30,No
+CAND0254,Diya Nair,Female,Ahmedabad,B.Com,2026,6,Zoho,https://www.linkedin.com/in/diya-nair-0254/,company.com,60,No
+CAND0255,Dev Chopra,Male,Jaipur,MBA Analytics,2027,3,Zoho,https://www.linkedin.com/in/dev-chopra-0255/,gmail.com,90,Yes
+CAND0256,Sanya Iyer,Female,Gurugram,BBA,2027,1,Freshworks,https://www.linkedin.com/in/sanya-iyer-0256/,company.com,45,Maybe
+CAND0257,Pooja Bansal,Female,Delhi,BBA,2026,2,Freshworks,https://www.linkedin.com/in/pooja-bansal-0257/,outlook.com,45,No
+CAND0258,Tanvi Joshi,Female,Kolkata,B.Tech CSE,2027,0,Cognizant,https://www.linkedin.com/in/tanvi-joshi-0258/,outlook.com,15,No
+CAND0259,Harsh Patel,Non-disclosed,Chennai,B.Sc Statistics,2025,4,Cognizant,https://www.linkedin.com/in/harsh-patel-0259/,outlook.com,0,Maybe
+CAND0260,Sanya Iyer,Female,Bangalore,MBA Analytics,2026,1,Wipro,https://www.linkedin.com/in/sanya-iyer-0260/,company.com,60,Maybe
+CAND0261,Siddharth Das,Male,Noida,B.Tech ECE,2027,0,Capgemini,https://www.linkedin.com/in/siddharth-das-0261/,gmail.com,90,No
+CAND0262,Manav Mehta,Male,Indore,MBA Analytics,2023,5,TCS,https://www.linkedin.com/in/manav-mehta-0262/,company.com,30,No
+CAND0263,Aditya Joshi,Male,Gurugram,MBA HR,2023,5,Student,https://www.linkedin.com/in/aditya-joshi-0263/,college.edu,90,Maybe
+CAND0264,Rohan Saxena,Male,Delhi,B.Tech CSE,2023,5,Zoho,https://www.linkedin.com/in/rohan-saxena-0264/,college.edu,60,No
+CAND0265,Rohan Reddy,Male,Indore,MBA Analytics,2026,1,Freshworks,https://www.linkedin.com/in/rohan-reddy-0265/,gmail.com,15,No
+CAND0266,Ishaan Agarwal,Male,Indore,BBA,2023,6,Student,https://www.linkedin.com/in/ishaan-agarwal-0266/,college.edu,15,Maybe
+CAND0267,Nisha Kapoor,Female,Ahmedabad,MCA,2025,1,Cognizant,https://www.linkedin.com/in/nisha-kapoor-0267/,gmail.com,90,Yes
+CAND0268,Meera Chopra,Female,Jaipur,M.Sc Data Science,2024,8,TCS,https://www.linkedin.com/in/meera-chopra-0268/,gmail.com,90,No
+CAND0269,Dev Gupta,Male,Noida,MBA HR,2025,2,Cognizant,https://www.linkedin.com/in/dev-gupta-0269/,college.edu,30,No
+CAND0270,Myra Agarwal,Female,Kolkata,B.Tech CSE,2024,6,TCS,https://www.linkedin.com/in/myra-agarwal-0270/,gmail.com,90,No
+CAND0271,Priya Joshi,Female,Jaipur,BBA,2023,0,Startup,https://www.linkedin.com/in/priya-joshi-0271/,college.edu,15,No
+CAND0272,Aditi Nair,Female,Gurugram,BBA,2027,1,TCS,https://www.linkedin.com/in/aditi-nair-0272/,company.com,90,No
+CAND0273,Kabir Bansal,Male,Ahmedabad,MBA HR,2027,0,Cognizant,https://www.linkedin.com/in/kabir-bansal-0273/,gmail.com,15,Maybe
+CAND0274,Radhika Sharma,Female,Bangalore,MCA,2022,4,Student,https://www.linkedin.com/in/radhika-sharma-0274/,outlook.com,45,Yes
+CAND0275,Isha Mehta,Female,Gurugram,BBA,2024,1,HCLTech,https://www.linkedin.com/in/isha-mehta-0275/,outlook.com,90,Maybe
+CAND0276,Shruti Kapoor,Female,Bangalore,B.Sc Statistics,2023,3,Capgemini,https://www.linkedin.com/in/shruti-kapoor-0276/,outlook.com,90,Maybe
+CAND0277,Neha Saxena,Female,Ahmedabad,B.Tech IT,2023,2,Infosys,https://www.linkedin.com/in/neha-saxena-0277/,outlook.com,0,Maybe
+CAND0278,Dev Bansal,Male,Hyderabad,MBA Analytics,2023,5,Startup,https://www.linkedin.com/in/dev-bansal-0278/,gmail.com,15,Maybe
+CAND0279,Dhruv Iyer,Male,Indore,MBA HR,2024,0,Freshworks,https://www.linkedin.com/in/dhruv-iyer-0279/,outlook.com,90,No
+CAND0280,Aarohi Khan,Female,Jaipur,B.Sc Statistics,2023,2,Startup,https://www.linkedin.com/in/aarohi-khan-0280/,gmail.com,60,Yes
+CAND0281,Yash Agarwal,Non-disclosed,Chennai,MCA,2026,6,Capgemini,https://www.linkedin.com/in/yash-agarwal-0281/,outlook.com,45,Yes
+CAND0282,Isha Sharma,Female,Pune,MCA,2022,1,Freshworks,https://www.linkedin.com/in/isha-sharma-0282/,college.edu,90,Maybe
+CAND0283,Manav Bansal,Male,Indore,B.Tech ECE,2027,2,Freshworks,https://www.linkedin.com/in/manav-bansal-0283/,outlook.com,30,Yes
+CAND0284,Shruti Verma,Female,Delhi,M.Sc Data Science,2025,2,Startup,https://www.linkedin.com/in/shruti-verma-0284/,gmail.com,30,Maybe
+CAND0285,Sanya Jain,Female,Mumbai,B.Sc Statistics,2027,0,Zoho,https://www.linkedin.com/in/sanya-jain-0285/,gmail.com,30,Maybe
+CAND0286,Rohan Mehta,Male,Bangalore,B.Tech CSE,2027,4,Wipro,https://www.linkedin.com/in/rohan-mehta-0286/,company.com,30,Maybe
+CAND0287,Ishaan Singh,Male,Hyderabad,B.Tech IT,2024,0,TCS,https://www.linkedin.com/in/ishaan-singh-0287/,college.edu,45,No
+CAND0288,Ishaan Kapoor,Male,Ahmedabad,B.Com,2027,0,TCS,https://www.linkedin.com/in/ishaan-kapoor-0288/,company.com,60,Yes
+CAND0289,Meera Mehta,Female,Kolkata,MBA HR,2022,3,Student,https://www.linkedin.com/in/meera-mehta-0289/,gmail.com,0,Yes
+CAND0290,Sakshi Chopra,Female,Chennai,B.Tech CSE,2023,7,Freshworks,https://www.linkedin.com/in/sakshi-chopra-0290/,company.com,15,No
+CAND0291,Tanvi Nair,Female,Gurugram,B.Tech ECE,2022,3,Startup,https://www.linkedin.com/in/tanvi-nair-0291/,gmail.com,15,Yes
+CAND0292,Vivaan Malhotra,Male,Gurugram,MBA Analytics,2024,6,Capgemini,https://www.linkedin.com/in/vivaan-malhotra-0292/,gmail.com,60,No
+CAND0293,Riya Iyer,Female,Kolkata,M.Sc Data Science,2027,5,Accenture,https://www.linkedin.com/in/riya-iyer-0293/,company.com,30,Maybe
+CAND0294,Karan Das,Non-disclosed,Mumbai,MBA HR,2022,0,Freshworks,https://www.linkedin.com/in/karan-das-0294/,college.edu,90,Maybe
+CAND0295,Yash Sharma,Male,Ahmedabad,MBA Analytics,2027,1,Infosys,https://www.linkedin.com/in/yash-sharma-0295/,outlook.com,60,Yes
+CAND0296,Aarohi Agarwal,Female,Indore,MBA HR,2022,1,Freshworks,https://www.linkedin.com/in/aarohi-agarwal-0296/,company.com,90,No
+CAND0297,Aditya Kapoor,Male,Gurugram,MCA,2027,2,Infosys,https://www.linkedin.com/in/aditya-kapoor-0297/,gmail.com,45,Maybe
+CAND0298,Kabir Iyer,Non-disclosed,Pune,B.Com,2025,6,Capgemini,https://www.linkedin.com/in/kabir-iyer-0298/,company.com,30,Yes
+CAND0299,Riya Agarwal,Female,Kolkata,B.Sc Statistics,2027,0,Cognizant,https://www.linkedin.com/in/riya-agarwal-0299/,college.edu,45,Yes
+CAND0300,Karan Joshi,Male,Pune,B.Tech IT,2022,2,Wipro,https://www.linkedin.com/in/karan-joshi-0300/,college.edu,90,Maybe
+CAND0301,Karan Reddy,Male,Delhi,B.Com,2027,0,HCLTech,https://www.linkedin.com/in/karan-reddy-0301/,gmail.com,90,No
+CAND0302,Priya Sharma,Female,Chennai,B.Tech ECE,2026,6,Accenture,https://www.linkedin.com/in/priya-sharma-0302/,gmail.com,45,Yes
+CAND0303,Krishna Mehta,Male,Bangalore,BBA,2023,0,Accenture,https://www.linkedin.com/in/krishna-mehta-0303/,company.com,30,Maybe
+CAND0304,Aditya Kapoor,Male,Kolkata,B.Tech CSE,2022,1,Infosys,https://www.linkedin.com/in/aditya-kapoor-0304/,outlook.com,90,No
+CAND0305,Aditya Reddy,Male,Gurugram,BBA,2027,0,Zoho,https://www.linkedin.com/in/aditya-reddy-0305/,company.com,90,No
+CAND0306,Aryan Bansal,Male,Delhi,MBA Analytics,2023,1,Deloitte,https://www.linkedin.com/in/aryan-bansal-0306/,company.com,15,Yes
+CAND0307,Dhruv Khan,Male,Ahmedabad,B.Tech ECE,2025,1,Cognizant,https://www.linkedin.com/in/dhruv-khan-0307/,gmail.com,0,No
+CAND0308,Neha Verma,Female,Ahmedabad,MBA HR,2026,6,Startup,https://www.linkedin.com/in/neha-verma-0308/,gmail.com,45,Maybe
+CAND0309,Avni Patel,Female,Hyderabad,B.Com,2026,7,HCLTech,https://www.linkedin.com/in/avni-patel-0309/,college.edu,15,Yes
+CAND0310,Sanya Sharma,Female,Pune,B.Com,2026,0,Zoho,https://www.linkedin.com/in/sanya-sharma-0310/,outlook.com,15,Yes
+CAND0311,Sanya Nair,Female,Noida,B.Tech CSE,2027,5,Accenture,https://www.linkedin.com/in/sanya-nair-0311/,company.com,30,Yes
+CAND0312,Myra Reddy,Female,Indore,B.Tech CSE,2026,4,Student,https://www.linkedin.com/in/myra-reddy-0312/,college.edu,60,Maybe
+CAND0313,Riya Patel,Female,Noida,B.Tech CSE,2025,1,Infosys,https://www.linkedin.com/in/riya-patel-0313/,gmail.com,15,Maybe
+CAND0314,Shruti Patel,Female,Bangalore,MBA HR,2026,1,Wipro,https://www.linkedin.com/in/shruti-patel-0314/,college.edu,90,Yes
+CAND0315,Yash Jain,Male,Bangalore,B.Tech IT,2023,0,Freshworks,https://www.linkedin.com/in/yash-jain-0315/,college.edu,0,No
+CAND0316,Aryan Kapoor,Male,Gurugram,BBA,2024,1,Wipro,https://www.linkedin.com/in/aryan-kapoor-0316/,company.com,90,No
+CAND0317,Rohan Das,Male,Indore,B.Com,2026,6,Accenture,https://www.linkedin.com/in/rohan-das-0317/,outlook.com,45,No
+CAND0318,Rahul Agarwal,Male,Delhi,M.Sc Data Science,2027,4,HCLTech,https://www.linkedin.com/in/rahul-agarwal-0318/,gmail.com,15,Maybe
+CAND0319,Jiya Khan,Female,Ahmedabad,BBA,2025,3,Capgemini,https://www.linkedin.com/in/jiya-khan-0319/,gmail.com,15,No
+CAND0320,Rohan Gupta,Non-disclosed,Indore,B.Com,2027,3,Cognizant,https://www.linkedin.com/in/rohan-gupta-0320/,gmail.com,30,Yes
+CAND0321,Isha Chopra,Female,Pune,B.Tech CSE,2027,5,TCS,https://www.linkedin.com/in/isha-chopra-0321/,company.com,45,Maybe
+CAND0322,Priya Bansal,Female,Jaipur,B.Tech ECE,2024,6,HCLTech,https://www.linkedin.com/in/priya-bansal-0322/,gmail.com,45,Maybe
+CAND0323,Kabir Singh,Male,Jaipur,B.Tech CSE,2024,0,Capgemini,https://www.linkedin.com/in/kabir-singh-0323/,college.edu,0,Yes
+CAND0324,Pooja Singh,Female,Indore,B.Com,2022,0,Zoho,https://www.linkedin.com/in/pooja-singh-0324/,company.com,90,Yes
+CAND0325,Priya Saxena,Female,Chennai,MBA HR,2027,0,Accenture,https://www.linkedin.com/in/priya-saxena-0325/,company.com,90,Maybe
+CAND0326,Raghav Nair,Male,Ahmedabad,B.Tech IT,2023,1,TCS,https://www.linkedin.com/in/raghav-nair-0326/,company.com,60,Maybe
+CAND0327,Krishna Jain,Male,Hyderabad,M.Sc Data Science,2027,0,Cognizant,https://www.linkedin.com/in/krishna-jain-0327/,outlook.com,0,Yes
+CAND0328,Kavya Gupta,Female,Jaipur,MCA,2024,6,Cognizant,https://www.linkedin.com/in/kavya-gupta-0328/,company.com,90,No
+CAND0329,Avni Malhotra,Female,Delhi,B.Com,2025,1,Wipro,https://www.linkedin.com/in/avni-malhotra-0329/,company.com,0,No
+CAND0330,Meera Khan,Female,Pune,B.Tech IT,2023,3,Infosys,https://www.linkedin.com/in/meera-khan-0330/,college.edu,60,No
+CAND0331,Ankit Khan,Non-disclosed,Noida,B.Tech ECE,2027,0,HCLTech,https://www.linkedin.com/in/ankit-khan-0331/,company.com,60,Yes
+CAND0332,Aditya Malhotra,Male,Indore,B.Tech ECE,2027,0,Zoho,https://www.linkedin.com/in/aditya-malhotra-0332/,outlook.com,0,No
+CAND0333,Priya Verma,Female,Mumbai,MCA,2027,0,Accenture,https://www.linkedin.com/in/priya-verma-0333/,outlook.com,60,No
+CAND0334,Isha Gupta,Female,Chennai,B.Com,2026,2,Deloitte,https://www.linkedin.com/in/isha-gupta-0334/,company.com,0,Maybe
+CAND0335,Harsh Bansal,Male,Gurugram,M.Sc Data Science,2023,2,Zoho,https://www.linkedin.com/in/harsh-bansal-0335/,gmail.com,0,Maybe
+CAND0336,Rahul Das,Male,Hyderabad,MCA,2024,6,Startup,https://www.linkedin.com/in/rahul-das-0336/,company.com,60,Maybe
+CAND0337,Rohan Nair,Male,Chennai,MCA,2027,0,TCS,https://www.linkedin.com/in/rohan-nair-0337/,company.com,30,Maybe
+CAND0338,Sakshi Nair,Female,Hyderabad,MBA Analytics,2024,0,Deloitte,https://www.linkedin.com/in/sakshi-nair-0338/,company.com,90,Maybe
+CAND0339,Sanya Agarwal,Female,Pune,B.Com,2025,8,Deloitte,https://www.linkedin.com/in/sanya-agarwal-0339/,company.com,60,Maybe
+CAND0340,Radhika Verma,Female,Chennai,B.Com,2026,4,TCS,https://www.linkedin.com/in/radhika-verma-0340/,outlook.com,0,No
+CAND0341,Aryan Agarwal,Male,Noida,BBA,2022,6,Accenture,https://www.linkedin.com/in/aryan-agarwal-0341/,outlook.com,0,Yes
+CAND0342,Aarohi Chopra,Female,Indore,B.Sc Statistics,2024,1,Freshworks,https://www.linkedin.com/in/aarohi-chopra-0342/,company.com,90,Yes
+CAND0343,Kabir Chopra,Male,Jaipur,B.Sc Statistics,2023,3,Zoho,https://www.linkedin.com/in/kabir-chopra-0343/,college.edu,30,Yes
+CAND0344,Ishaan Gupta,Male,Pune,M.Sc Data Science,2027,0,Accenture,https://www.linkedin.com/in/ishaan-gupta-0344/,outlook.com,90,Yes
+CAND0345,Ishaan Bansal,Male,Noida,B.Tech CSE,2027,0,Cognizant,https://www.linkedin.com/in/ishaan-bansal-0345/,outlook.com,90,Yes
+CAND0346,Aarav Khan,Male,Pune,MBA Analytics,2024,3,HCLTech,https://www.linkedin.com/in/aarav-khan-0346/,company.com,30,No
+CAND0347,Radhika Iyer,Female,Ahmedabad,MCA,2026,2,Zoho,https://www.linkedin.com/in/radhika-iyer-0347/,gmail.com,0,Maybe
+CAND0348,Dev Das,Non-disclosed,Ahmedabad,MBA Analytics,2024,3,Startup,https://www.linkedin.com/in/dev-das-0348/,gmail.com,45,Yes
+CAND0349,Meera Reddy,Female,Pune,MBA Analytics,2027,1,Accenture,https://www.linkedin.com/in/meera-reddy-0349/,outlook.com,60,Yes
+CAND0350,Dhruv Malhotra,Male,Ahmedabad,B.Tech CSE,2023,1,Startup,https://www.linkedin.com/in/dhruv-malhotra-0350/,company.com,30,No
+CAND0351,Aryan Malhotra,Male,Indore,MBA HR,2026,0,Capgemini,https://www.linkedin.com/in/aryan-malhotra-0351/,outlook.com,90,Maybe
+CAND0352,Siddharth Chopra,Male,Noida,B.Tech ECE,2023,1,Wipro,https://www.linkedin.com/in/siddharth-chopra-0352/,college.edu,0,No
+CAND0353,Meera Das,Female,Delhi,B.Tech IT,2024,7,Accenture,https://www.linkedin.com/in/meera-das-0353/,college.edu,15,Maybe
+CAND0354,Manav Reddy,Male,Hyderabad,B.Sc Statistics,2024,1,Infosys,https://www.linkedin.com/in/manav-reddy-0354/,company.com,0,Maybe
+CAND0355,Dhruv Gupta,Male,Jaipur,B.Tech IT,2026,6,Startup,https://www.linkedin.com/in/dhruv-gupta-0355/,company.com,60,No
+CAND0356,Nisha Agarwal,Female,Mumbai,B.Sc Statistics,2026,1,Wipro,https://www.linkedin.com/in/nisha-agarwal-0356/,college.edu,90,Yes
+CAND0357,Siddharth Reddy,Male,Ahmedabad,B.Tech CSE,2024,8,TCS,https://www.linkedin.com/in/siddharth-reddy-0357/,company.com,30,Yes
+CAND0358,Rohan Kapoor,Male,Delhi,BBA,2022,2,Zoho,https://www.linkedin.com/in/rohan-kapoor-0358/,company.com,90,No
+CAND0359,Sakshi Malhotra,Female,Bangalore,B.Com,2027,0,TCS,https://www.linkedin.com/in/sakshi-malhotra-0359/,college.edu,60,Yes
+CAND0360,Ananya Khan,Female,Mumbai,MBA Analytics,2024,4,Wipro,https://www.linkedin.com/in/ananya-khan-0360/,gmail.com,45,Maybe
+CAND0361,Rohan Gupta,Male,Bangalore,B.Sc Statistics,2024,1,Student,https://www.linkedin.com/in/rohan-gupta-0361/,college.edu,45,Maybe
+CAND0362,Yash Patel,Non-disclosed,Hyderabad,MCA,2023,4,TCS,https://www.linkedin.com/in/yash-patel-0362/,outlook.com,15,Maybe
+CAND0363,Karan Sharma,Non-disclosed,Kolkata,B.Com,2022,2,Student,https://www.linkedin.com/in/karan-sharma-0363/,gmail.com,45,Maybe
+CAND0364,Avni Saxena,Female,Bangalore,B.Tech IT,2022,3,Startup,https://www.linkedin.com/in/avni-saxena-0364/,gmail.com,0,Maybe
+CAND0365,Radhika Malhotra,Female,Gurugram,BBA,2025,2,Accenture,https://www.linkedin.com/in/radhika-malhotra-0365/,gmail.com,30,No
+CAND0366,Harsh Nair,Male,Kolkata,MCA,2023,3,Infosys,https://www.linkedin.com/in/harsh-nair-0366/,gmail.com,30,Yes
+CAND0367,Siddharth Verma,Male,Kolkata,B.Tech ECE,2024,1,Accenture,https://www.linkedin.com/in/siddharth-verma-0367/,college.edu,90,No
+CAND0368,Aarohi Das,Female,Jaipur,B.Sc Statistics,2027,7,Capgemini,https://www.linkedin.com/in/aarohi-das-0368/,outlook.com,0,Yes
+CAND0369,Arjun Kapoor,Male,Ahmedabad,B.Tech ECE,2022,2,Infosys,https://www.linkedin.com/in/arjun-kapoor-0369/,gmail.com,30,Maybe
+CAND0370,Kavya Nair,Female,Jaipur,MBA Analytics,2022,0,Capgemini,https://www.linkedin.com/in/kavya-nair-0370/,college.edu,45,Maybe
+CAND0371,Aarohi Sharma,Female,Delhi,B.Com,2023,3,Capgemini,https://www.linkedin.com/in/aarohi-sharma-0371/,company.com,60,No
+CAND0372,Aditya Chopra,Male,Hyderabad,MCA,2025,1,Cognizant,https://www.linkedin.com/in/aditya-chopra-0372/,college.edu,45,Maybe
+CAND0373,Manav Singh,Male,Gurugram,B.Tech IT,2023,0,HCLTech,https://www.linkedin.com/in/manav-singh-0373/,company.com,60,Maybe
+CAND0374,Jiya Malhotra,Female,Hyderabad,BBA,2027,3,Cognizant,https://www.linkedin.com/in/jiya-malhotra-0374/,company.com,0,No
+CAND0375,Isha Nair,Female,Ahmedabad,B.Tech ECE,2027,1,Student,https://www.linkedin.com/in/isha-nair-0375/,outlook.com,90,No
+CAND0376,Dhruv Mehta,Male,Chennai,B.Sc Statistics,2023,3,Capgemini,https://www.linkedin.com/in/dhruv-mehta-0376/,company.com,15,Maybe
+CAND0377,Dhruv Jain,Male,Bangalore,B.Tech ECE,2023,3,Cognizant,https://www.linkedin.com/in/dhruv-jain-0377/,company.com,15,Yes
+CAND0378,Yash Khan,Male,Hyderabad,B.Tech ECE,2022,8,Accenture,https://www.linkedin.com/in/yash-khan-0378/,company.com,45,Yes
+CAND0379,Radhika Kapoor,Female,Jaipur,B.Com,2027,0,Infosys,https://www.linkedin.com/in/radhika-kapoor-0379/,company.com,90,Maybe
+CAND0380,Pooja Bansal,Female,Bangalore,B.Tech IT,2022,2,Zoho,https://www.linkedin.com/in/pooja-bansal-0380/,college.edu,60,Maybe
+CAND0381,Radhika Reddy,Female,Hyderabad,B.Sc Statistics,2023,5,Capgemini,https://www.linkedin.com/in/radhika-reddy-0381/,company.com,90,Maybe
+CAND0382,Radhika Mehta,Female,Gurugram,B.Tech CSE,2023,4,Capgemini,https://www.linkedin.com/in/radhika-mehta-0382/,college.edu,90,No
+CAND0383,Dev Mehta,Male,Bangalore,BBA,2025,6,Student,https://www.linkedin.com/in/dev-mehta-0383/,company.com,0,No
+CAND0384,Karan Mehta,Male,Chennai,B.Com,2023,1,Infosys,https://www.linkedin.com/in/karan-mehta-0384/,company.com,0,Maybe
+CAND0385,Ankit Mehta,Male,Jaipur,B.Tech ECE,2026,2,Wipro,https://www.linkedin.com/in/ankit-mehta-0385/,company.com,0,Maybe
+CAND0386,Raghav Bansal,Male,Kolkata,BBA,2026,2,Student,https://www.linkedin.com/in/raghav-bansal-0386/,outlook.com,90,Yes
+CAND0387,Jiya Saxena,Female,Hyderabad,MCA,2025,2,Zoho,https://www.linkedin.com/in/jiya-saxena-0387/,outlook.com,30,No
+CAND0388,Rahul Joshi,Non-disclosed,Delhi,B.Tech ECE,2027,0,Deloitte,https://www.linkedin.com/in/rahul-joshi-0388/,college.edu,90,Maybe
+CAND0389,Karan Verma,Male,Mumbai,B.Com,2024,3,Startup,https://www.linkedin.com/in/karan-verma-0389/,outlook.com,90,Maybe
+CAND0390,Rohan Mishra,Non-disclosed,Noida,B.Tech IT,2024,4,Capgemini,https://www.linkedin.com/in/rohan-mishra-0390/,company.com,60,Maybe
+CAND0391,Manav Das,Male,Pune,B.Tech CSE,2025,6,Freshworks,https://www.linkedin.com/in/manav-das-0391/,gmail.com,0,No
+CAND0392,Aarohi Verma,Female,Pune,MBA Analytics,2023,4,Startup,https://www.linkedin.com/in/aarohi-verma-0392/,college.edu,15,Yes
+CAND0393,Rahul Verma,Male,Noida,M.Sc Data Science,2022,0,Startup,https://www.linkedin.com/in/rahul-verma-0393/,outlook.com,90,Maybe
+CAND0394,Kabir Mishra,Male,Indore,B.Tech CSE,2027,1,HCLTech,https://www.linkedin.com/in/kabir-mishra-0394/,company.com,45,Maybe
+CAND0395,Avni Jain,Female,Bangalore,M.Sc Data Science,2023,4,Cognizant,https://www.linkedin.com/in/avni-jain-0395/,outlook.com,90,Maybe
+CAND0396,Dev Kapoor,Male,Noida,MBA HR,2023,4,Deloitte,https://www.linkedin.com/in/dev-kapoor-0396/,company.com,15,Maybe
+CAND0397,Priya Mishra,Female,Gurugram,MBA Analytics,2025,1,Freshworks,https://www.linkedin.com/in/priya-mishra-0397/,college.edu,15,Yes
+CAND0398,Ishaan Sharma,Male,Hyderabad,B.Tech CSE,2023,2,Wipro,https://www.linkedin.com/in/ishaan-sharma-0398/,college.edu,60,Yes
+CAND0399,Dhruv Iyer,Male,Jaipur,B.Com,2026,5,Infosys,https://www.linkedin.com/in/dhruv-iyer-0399/,college.edu,60,Yes
+CAND0400,Harsh Gupta,Non-disclosed,Noida,MCA,2027,0,Infosys,https://www.linkedin.com/in/harsh-gupta-0400/,college.edu,15,Yes
+CAND0401,Yash Chopra,Male,Pune,B.Tech ECE,2026,1,Cognizant,https://www.linkedin.com/in/yash-chopra-0401/,gmail.com,0,Maybe
+CAND0402,Sanya Saxena,Female,Kolkata,B.Com,2022,1,HCLTech,https://www.linkedin.com/in/sanya-saxena-0402/,gmail.com,45,No
+CAND0403,Rahul Sharma,Male,Noida,B.Tech ECE,2024,5,Freshworks,https://www.linkedin.com/in/rahul-sharma-0403/,company.com,45,Yes
+CAND0404,Riya Reddy,Female,Noida,B.Tech ECE,2027,0,Freshworks,https://www.linkedin.com/in/riya-reddy-0404/,gmail.com,90,Yes
+CAND0405,Riya Bansal,Female,Gurugram,MCA,2027,1,Startup,https://www.linkedin.com/in/riya-bansal-0405/,gmail.com,90,Maybe
+CAND0406,Radhika Reddy,Female,Bangalore,MBA Analytics,2027,0,Freshworks,https://www.linkedin.com/in/radhika-reddy-0406/,gmail.com,60,Yes
+CAND0407,Manav Malhotra,Male,Jaipur,B.Com,2025,3,TCS,https://www.linkedin.com/in/manav-malhotra-0407/,company.com,90,Yes
+CAND0408,Dhruv Gupta,Male,Indore,B.Tech IT,2027,3,Capgemini,https://www.linkedin.com/in/dhruv-gupta-0408/,gmail.com,30,Maybe
+CAND0409,Isha Iyer,Female,Jaipur,B.Tech CSE,2027,2,Cognizant,https://www.linkedin.com/in/isha-iyer-0409/,outlook.com,60,Yes
+CAND0410,Pooja Das,Female,Pune,MBA Analytics,2023,8,Startup,https://www.linkedin.com/in/pooja-das-0410/,college.edu,0,Maybe
+CAND0411,Krishna Mehta,Male,Bangalore,B.Tech ECE,2027,0,Freshworks,https://www.linkedin.com/in/krishna-mehta-0411/,gmail.com,30,Yes
+CAND0412,Dev Verma,Male,Chennai,BBA,2026,7,Wipro,https://www.linkedin.com/in/dev-verma-0412/,outlook.com,15,Maybe
+CAND0413,Karan Mehta,Male,Delhi,B.Tech CSE,2026,3,Freshworks,https://www.linkedin.com/in/karan-mehta-0413/,company.com,90,Maybe
+CAND0414,Isha Nair,Female,Gurugram,B.Sc Statistics,2026,1,Capgemini,https://www.linkedin.com/in/isha-nair-0414/,college.edu,15,Maybe
+CAND0415,Arjun Iyer,Male,Kolkata,B.Sc Statistics,2027,0,Cognizant,https://www.linkedin.com/in/arjun-iyer-0415/,college.edu,60,Maybe
+CAND0416,Myra Agarwal,Female,Kolkata,MCA,2024,3,Wipro,https://www.linkedin.com/in/myra-agarwal-0416/,gmail.com,30,Yes
+CAND0417,Manav Nair,Male,Hyderabad,B.Sc Statistics,2025,0,Cognizant,https://www.linkedin.com/in/manav-nair-0417/,college.edu,30,No
+CAND0418,Rohan Saxena,Male,Gurugram,B.Tech ECE,2023,6,Accenture,https://www.linkedin.com/in/rohan-saxena-0418/,college.edu,90,Maybe
+CAND0419,Isha Sharma,Female,Noida,M.Sc Data Science,2026,3,HCLTech,https://www.linkedin.com/in/isha-sharma-0419/,outlook.com,0,Maybe
+CAND0420,Avni Patel,Female,Ahmedabad,MCA,2024,5,Accenture,https://www.linkedin.com/in/avni-patel-0420/,college.edu,15,No
+CAND0421,Aditya Malhotra,Male,Hyderabad,MBA HR,2027,2,Zoho,https://www.linkedin.com/in/aditya-malhotra-0421/,outlook.com,60,Yes
+CAND0422,Priya Kapoor,Female,Kolkata,B.Sc Statistics,2023,3,Capgemini,https://www.linkedin.com/in/priya-kapoor-0422/,gmail.com,15,No
+CAND0423,Meera Chopra,Female,Mumbai,B.Com,2027,0,HCLTech,https://www.linkedin.com/in/meera-chopra-0423/,company.com,45,Yes
+CAND0424,Tanvi Mehta,Female,Indore,MBA Analytics,2027,8,Student,https://www.linkedin.com/in/tanvi-mehta-0424/,college.edu,60,Maybe
+CAND0425,Aryan Malhotra,Male,Hyderabad,B.Tech ECE,2022,3,Deloitte,https://www.linkedin.com/in/aryan-malhotra-0425/,company.com,15,Maybe
+CAND0426,Aditi Patel,Female,Jaipur,B.Tech ECE,2022,6,Wipro,https://www.linkedin.com/in/aditi-patel-0426/,company.com,15,Yes
+CAND0427,Meera Verma,Female,Delhi,M.Sc Data Science,2024,1,Student,https://www.linkedin.com/in/meera-verma-0427/,gmail.com,90,Yes
+CAND0428,Tanvi Mehta,Female,Jaipur,MBA HR,2025,3,Zoho,https://www.linkedin.com/in/tanvi-mehta-0428/,outlook.com,90,No
+CAND0429,Aarohi Agarwal,Female,Kolkata,B.Tech ECE,2023,3,TCS,https://www.linkedin.com/in/aarohi-agarwal-0429/,outlook.com,0,Yes
+CAND0430,Priya Mishra,Female,Chennai,B.Tech CSE,2026,3,Student,https://www.linkedin.com/in/priya-mishra-0430/,college.edu,0,Yes
+CAND0431,Sakshi Patel,Female,Delhi,M.Sc Data Science,2025,1,Wipro,https://www.linkedin.com/in/sakshi-patel-0431/,outlook.com,60,Maybe
+CAND0432,Rohan Reddy,Male,Jaipur,MBA HR,2022,3,HCLTech,https://www.linkedin.com/in/rohan-reddy-0432/,company.com,15,Yes
+CAND0433,Shruti Mishra,Female,Ahmedabad,M.Sc Data Science,2023,2,Infosys,https://www.linkedin.com/in/shruti-mishra-0433/,outlook.com,45,Maybe
+CAND0434,Raghav Mishra,Male,Gurugram,B.Tech ECE,2026,0,TCS,https://www.linkedin.com/in/raghav-mishra-0434/,company.com,60,No
+CAND0435,Aarohi Mishra,Female,Chennai,MCA,2025,1,Capgemini,https://www.linkedin.com/in/aarohi-mishra-0435/,gmail.com,45,Yes
+CAND0436,Sanya Gupta,Female,Pune,MCA,2026,3,Deloitte,https://www.linkedin.com/in/sanya-gupta-0436/,outlook.com,0,Maybe
+CAND0437,Aarav Kapoor,Male,Noida,MBA HR,2027,0,Student,https://www.linkedin.com/in/aarav-kapoor-0437/,college.edu,45,No
+CAND0438,Neha Kapoor,Female,Pune,MCA,2026,1,Zoho,https://www.linkedin.com/in/neha-kapoor-0438/,college.edu,60,No
+CAND0439,Aryan Verma,Non-disclosed,Chennai,B.Sc Statistics,2026,2,Wipro,https://www.linkedin.com/in/aryan-verma-0439/,college.edu,60,Maybe
+CAND0440,Rahul Kapoor,Male,Hyderabad,BBA,2025,5,Startup,https://www.linkedin.com/in/rahul-kapoor-0440/,gmail.com,90,Yes
+CAND0441,Priya Mehta,Female,Mumbai,B.Tech ECE,2024,2,Zoho,https://www.linkedin.com/in/priya-mehta-0441/,gmail.com,15,No
+CAND0442,Aarav Gupta,Non-disclosed,Delhi,MCA,2026,2,Infosys,https://www.linkedin.com/in/aarav-gupta-0442/,gmail.com,30,Yes
+CAND0443,Jiya Jain,Female,Indore,M.Sc Data Science,2025,2,Startup,https://www.linkedin.com/in/jiya-jain-0443/,college.edu,90,Maybe
+CAND0444,Priya Patel,Female,Jaipur,MBA Analytics,2026,0,Accenture,https://www.linkedin.com/in/priya-patel-0444/,gmail.com,60,Maybe
+CAND0445,Kabir Saxena,Male,Delhi,MBA HR,2024,3,Startup,https://www.linkedin.com/in/kabir-saxena-0445/,gmail.com,15,Yes
+CAND0446,Aryan Chopra,Non-disclosed,Ahmedabad,MBA HR,2026,2,Freshworks,https://www.linkedin.com/in/aryan-chopra-0446/,gmail.com,90,Maybe
+CAND0447,Isha Das,Female,Pune,M.Sc Data Science,2026,4,Capgemini,https://www.linkedin.com/in/isha-das-0447/,college.edu,30,Yes
+CAND0448,Karan Joshi,Male,Chennai,BBA,2024,3,HCLTech,https://www.linkedin.com/in/karan-joshi-0448/,gmail.com,60,Yes
+CAND0449,Yash Mehta,Male,Noida,M.Sc Data Science,2026,8,Deloitte,https://www.linkedin.com/in/yash-mehta-0449/,company.com,45,Maybe
+CAND0450,Kabir Reddy,Male,Jaipur,B.Tech CSE,2026,4,Cognizant,https://www.linkedin.com/in/kabir-reddy-0450/,gmail.com,30,Yes
+CAND0451,Sanya Khan,Female,Hyderabad,B.Tech ECE,2024,2,Freshworks,https://www.linkedin.com/in/sanya-khan-0451/,gmail.com,90,No
+CAND0452,Isha Malhotra,Female,Ahmedabad,B.Tech IT,2024,4,Freshworks,https://www.linkedin.com/in/isha-malhotra-0452/,outlook.com,45,No
+CAND0453,Myra Nair,Female,Delhi,MBA HR,2027,7,Cognizant,https://www.linkedin.com/in/myra-nair-0453/,outlook.com,15,Maybe
+CAND0454,Meera Verma,Female,Mumbai,M.Sc Data Science,2023,1,Capgemini,https://www.linkedin.com/in/meera-verma-0454/,outlook.com,0,Yes
+CAND0455,Siddharth Saxena,Male,Bangalore,B.Tech CSE,2026,4,Cognizant,https://www.linkedin.com/in/siddharth-saxena-0455/,college.edu,60,No
+CAND0456,Ankit Nair,Male,Jaipur,MBA Analytics,2026,1,HCLTech,https://www.linkedin.com/in/ankit-nair-0456/,outlook.com,60,Yes
+CAND0457,Neha Patel,Female,Noida,BBA,2027,0,Cognizant,https://www.linkedin.com/in/neha-patel-0457/,gmail.com,90,Maybe
+CAND0458,Aarav Sharma,Male,Ahmedabad,B.Tech IT,2026,1,Capgemini,https://www.linkedin.com/in/aarav-sharma-0458/,college.edu,60,No
+CAND0459,Meera Khan,Female,Pune,B.Com,2026,2,Capgemini,https://www.linkedin.com/in/meera-khan-0459/,outlook.com,45,No
+CAND0460,Aditi Chopra,Female,Chennai,M.Sc Data Science,2023,1,Wipro,https://www.linkedin.com/in/aditi-chopra-0460/,outlook.com,0,Maybe
+CAND0461,Sanya Das,Female,Chennai,BBA,2023,6,Student,https://www.linkedin.com/in/sanya-das-0461/,outlook.com,45,Yes
+CAND0462,Sakshi Agarwal,Female,Ahmedabad,B.Com,2027,2,Cognizant,https://www.linkedin.com/in/sakshi-agarwal-0462/,college.edu,30,Maybe
+CAND0463,Vivaan Malhotra,Male,Gurugram,MBA HR,2022,4,Deloitte,https://www.linkedin.com/in/vivaan-malhotra-0463/,company.com,90,Yes
+CAND0464,Tanvi Nair,Female,Hyderabad,MBA Analytics,2026,1,Capgemini,https://www.linkedin.com/in/tanvi-nair-0464/,gmail.com,45,Yes
+CAND0465,Jiya Verma,Female,Kolkata,B.Tech ECE,2027,3,Wipro,https://www.linkedin.com/in/jiya-verma-0465/,college.edu,30,No
+CAND0466,Siddharth Joshi,Male,Gurugram,B.Sc Statistics,2024,2,Startup,https://www.linkedin.com/in/siddharth-joshi-0466/,outlook.com,15,Maybe
+CAND0467,Yash Bansal,Male,Ahmedabad,B.Tech IT,2025,3,Infosys,https://www.linkedin.com/in/yash-bansal-0467/,outlook.com,30,Yes
+CAND0468,Kavya Nair,Female,Kolkata,B.Sc Statistics,2024,3,Capgemini,https://www.linkedin.com/in/kavya-nair-0468/,company.com,45,Yes
+CAND0469,Ananya Agarwal,Female,Indore,B.Tech IT,2024,1,Accenture,https://www.linkedin.com/in/ananya-agarwal-0469/,outlook.com,45,Yes
+CAND0470,Sakshi Das,Female,Bangalore,B.Tech IT,2027,0,Infosys,https://www.linkedin.com/in/sakshi-das-0470/,college.edu,60,Yes
+CAND0471,Pooja Iyer,Female,Mumbai,B.Sc Statistics,2024,1,Startup,https://www.linkedin.com/in/pooja-iyer-0471/,outlook.com,15,Maybe
+CAND0472,Aarav Jain,Male,Ahmedabad,B.Sc Statistics,2024,1,Cognizant,https://www.linkedin.com/in/aarav-jain-0472/,college.edu,60,No
+CAND0473,Avni Singh,Female,Kolkata,M.Sc Data Science,2027,3,HCLTech,https://www.linkedin.com/in/avni-singh-0473/,college.edu,30,No
+CAND0474,Aditya Joshi,Male,Pune,BBA,2024,1,Deloitte,https://www.linkedin.com/in/aditya-joshi-0474/,gmail.com,0,Maybe
+CAND0475,Krishna Chopra,Male,Pune,B.Sc Statistics,2022,2,Cognizant,https://www.linkedin.com/in/krishna-chopra-0475/,college.edu,0,No
+CAND0476,Dhruv Khan,Male,Bangalore,MCA,2023,2,Freshworks,https://www.linkedin.com/in/dhruv-khan-0476/,company.com,45,Yes
+CAND0477,Pooja Malhotra,Female,Mumbai,MBA HR,2025,1,Freshworks,https://www.linkedin.com/in/pooja-malhotra-0477/,college.edu,30,Maybe
+CAND0478,Ishaan Bansal,Male,Mumbai,BBA,2023,6,Deloitte,https://www.linkedin.com/in/ishaan-bansal-0478/,gmail.com,90,No
+CAND0479,Ishaan Saxena,Male,Jaipur,BBA,2022,1,TCS,https://www.linkedin.com/in/ishaan-saxena-0479/,gmail.com,15,Yes
+CAND0480,Nisha Joshi,Female,Indore,B.Tech CSE,2027,0,Cognizant,https://www.linkedin.com/in/nisha-joshi-0480/,outlook.com,30,No
+CAND0481,Sakshi Chopra,Female,Jaipur,B.Com,2022,4,Infosys,https://www.linkedin.com/in/sakshi-chopra-0481/,outlook.com,0,No
+CAND0482,Aditya Das,Male,Jaipur,MCA,2024,1,TCS,https://www.linkedin.com/in/aditya-das-0482/,gmail.com,90,Yes
+CAND0483,Radhika Khan,Female,Indore,B.Sc Statistics,2023,8,Student,https://www.linkedin.com/in/radhika-khan-0483/,gmail.com,60,Maybe
+CAND0484,Siddharth Malhotra,Non-disclosed,Ahmedabad,BBA,2024,8,Startup,https://www.linkedin.com/in/siddharth-malhotra-0484/,gmail.com,90,Maybe
+CAND0485,Ishaan Patel,Male,Ahmedabad,B.Tech CSE,2024,1,Startup,https://www.linkedin.com/in/ishaan-patel-0485/,outlook.com,0,Yes
+CAND0486,Yash Sharma,Male,Delhi,B.Tech IT,2026,5,HCLTech,https://www.linkedin.com/in/yash-sharma-0486/,outlook.com,0,Yes
+CAND0487,Siddharth Saxena,Male,Delhi,MBA HR,2022,1,Wipro,https://www.linkedin.com/in/siddharth-saxena-0487/,company.com,0,Maybe
+CAND0488,Vivaan Jain,Male,Hyderabad,B.Tech ECE,2027,3,Infosys,https://www.linkedin.com/in/vivaan-jain-0488/,outlook.com,45,Yes
+CAND0489,Avni Chopra,Female,Jaipur,MCA,2022,4,Capgemini,https://www.linkedin.com/in/avni-chopra-0489/,outlook.com,30,Yes
+CAND0490,Nikhil Das,Male,Pune,MBA HR,2025,2,Zoho,https://www.linkedin.com/in/nikhil-das-0490/,outlook.com,60,No
+CAND0491,Radhika Nair,Female,Kolkata,BBA,2026,7,Infosys,https://www.linkedin.com/in/radhika-nair-0491/,outlook.com,45,No
+CAND0492,Raghav Chopra,Male,Jaipur,MCA,2027,0,Student,https://www.linkedin.com/in/raghav-chopra-0492/,outlook.com,0,Maybe
+CAND0493,Dhruv Khan,Male,Hyderabad,B.Tech ECE,2027,4,HCLTech,https://www.linkedin.com/in/dhruv-khan-0493/,outlook.com,60,Maybe
+CAND0494,Raghav Agarwal,Male,Kolkata,B.Com,2025,1,Infosys,https://www.linkedin.com/in/raghav-agarwal-0494/,gmail.com,60,Maybe
+CAND0495,Nisha Singh,Female,Bangalore,MBA HR,2025,1,Infosys,https://www.linkedin.com/in/nisha-singh-0495/,gmail.com,60,Maybe
+CAND0496,Siddharth Mishra,Male,Kolkata,B.Tech CSE,2024,4,Capgemini,https://www.linkedin.com/in/siddharth-mishra-0496/,outlook.com,60,Maybe
+CAND0497,Riya Patel,Female,Gurugram,B.Tech CSE,2027,2,Capgemini,https://www.linkedin.com/in/riya-patel-0497/,company.com,30,Maybe
+CAND0498,Jiya Nair,Female,Noida,MBA Analytics,2027,0,Infosys,https://www.linkedin.com/in/jiya-nair-0498/,outlook.com,60,Yes
+CAND0499,Sanya Das,Female,Chennai,MBA HR,2026,1,Zoho,https://www.linkedin.com/in/sanya-das-0499/,outlook.com,60,Maybe
+CAND0500,Arjun Kapoor,Male,Hyderabad,MCA,2027,3,Infosys,https://www.linkedin.com/in/arjun-kapoor-0500/,outlook.com,15,Maybe

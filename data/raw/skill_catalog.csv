@@ -1,0 +1,21 @@
+skill_id,skill_name,skill_category,business_priority
+SK001,SQL,Data,5
+SK002,Excel,Analytics,5
+SK003,Power BI,Visualization,5
+SK004,Python,Programming,5
+SK005,Pandas,Data,4
+SK006,Data Cleaning,Analytics,4
+SK007,Dashboarding,Visualization,4
+SK008,Recruitment Analytics,HR Tech,5
+SK009,Talent Intelligence,HR Tech,4
+SK010,Automation,Engineering,4
+SK011,Power Automate,Automation,3
+SK012,APIs,Engineering,3
+SK013,Machine Learning,AI,4
+SK014,LLMs,AI,3
+SK015,Communication,Business,5
+SK016,Problem Solving,Core,5
+SK017,Market Research,Research,4
+SK018,DAX,Visualization,4
+SK019,ETL,Data,4
+SK020,Statistics,Analytics,4

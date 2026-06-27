@@ -1,0 +1,11 @@
+source_id,source_name,source_type
+SRC001,LinkedIn,Social
+SRC002,Campus Placement Cell,Campus
+SRC003,Employee Referral,Referral
+SRC004,Job Portal,Job Board
+SRC005,Company Careers Page,Owned
+SRC006,GitHub Search,Technical Community
+SRC007,Hackathon/Unstop,Campus Community
+SRC008,Recruiter Outreach,Outbound
+SRC009,Alumni Referral,Referral
+SRC010,LinkedIn Talent Insights,Market Intelligence

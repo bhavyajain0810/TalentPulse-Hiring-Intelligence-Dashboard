@@ -1,0 +1,21 @@
+skill_name,applicant_count,shortlisted_count,hire_count,shortlist_rate,hire_rate
+SQL,514,432,103,0.8405,0.2004
+Python,471,397,94,0.8429,0.1996
+Excel,455,385,81,0.8462,0.178
+Recruitment Analytics,254,210,52,0.8268,0.2047
+Power BI,236,196,42,0.8305,0.178
+Pandas,234,197,44,0.8419,0.188
+Dashboarding,229,178,43,0.7773,0.1878
+Market Research,228,201,44,0.8816,0.193
+Power Automate,224,185,36,0.8259,0.1607
+LLMs,210,180,32,0.8571,0.1524
+DAX,207,166,44,0.8019,0.2126
+Data Cleaning,205,161,36,0.7854,0.1756
+Communication,205,174,37,0.8488,0.1805
+Machine Learning,201,176,37,0.8756,0.1841
+Automation,200,157,45,0.785,0.225
+Problem Solving,200,162,41,0.81,0.205
+Statistics,191,167,41,0.8743,0.2147
+APIs,187,158,39,0.8449,0.2086
+ETL,182,151,29,0.8297,0.1593
+Talent Intelligence,176,145,33,0.8239,0.1875
